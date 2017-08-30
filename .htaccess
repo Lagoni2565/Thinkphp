@@ -1,0 +1,16 @@
+<IfModule mod_rewrite.c>
+  Options +FollowSymlinks
+  RewriteEngine On
+   #將購物車 url隱藏
+  RewriteRule ^(index.html)$ /Home/Index/index
+  RewriteRule ^(cart.html)$ /Home/Cart/cart
+  RewriteRule ^(login.html)$ /Home/User/login
+  RewriteRule ^(register.html)$ /Home/User/register
+  RewriteRule ^(logout.html)$ /Home/User/logout
+
+  RewriteCond %{REQUEST_FILENAME} !-d
+  RewriteCond %{REQUEST_FILENAME} !-f
+  #隐藏入口文件
+  RewriteRule ^(.*)$ index.php?s=$1 [QSA,PT,L]
+ 
+</IfModule>
