@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Document</title>
+</head>
+<body>
+<hr>
+系统变量：<br>
+
+<hr>
+    姓名：{$name|default='zhenzhen'}<br><!--没有传值设置默认-->
+   	性别：<if condition =" $person['sex'] eq 1 ">男<else/>女</if>
+
+    <table border="1"  width="50%" rules="all">
+    	<tr>
+    		<td>遍历次数</td>
+    		<td>ID</td>
+    		<td>商品名称</td>
+    		<td>添加时间</td>
+    	</tr>
+    	<volist name='data' id="vol" key="k"  >
+    		<tr>
+    			<td>{$k}</td>
+    			<td>{$vol.id}</td>
+    			<td>{$vol.goods_name}</td>
+    			<td>{$vol.goods_time|date="Y-m-d H:i:s",###}</td>
+    		</tr>
+    	</volist>
+    </table>
+</body>
+</html>

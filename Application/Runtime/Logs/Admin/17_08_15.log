@@ -1,0 +1,868 @@
+[ 2017-08-15T15:06:18+08:00 ] 127.0.0.1 /index.php/Admin/Login/ajaxlogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000618s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000923s ]
+NOTIC: [8] Undefined variable: verify E:\php\tpshop\Application\Admin\Controller\LoginController.class.php 第 67 行.
+
+[ 2017-08-15T15:06:22+08:00 ] 127.0.0.1 /index.php/Admin/Login/ajaxlogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000721s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001082s ]
+NOTIC: [8] Undefined variable: verify E:\php\tpshop\Application\Admin\Controller\LoginController.class.php 第 67 行.
+
+[ 2017-08-15T15:07:03+08:00 ] 127.0.0.1 /index.php/Admin/Login/ajaxlogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000933s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001322s ]
+NOTIC: [8] Undefined variable: verify E:\php\tpshop\Application\Admin\Controller\LoginController.class.php 第 67 行.
+
+[ 2017-08-15T15:07:05+08:00 ] 127.0.0.1 /index.php/Admin/Login/ajaxlogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001099s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001660s ]
+NOTIC: [8] Undefined variable: verify E:\php\tpshop\Application\Admin\Controller\LoginController.class.php 第 67 行.
+
+[ 2017-08-15T15:07:05+08:00 ] 127.0.0.1 /index.php/Admin/Login/ajaxlogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000717s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001070s ]
+NOTIC: [8] Undefined variable: verify E:\php\tpshop\Application\Admin\Controller\LoginController.class.php 第 67 行.
+
+[ 2017-08-15T15:07:05+08:00 ] 127.0.0.1 /index.php/Admin/Login/ajaxlogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000759s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001137s ]
+NOTIC: [8] Undefined variable: verify E:\php\tpshop\Application\Admin\Controller\LoginController.class.php 第 67 行.
+
+[ 2017-08-15T15:07:06+08:00 ] 127.0.0.1 /index.php/Admin/Login/ajaxlogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000606s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000914s ]
+NOTIC: [8] Undefined variable: verify E:\php\tpshop\Application\Admin\Controller\LoginController.class.php 第 67 行.
+
+[ 2017-08-15T15:07:06+08:00 ] 127.0.0.1 /index.php/Admin/Login/ajaxlogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000717s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001068s ]
+NOTIC: [8] Undefined variable: verify E:\php\tpshop\Application\Admin\Controller\LoginController.class.php 第 67 行.
+
+[ 2017-08-15T15:07:07+08:00 ] 127.0.0.1 /index.php/Admin/Login/ajaxlogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000721s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001138s ]
+NOTIC: [8] Undefined variable: verify E:\php\tpshop\Application\Admin\Controller\LoginController.class.php 第 67 行.
+
+[ 2017-08-15T15:12:21+08:00 ] 127.0.0.1 /index.php/Admin/Login/ajaxlogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000731s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001098s ]
+NOTIC: [8] Undefined variable: verify E:\php\tpshop\Application\Admin\Controller\LoginController.class.php 第 67 行.
+
+[ 2017-08-15T15:12:23+08:00 ] 127.0.0.1 /index.php/Admin/Login/ajaxlogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000765s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001142s ]
+NOTIC: [8] Undefined variable: verify E:\php\tpshop\Application\Admin\Controller\LoginController.class.php 第 67 行.
+
+[ 2017-08-15T15:12:23+08:00 ] 127.0.0.1 /index.php/Admin/Login/ajaxlogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000720s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001081s ]
+NOTIC: [8] Undefined variable: verify E:\php\tpshop\Application\Admin\Controller\LoginController.class.php 第 67 行.
+
+[ 2017-08-15T15:12:23+08:00 ] 127.0.0.1 /index.php/Admin/Login/ajaxlogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000592s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000914s ]
+NOTIC: [8] Undefined variable: verify E:\php\tpshop\Application\Admin\Controller\LoginController.class.php 第 67 行.
+
+[ 2017-08-15T15:12:24+08:00 ] 127.0.0.1 /index.php/Admin/Login/ajaxlogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000658s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001009s ]
+NOTIC: [8] Undefined variable: verify E:\php\tpshop\Application\Admin\Controller\LoginController.class.php 第 67 行.
+
+[ 2017-08-15T15:12:24+08:00 ] 127.0.0.1 /index.php/Admin/Login/ajaxlogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000926s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001325s ]
+NOTIC: [8] Undefined variable: verify E:\php\tpshop\Application\Admin\Controller\LoginController.class.php 第 67 行.
+
+[ 2017-08-15T15:12:25+08:00 ] 127.0.0.1 /index.php/Admin/Login/ajaxlogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000725s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001086s ]
+NOTIC: [8] Undefined variable: verify E:\php\tpshop\Application\Admin\Controller\LoginController.class.php 第 67 行.
+
+[ 2017-08-15T15:12:26+08:00 ] 127.0.0.1 /index.php/Admin/Login/ajaxlogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000653s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001018s ]
+NOTIC: [8] Undefined variable: verify E:\php\tpshop\Application\Admin\Controller\LoginController.class.php 第 67 行.
+
+[ 2017-08-15T15:12:27+08:00 ] 127.0.0.1 /index.php/Admin/Login/ajaxlogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000734s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001109s ]
+NOTIC: [8] Undefined variable: verify E:\php\tpshop\Application\Admin\Controller\LoginController.class.php 第 67 行.
+
+[ 2017-08-15T15:12:27+08:00 ] 127.0.0.1 /index.php/Admin/Login/ajaxlogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000722s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001078s ]
+NOTIC: [8] Undefined variable: verify E:\php\tpshop\Application\Admin\Controller\LoginController.class.php 第 67 行.
+
+[ 2017-08-15T15:12:27+08:00 ] 127.0.0.1 /index.php/Admin/Login/ajaxlogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000718s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001076s ]
+NOTIC: [8] Undefined variable: verify E:\php\tpshop\Application\Admin\Controller\LoginController.class.php 第 67 行.
+
+[ 2017-08-15T15:12:35+08:00 ] 127.0.0.1 /index.php/Admin/Login/ajaxlogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000715s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001067s ]
+NOTIC: [8] Undefined variable: verify E:\php\tpshop\Application\Admin\Controller\LoginController.class.php 第 67 行.
+
+[ 2017-08-15T15:12:36+08:00 ] 127.0.0.1 /index.php/Admin/Login/ajaxlogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000722s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001111s ]
+NOTIC: [8] Undefined variable: verify E:\php\tpshop\Application\Admin\Controller\LoginController.class.php 第 67 行.
+
+[ 2017-08-15T15:13:02+08:00 ] 127.0.0.1 /index.php/Admin/Login/ajaxlogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000746s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001121s ]
+NOTIC: [8] Undefined variable: verify E:\php\tpshop\Application\Admin\Controller\LoginController.class.php 第 67 行.
+
+[ 2017-08-15T15:13:03+08:00 ] 127.0.0.1 /index.php/Admin/Login/ajaxlogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000717s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001068s ]
+NOTIC: [8] Undefined variable: verify E:\php\tpshop\Application\Admin\Controller\LoginController.class.php 第 67 行.
+
+[ 2017-08-15T15:13:03+08:00 ] 127.0.0.1 /index.php/Admin/Login/ajaxlogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000731s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001101s ]
+NOTIC: [8] Undefined variable: verify E:\php\tpshop\Application\Admin\Controller\LoginController.class.php 第 67 行.
+
+[ 2017-08-15T15:13:04+08:00 ] 127.0.0.1 /index.php/Admin/Login/ajaxlogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000708s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001058s ]
+NOTIC: [8] Undefined variable: verify E:\php\tpshop\Application\Admin\Controller\LoginController.class.php 第 67 行.
+
+[ 2017-08-15T15:13:04+08:00 ] 127.0.0.1 /index.php/Admin/Login/ajaxlogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000737s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001088s ]
+NOTIC: [8] Undefined variable: verify E:\php\tpshop\Application\Admin\Controller\LoginController.class.php 第 67 行.
+
+[ 2017-08-15T15:13:04+08:00 ] 127.0.0.1 /index.php/Admin/Login/ajaxlogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000721s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001075s ]
+NOTIC: [8] Undefined variable: verify E:\php\tpshop\Application\Admin\Controller\LoginController.class.php 第 67 行.
+
+[ 2017-08-15T15:18:45+08:00 ] 127.0.0.1 /index.php/Admin/Login/ajaxlogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000709s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001066s ]
+NOTIC: [8] Undefined variable: verify E:\php\tpshop\Application\Admin\Controller\LoginController.class.php 第 67 行.
+
+[ 2017-08-15T15:18:46+08:00 ] 127.0.0.1 /index.php/Admin/Login/ajaxlogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000621s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000944s ]
+NOTIC: [8] Undefined variable: verify E:\php\tpshop\Application\Admin\Controller\LoginController.class.php 第 67 行.
+
+[ 2017-08-15T15:18:47+08:00 ] 127.0.0.1 /index.php/Admin/Login/ajaxlogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000720s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001087s ]
+NOTIC: [8] Undefined variable: verify E:\php\tpshop\Application\Admin\Controller\LoginController.class.php 第 67 行.
+
+[ 2017-08-15T15:18:47+08:00 ] 127.0.0.1 /index.php/Admin/Login/ajaxlogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001090s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001645s ]
+NOTIC: [8] Undefined variable: verify E:\php\tpshop\Application\Admin\Controller\LoginController.class.php 第 67 行.
+
+[ 2017-08-15T15:18:47+08:00 ] 127.0.0.1 /index.php/Admin/Login/ajaxlogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000722s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001076s ]
+NOTIC: [8] Undefined variable: verify E:\php\tpshop\Application\Admin\Controller\LoginController.class.php 第 67 行.
+
+[ 2017-08-15T15:18:47+08:00 ] 127.0.0.1 /index.php/Admin/Login/ajaxlogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000769s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001123s ]
+NOTIC: [8] Undefined variable: verify E:\php\tpshop\Application\Admin\Controller\LoginController.class.php 第 67 行.
+
+[ 2017-08-15T15:18:47+08:00 ] 127.0.0.1 /index.php/Admin/Login/ajaxlogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000721s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001078s ]
+NOTIC: [8] Undefined variable: verify E:\php\tpshop\Application\Admin\Controller\LoginController.class.php 第 67 行.
+
+[ 2017-08-15T15:18:48+08:00 ] 127.0.0.1 /index.php/Admin/Login/ajaxlogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000817s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001370s ]
+NOTIC: [8] Undefined variable: verify E:\php\tpshop\Application\Admin\Controller\LoginController.class.php 第 67 行.
+
+[ 2017-08-15T15:18:48+08:00 ] 127.0.0.1 /index.php/Admin/Login/ajaxlogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000708s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001067s ]
+NOTIC: [8] Undefined variable: verify E:\php\tpshop\Application\Admin\Controller\LoginController.class.php 第 67 行.
+
+[ 2017-08-15T15:18:48+08:00 ] 127.0.0.1 /index.php/Admin/Login/ajaxlogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001015s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001398s ]
+NOTIC: [8] Undefined variable: verify E:\php\tpshop\Application\Admin\Controller\LoginController.class.php 第 67 行.
+
+[ 2017-08-15T15:19:19+08:00 ] 127.0.0.1 /index.php/Admin/Login/ajaxlogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000645s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000973s ]
+NOTIC: [8] Undefined variable: verify E:\php\tpshop\Application\Admin\Controller\LoginController.class.php 第 67 行.
+
+[ 2017-08-15T15:19:27+08:00 ] 127.0.0.1 /index.php/Admin/Login/ajaxlogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000912s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001337s ]
+NOTIC: [8] Undefined variable: verify E:\php\tpshop\Application\Admin\Controller\LoginController.class.php 第 67 行.
+
+[ 2017-08-15T15:20:52+08:00 ] 127.0.0.1 /index.php/Admin/Login/ajaxlogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001173s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001759s ]
+NOTIC: [8] Undefined variable: verify E:\php\tpshop\Application\Admin\Controller\LoginController.class.php 第 67 行.
+
+[ 2017-08-15T15:20:55+08:00 ] 127.0.0.1 /index.php/Admin/Login/ajaxlogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000788s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001261s ]
+NOTIC: [8] Undefined variable: verify E:\php\tpshop\Application\Admin\Controller\LoginController.class.php 第 67 行.
+
+[ 2017-08-15T15:20:56+08:00 ] 127.0.0.1 /index.php/Admin/Login/ajaxlogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001033s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001567s ]
+NOTIC: [8] Undefined variable: verify E:\php\tpshop\Application\Admin\Controller\LoginController.class.php 第 67 行.
+
+[ 2017-08-15T15:20:59+08:00 ] 127.0.0.1 /index.php/Admin/Login/ajaxlogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000800s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001206s ]
+NOTIC: [8] Undefined variable: verify E:\php\tpshop\Application\Admin\Controller\LoginController.class.php 第 67 行.
+
+[ 2017-08-15T15:21:47+08:00 ] 127.0.0.1 /index.php/Admin/Login/ajaxlogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000891s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001271s ]
+NOTIC: [8] Undefined variable: verify E:\php\tpshop\Application\Admin\Controller\LoginController.class.php 第 67 行.
+
+[ 2017-08-15T15:21:54+08:00 ] 127.0.0.1 /index.php/Admin/Login/ajaxlogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000809s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001231s ]
+NOTIC: [8] Undefined variable: verify E:\php\tpshop\Application\Admin\Controller\LoginController.class.php 第 67 行.
+
+[ 2017-08-15T15:21:54+08:00 ] 127.0.0.1 /index.php/Admin/Login/ajaxlogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000663s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000998s ]
+NOTIC: [8] Undefined variable: verify E:\php\tpshop\Application\Admin\Controller\LoginController.class.php 第 67 行.
+
+[ 2017-08-15T15:21:54+08:00 ] 127.0.0.1 /index.php/Admin/Login/ajaxlogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000751s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001171s ]
+NOTIC: [8] Undefined variable: verify E:\php\tpshop\Application\Admin\Controller\LoginController.class.php 第 67 行.
+
+[ 2017-08-15T15:21:55+08:00 ] 127.0.0.1 /index.php/Admin/Login/ajaxlogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000725s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001079s ]
+NOTIC: [8] Undefined variable: verify E:\php\tpshop\Application\Admin\Controller\LoginController.class.php 第 67 行.
+
+[ 2017-08-15T15:21:55+08:00 ] 127.0.0.1 /index.php/Admin/Login/ajaxlogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000608s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000897s ]
+NOTIC: [8] Undefined variable: verify E:\php\tpshop\Application\Admin\Controller\LoginController.class.php 第 67 行.
+
+[ 2017-08-15T15:23:29+08:00 ] 127.0.0.1 /index.php/Admin/Login/ajaxlogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000789s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001180s ]
+NOTIC: [8] Undefined variable: verify E:\php\tpshop\Application\Admin\Controller\LoginController.class.php 第 67 行.
+
+[ 2017-08-15T15:23:50+08:00 ] 127.0.0.1 /index.php/Admin/Login/ajaxlogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000714s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001072s ]
+NOTIC: [8] Undefined variable: verify E:\php\tpshop\Application\Admin\Controller\LoginController.class.php 第 67 行.
+
+[ 2017-08-15T15:24:04+08:00 ] 127.0.0.1 /index.php/Admin/Login/ajaxlogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000813s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001234s ]
+NOTIC: [8] Undefined variable: verify E:\php\tpshop\Application\Admin\Controller\LoginController.class.php 第 67 行.
+
+[ 2017-08-15T15:25:25+08:00 ] 127.0.0.1 /index.php/Admin/Login/ajaxlogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001242s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001871s ]
+NOTIC: [8] Undefined variable: verify E:\php\tpshop\Application\Admin\Controller\LoginController.class.php 第 67 行.
+
+[ 2017-08-15T15:25:31+08:00 ] 127.0.0.1 /index.php/Admin/Login/ajaxlogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001042s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001642s ]
+NOTIC: [8] Undefined variable: verify E:\php\tpshop\Application\Admin\Controller\LoginController.class.php 第 67 行.
+
+[ 2017-08-15T15:27:18+08:00 ] 127.0.0.1 /index.php/Admin/Login/ajaxlogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001209s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001880s ]
+NOTIC: [8] Undefined variable: verify E:\php\tpshop\Application\Admin\Controller\LoginController.class.php 第 67 行.
+
+[ 2017-08-15T15:28:31+08:00 ] 127.0.0.1 /index.php/Admin/Login/ajaxlogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000649s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000977s ]
+NOTIC: [8] Undefined variable: verify E:\php\tpshop\Application\Admin\Controller\LoginController.class.php 第 67 行.
+
+[ 2017-08-15T15:28:32+08:00 ] 127.0.0.1 /index.php/Admin/Login/ajaxlogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000799s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001177s ]
+NOTIC: [8] Undefined variable: verify E:\php\tpshop\Application\Admin\Controller\LoginController.class.php 第 67 行.
+
+[ 2017-08-15T15:28:33+08:00 ] 127.0.0.1 /index.php/Admin/Login/ajaxlogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000725s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001103s ]
+NOTIC: [8] Undefined variable: verify E:\php\tpshop\Application\Admin\Controller\LoginController.class.php 第 67 行.
+
+[ 2017-08-15T15:28:33+08:00 ] 127.0.0.1 /index.php/Admin/Login/ajaxlogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000640s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000928s ]
+NOTIC: [8] Undefined variable: verify E:\php\tpshop\Application\Admin\Controller\LoginController.class.php 第 67 行.
+
+[ 2017-08-15T15:28:33+08:00 ] 127.0.0.1 /index.php/Admin/Login/ajaxlogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000926s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001617s ]
+NOTIC: [8] Undefined variable: verify E:\php\tpshop\Application\Admin\Controller\LoginController.class.php 第 67 行.
+
+[ 2017-08-15T15:28:33+08:00 ] 127.0.0.1 /index.php/Admin/Login/ajaxlogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000730s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001105s ]
+NOTIC: [8] Undefined variable: verify E:\php\tpshop\Application\Admin\Controller\LoginController.class.php 第 67 行.
+
+[ 2017-08-15T15:28:33+08:00 ] 127.0.0.1 /index.php/Admin/Login/ajaxlogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000575s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000902s ]
+NOTIC: [8] Undefined variable: verify E:\php\tpshop\Application\Admin\Controller\LoginController.class.php 第 67 行.
+
+[ 2017-08-15T15:28:34+08:00 ] 127.0.0.1 /index.php/Admin/Login/ajaxlogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000717s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001072s ]
+NOTIC: [8] Undefined variable: verify E:\php\tpshop\Application\Admin\Controller\LoginController.class.php 第 67 行.
+
+[ 2017-08-15T15:28:58+08:00 ] 127.0.0.1 /index.php/Admin/Login/ajaxlogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000719s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001129s ]
+NOTIC: [8] Undefined variable: verify E:\php\tpshop\Application\Admin\Controller\LoginController.class.php 第 67 行.
+
+[ 2017-08-15T15:29:00+08:00 ] 127.0.0.1 /index.php/Admin/Login/ajaxlogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000657s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000994s ]
+NOTIC: [8] Undefined variable: verify E:\php\tpshop\Application\Admin\Controller\LoginController.class.php 第 67 行.
+
+[ 2017-08-15T15:38:09+08:00 ] 127.0.0.1 /index.php/Admin/Login/ajaxlogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000752s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001116s ]
+NOTIC: [8] Undefined variable: verify E:\php\tpshop\Application\Admin\Controller\LoginController.class.php 第 67 行.
+
+[ 2017-08-15T15:38:18+08:00 ] 127.0.0.1 /index.php/Admin/Login/ajaxlogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000904s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001361s ]
+NOTIC: [8] Undefined variable: verify E:\php\tpshop\Application\Admin\Controller\LoginController.class.php 第 67 行.
+
+[ 2017-08-15T15:38:18+08:00 ] 127.0.0.1 /index.php/Admin/Login/ajaxlogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000721s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001080s ]
+NOTIC: [8] Undefined variable: verify E:\php\tpshop\Application\Admin\Controller\LoginController.class.php 第 67 行.
+
+[ 2017-08-15T15:38:18+08:00 ] 127.0.0.1 /index.php/Admin/Login/ajaxlogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000585s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000955s ]
+NOTIC: [8] Undefined variable: verify E:\php\tpshop\Application\Admin\Controller\LoginController.class.php 第 67 行.
+
+[ 2017-08-15T15:38:19+08:00 ] 127.0.0.1 /index.php/Admin/Login/ajaxlogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000714s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001080s ]
+NOTIC: [8] Undefined variable: verify E:\php\tpshop\Application\Admin\Controller\LoginController.class.php 第 67 行.
+
+[ 2017-08-15T15:38:19+08:00 ] 127.0.0.1 /index.php/Admin/Login/ajaxlogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000727s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001101s ]
+NOTIC: [8] Undefined variable: verify E:\php\tpshop\Application\Admin\Controller\LoginController.class.php 第 67 行.
+
+[ 2017-08-15T15:38:19+08:00 ] 127.0.0.1 /index.php/Admin/Login/ajaxlogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000754s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001123s ]
+NOTIC: [8] Undefined variable: verify E:\php\tpshop\Application\Admin\Controller\LoginController.class.php 第 67 行.
+
+[ 2017-08-15T15:38:19+08:00 ] 127.0.0.1 /index.php/Admin/Login/ajaxlogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000723s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001156s ]
+NOTIC: [8] Undefined variable: verify E:\php\tpshop\Application\Admin\Controller\LoginController.class.php 第 67 行.
+
+[ 2017-08-15T15:38:19+08:00 ] 127.0.0.1 /index.php/Admin/Login/ajaxlogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000668s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000989s ]
+NOTIC: [8] Undefined variable: verify E:\php\tpshop\Application\Admin\Controller\LoginController.class.php 第 67 行.
+
+[ 2017-08-15T15:38:37+08:00 ] 127.0.0.1 /index.php/Admin/Login/ajaxlogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000747s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001253s ]
+NOTIC: [8] Undefined variable: verify E:\php\tpshop\Application\Admin\Controller\LoginController.class.php 第 67 行.
+
+[ 2017-08-15T15:39:16+08:00 ] 127.0.0.1 /index.php/Admin/Login/ajaxlogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000862s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001245s ]
+NOTIC: [8] Undefined variable: verify E:\php\tpshop\Application\Admin\Controller\LoginController.class.php 第 68 行.
+
+[ 2017-08-15T15:39:40+08:00 ] 127.0.0.1 /index.php/Admin/Login/ajaxlogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000745s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001153s ]
+NOTIC: [8] Undefined variable: verify E:\php\tpshop\Application\Admin\Controller\LoginController.class.php 第 68 行.
+
+[ 2017-08-15T15:39:56+08:00 ] 127.0.0.1 /index.php/Admin/Login/ajaxlogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000788s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001215s ]
+NOTIC: [8] Undefined variable: verify E:\php\tpshop\Application\Admin\Controller\LoginController.class.php 第 68 行.
+
+[ 2017-08-15T15:40:20+08:00 ] 127.0.0.1 /index.php/Admin/Login/ajaxlogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000761s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001151s ]
+NOTIC: [8] Undefined variable: verify E:\php\tpshop\Application\Admin\Controller\LoginController.class.php 第 68 行.
+
+[ 2017-08-15T15:40:31+08:00 ] 127.0.0.1 /index.php/Admin/Login/ajaxlogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000760s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001121s ]
+NOTIC: [8] Undefined variable: verify E:\php\tpshop\Application\Admin\Controller\LoginController.class.php 第 68 行.
+
+[ 2017-08-15T15:40:32+08:00 ] 127.0.0.1 /index.php/Admin/Login/ajaxlogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000725s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001091s ]
+NOTIC: [8] Undefined variable: verify E:\php\tpshop\Application\Admin\Controller\LoginController.class.php 第 68 行.
+
+[ 2017-08-15T15:40:33+08:00 ] 127.0.0.1 /index.php/Admin/Login/ajaxlogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000883s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001403s ]
+NOTIC: [8] Undefined variable: verify E:\php\tpshop\Application\Admin\Controller\LoginController.class.php 第 68 行.
+
+[ 2017-08-15T15:40:33+08:00 ] 127.0.0.1 /index.php/Admin/Login/ajaxlogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000819s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001185s ]
+NOTIC: [8] Undefined variable: verify E:\php\tpshop\Application\Admin\Controller\LoginController.class.php 第 68 行.
+
+[ 2017-08-15T21:17:35+08:00 ] 127.0.0.1 /index.php/Admin/Login/ajaxlogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000642s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000976s ]
+SQL: SHOW COLUMNS FROM `tpshop_manager` [ RunTime:1.4242s ]
+SQL: SELECT * FROM `tpshop_manager` WHERE `username` = 'admin' LIMIT 1   [ RunTime:0.4502s ]
+NOTIC: [8] Undefined variable: mananger E:\php\tpshop\Application\Admin\Controller\LoginController.class.php 第 83 行.
+
+[ 2017-08-15T21:17:35+08:00 ] 127.0.0.1 /index.php/Admin/Login/ajaxlogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000574s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000855s ]
+
+[ 2017-08-15T21:18:54+08:00 ] 127.0.0.1 /index.php/Admin/Login/ajaxlogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000763s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001120s ]
+SQL: SHOW COLUMNS FROM `tpshop_manager` [ RunTime:0.0196s ]
+SQL: SELECT * FROM `tpshop_manager` WHERE `username` = 'admin' LIMIT 1   [ RunTime:0.0007s ]
+NOTIC: [8] Undefined variable: passwword E:\php\tpshop\Application\Common\Common\str.php 第 6 行.
+
+[ 2017-08-15T21:18:54+08:00 ] 127.0.0.1 /index.php/Admin/Login/ajaxlogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000795s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001197s ]
+
+[ 2017-08-15T21:19:20+08:00 ] 127.0.0.1 /index.php/Admin/Login/ajaxlogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000650s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000967s ]
+SQL: SHOW COLUMNS FROM `tpshop_manager` [ RunTime:0.0121s ]
+SQL: SELECT * FROM `tpshop_manager` WHERE `username` = 'admin' LIMIT 1   [ RunTime:0.0006s ]
+NOTIC: [8] Undefined variable: mananger E:\php\tpshop\Application\Admin\Controller\LoginController.class.php 第 83 行.
+
+[ 2017-08-15T21:19:22+08:00 ] 127.0.0.1 /index.php/Admin/Login/ajaxlogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000728s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001100s ]
+
+[ 2017-08-15T21:19:23+08:00 ] 127.0.0.1 /index.php/Admin/Login/ajaxlogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000723s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001085s ]
+
+[ 2017-08-15T21:23:17+08:00 ] 127.0.0.1 /index.php/Admin/Login/ajaxlogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000782s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001170s ]
+
+[ 2017-08-15T21:23:30+08:00 ] 127.0.0.1 /index.php/Admin/Login/ajaxlogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000720s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001075s ]
+
+[ 2017-08-15T21:24:39+08:00 ] 127.0.0.1 /index.php/Admin/Login/ajaxlogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000721s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001078s ]
+
+[ 2017-08-15T21:24:57+08:00 ] 127.0.0.1 /index.php/Admin/Login/ajaxlogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000712s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001065s ]
+
+[ 2017-08-15T21:27:43+08:00 ] 127.0.0.1 /index.php/Admin/Login/ajaxlogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000765s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001166s ]
+
+[ 2017-08-15T21:27:44+08:00 ] 127.0.0.1 /index.php/Admin/Login/ajaxlogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000736s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001130s ]
+
+[ 2017-08-15T21:27:45+08:00 ] 127.0.0.1 /index.php/Admin/Login/ajaxlogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000713s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001065s ]
+
+[ 2017-08-15T21:27:45+08:00 ] 127.0.0.1 /index.php/Admin/Login/ajaxlogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000718s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001073s ]
+
+[ 2017-08-15T21:27:59+08:00 ] 127.0.0.1 /index.php/Admin/Login/ajaxlogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000784s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001192s ]
+
+[ 2017-08-15T21:28:00+08:00 ] 127.0.0.1 /index.php/Admin/Login/ajaxlogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000827s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001249s ]
+
+[ 2017-08-15T21:29:17+08:00 ] 127.0.0.1 /index.php/Admin/Login/ajaxlogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000639s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000924s ]
+
+[ 2017-08-15T21:29:56+08:00 ] 127.0.0.1 /index.php/Admin/Login/ajaxlogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000718s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001073s ]
+
+[ 2017-08-15T21:29:58+08:00 ] 127.0.0.1 /index.php/Admin/Login/ajaxlogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000718s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001081s ]
+
+[ 2017-08-15T21:30:15+08:00 ] 127.0.0.1 /index.php/Admin/Login/ajaxlogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000868s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001250s ]
+
+[ 2017-08-15T21:30:16+08:00 ] 127.0.0.1 /index.php/Admin/Login/ajaxlogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000721s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001080s ]
+
+[ 2017-08-15T21:30:16+08:00 ] 127.0.0.1 /index.php/Admin/Login/ajaxlogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000715s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001083s ]
+
+[ 2017-08-15T21:30:16+08:00 ] 127.0.0.1 /index.php/Admin/Login/ajaxlogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000717s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001071s ]
+
+[ 2017-08-15T21:31:10+08:00 ] 127.0.0.1 /index.php/Admin/Login/ajaxlogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000722s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001076s ]
+
+[ 2017-08-15T21:31:18+08:00 ] 127.0.0.1 /index.php/Admin/Login/ajaxlogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001115s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001597s ]
+
+[ 2017-08-15T21:32:35+08:00 ] 127.0.0.1 /index.php/Admin/Login/ajaxlogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000724s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001081s ]
+
+[ 2017-08-15T21:32:36+08:00 ] 127.0.0.1 /index.php/Admin/Login/ajaxlogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000710s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001073s ]
+
+[ 2017-08-15T21:33:07+08:00 ] 127.0.0.1 /index.php/Admin/Login/ajaxlogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000719s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001078s ]
+
+[ 2017-08-15T21:33:09+08:00 ] 127.0.0.1 /index.php/Admin/Login/ajaxlogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000714s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001066s ]
+
+[ 2017-08-15T21:33:57+08:00 ] 127.0.0.1 /index.php/Admin/Login/ajaxlogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000668s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001018s ]
+
+[ 2017-08-15T21:33:58+08:00 ] 127.0.0.1 /index.php/Admin/Login/ajaxlogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000711s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001073s ]
+
+[ 2017-08-15T21:37:50+08:00 ] 127.0.0.1 /index.php/Admin/Login/ajaxlogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000746s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001102s ]
+
+[ 2017-08-15T21:38:06+08:00 ] 127.0.0.1 /index.php/Admin/Login/ajaxlogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000727s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001082s ]
+
+[ 2017-08-15T21:38:07+08:00 ] 127.0.0.1 /index.php/Admin/Login/ajaxlogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000719s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001074s ]
+
+[ 2017-08-15T21:38:59+08:00 ] 127.0.0.1 /index.php/Admin/Login/ajaxlogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000810s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001218s ]
+
+[ 2017-08-15T21:39:01+08:00 ] 127.0.0.1 /index.php/Admin/Login/ajaxlogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000772s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001125s ]
+
+[ 2017-08-15T21:39:05+08:00 ] 127.0.0.1 /index.php/Admin/Login/ajaxlogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000596s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000885s ]
+
+[ 2017-08-15T21:40:06+08:00 ] 127.0.0.1 /index.php/Admin/Login/ajaxlogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000857s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001311s ]
+
+[ 2017-08-15T21:40:18+08:00 ] 127.0.0.1 /index.php/Admin/Login/ajaxlogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000707s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001060s ]
+SQL: SHOW COLUMNS FROM `tpshop_manager` [ RunTime:0.0035s ]
+SQL: SELECT * FROM `tpshop_manager` WHERE `username` = 'admin' LIMIT 1   [ RunTime:0.0006s ]
+NOTIC: [8] Undefined variable: passwword E:\php\tpshop\Application\Common\Common\str.php 第 6 行.
+NOTIC: [8] Array to string conversion E:\php\tpshop\Application\Admin\Controller\LoginController.class.php 第 88 行.
+
+[ 2017-08-15T21:40:19+08:00 ] 127.0.0.1 /index.php/Admin/Login/ajaxlogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000718s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001124s ]
+
+[ 2017-08-15T21:41:46+08:00 ] 127.0.0.1 /index.php/Admin/Login/ajaxlogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000680s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001005s ]
+
+[ 2017-08-15T21:41:51+08:00 ] 127.0.0.1 /index.php/Admin/Login/ajaxlogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000714s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001076s ]
+
+[ 2017-08-15T21:42:00+08:00 ] 127.0.0.1 /index.php/Admin/Login/ajaxlogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000710s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001069s ]
+SQL: SHOW COLUMNS FROM `tpshop_manager` [ RunTime:0.0036s ]
+SQL: SELECT * FROM `tpshop_manager` WHERE `username` = 'admin' LIMIT 1   [ RunTime:0.0006s ]
+NOTIC: [8] Undefined variable: passwword E:\php\tpshop\Application\Common\Common\str.php 第 6 行.
+NOTIC: [8] Array to string conversion E:\php\tpshop\Application\Admin\Controller\LoginController.class.php 第 88 行.
+
+[ 2017-08-15T21:42:00+08:00 ] 127.0.0.1 /index.php/Admin/Login/ajaxlogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000707s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001061s ]
+
+[ 2017-08-15T21:44:15+08:00 ] 127.0.0.1 /index.php/Admin/Login/ajaxlogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000746s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001098s ]
+
+[ 2017-08-15T21:44:35+08:00 ] 127.0.0.1 /index.php/Admin/Login/ajaxlogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000702s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001102s ]
+SQL: SHOW COLUMNS FROM `tpshop_manager` [ RunTime:0.0017s ]
+SQL: SELECT * FROM `tpshop_manager` WHERE `username` = 'admin' LIMIT 1   [ RunTime:0.0003s ]
+NOTIC: [8] Undefined variable: passwword E:\php\tpshop\Application\Common\Common\str.php 第 6 行.
+
+[ 2017-08-15T21:48:43+08:00 ] 127.0.0.1 /index.php/Admin/Login/ajaxlogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000716s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001083s ]
+SQL: SHOW COLUMNS FROM `tpshop_manager` [ RunTime:0.0038s ]
+SQL: SELECT * FROM `tpshop_manager` WHERE `username` = 'admin' LIMIT 1   [ RunTime:0.0006s ]
+NOTIC: [8] Undefined variable: passwword E:\php\tpshop\Application\Common\Common\str.php 第 6 行.
+NOTIC: [8] Array to string conversion E:\php\tpshop\Application\Admin\Controller\LoginController.class.php 第 88 行.
+
+[ 2017-08-15T21:48:44+08:00 ] 127.0.0.1 /index.php/Admin/Login/ajaxlogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000774s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001156s ]
+
+[ 2017-08-15T21:51:52+08:00 ] 127.0.0.1 /index.php/Admin/Login/ajaxlogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000630s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000928s ]
+
+[ 2017-08-15T21:52:17+08:00 ] 127.0.0.1 /index.php/Admin/Login/ajaxlogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000606s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000973s ]
+SQL: SHOW COLUMNS FROM `tpshop_manager` [ RunTime:0.0038s ]
+SQL: SELECT * FROM `tpshop_manager` WHERE `username` = 'admin' LIMIT 1   [ RunTime:0.0006s ]
+NOTIC: [8] Undefined variable: passwword E:\php\tpshop\Application\Common\Common\str.php 第 6 行.
+
+[ 2017-08-15T22:03:57+08:00 ] 127.0.0.1 /index.php/Admin/Login/ajaxlogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000715s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001081s ]
+SQL: SHOW COLUMNS FROM `tpshop_manager` [ RunTime:0.0036s ]
+SQL: SELECT * FROM `tpshop_manager` WHERE `username` = 'admin' LIMIT 1   [ RunTime:0.0007s ]
+
+[ 2017-08-15T22:03:58+08:00 ] 127.0.0.1 /index.php/Admin/Login/ajaxlogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000709s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001058s ]
+
+[ 2017-08-15T22:04:01+08:00 ] 127.0.0.1 /index.php/Admin/Login/ajaxlogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000754s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001133s ]
+
+[ 2017-08-15T22:07:57+08:00 ] 127.0.0.1 /index.php/Admin/Login/ajaxlogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000677s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-08-15T22:08:12+08:00 ] 127.0.0.1 /index.php/Admin/Login/ajaxlogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000683s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001030s ]
+SQL: SHOW COLUMNS FROM `tpshop_manager` [ RunTime:0.0037s ]
+SQL: SELECT * FROM `tpshop_manager` WHERE `username` = 'admin' LIMIT 1   [ RunTime:0.0006s ]
+NOTIC: [8] Undefined variable: passwword E:\php\tpshop\Application\Common\Common\str.php 第 6 行.
+NOTIC: [8] Array to string conversion E:\php\tpshop\Application\Admin\Controller\LoginController.class.php 第 88 行.
+
+[ 2017-08-15T22:08:13+08:00 ] 127.0.0.1 /index.php/Admin/Login/ajaxlogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000589s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000946s ]
+
+[ 2017-08-15T22:12:00+08:00 ] 127.0.0.1 /index.php/Admin/Login/ajaxlogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000715s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001067s ]
+SQL: SHOW COLUMNS FROM `tpshop_manager` [ RunTime:0.0037s ]
+SQL: SELECT * FROM `tpshop_manager` WHERE `username` = 'admin' LIMIT 1   [ RunTime:0.0006s ]
+NOTIC: [8] Undefined variable: passwword E:\php\tpshop\Application\Common\Common\str.php 第 6 行.
+NOTIC: [8] Array to string conversion E:\php\tpshop\Application\Admin\Controller\LoginController.class.php 第 88 行.
+
+[ 2017-08-15T22:13:06+08:00 ] 127.0.0.1 /index.php/Admin/Login/ajaxlogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000761s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001134s ]
+
+[ 2017-08-15T22:13:20+08:00 ] 127.0.0.1 /index.php/Admin/Login/ajaxlogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000745s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001114s ]
+SQL: SHOW COLUMNS FROM `tpshop_manager` [ RunTime:0.0037s ]
+SQL: SELECT * FROM `tpshop_manager` WHERE `username` = 'admin' LIMIT 1   [ RunTime:0.0006s ]
+NOTIC: [8] Undefined variable: passwword E:\php\tpshop\Application\Common\Common\str.php 第 6 行.
+
+[ 2017-08-15T22:14:56+08:00 ] 127.0.0.1 /index.php/Admin/Login/ajaxlogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000713s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001066s ]
+SQL: SHOW COLUMNS FROM `tpshop_manager` [ RunTime:0.0035s ]
+SQL: SELECT * FROM `tpshop_manager` WHERE `username` = 'admin' LIMIT 1   [ RunTime:0.0007s ]
+NOTIC: [8] Undefined variable: passwword E:\php\tpshop\Application\Common\Common\str.php 第 6 行.
+
+[ 2017-08-15T22:17:53+08:00 ] 127.0.0.1 /index.php/Admin/Login/ajaxlogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000722s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001076s ]
+SQL: SHOW COLUMNS FROM `tpshop_manager` [ RunTime:0.0035s ]
+SQL: SELECT * FROM `tpshop_manager` WHERE `username` = 'admin' LIMIT 1   [ RunTime:0.0006s ]
+NOTIC: [8] Undefined variable: passwword E:\php\tpshop\Application\Common\Common\str.php 第 6 行.
+
+[ 2017-08-15T22:21:24+08:00 ] 127.0.0.1 /index.php/Admin/Login/ajaxlogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000599s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000901s ]
+SQL: SHOW COLUMNS FROM `tpshop_manager` [ RunTime:0.0038s ]
+SQL: SELECT * FROM `tpshop_manager` WHERE `username` = 'admin' LIMIT 1   [ RunTime:0.0006s ]
+NOTIC: [8] Undefined variable: passwword E:\php\tpshop\Application\Common\Common\str.php 第 6 行.
+

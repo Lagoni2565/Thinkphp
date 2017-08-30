@@ -1,0 +1,28 @@
+[ 2017-08-21T15:26:35+08:00 ] 127.0.0.1 /index.php/Home/Index/detail/id/80
+ERR: 1146:Table 'tpshop.tpshop_good_attr' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `tpshop_good_attr`
+
+[ 2017-08-21T15:38:24+08:00 ] 127.0.0.1 /index.php/Home/Index/detail/id/80
+ERR: XML标签语法错误 : condition="$vol_goods.attr_id == $vol_attr.attr_id "
+														<li class="sku-line selected"
+
+[ 2017-08-21T15:55:26+08:00 ] 127.0.0.1 /index.php/Home/Index/detail/id/80
+ERR: 1146:Table 'tpshop.tpshop_goods_pics' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `tpshop_goods_pics`
+
+[ 2017-08-21T15:56:21+08:00 ] 127.0.0.1 /index.php/Home/Index/detail/id/80
+ERR: 1054:Unknown column '$id' in 'where clause'
+ [ SQL语句 ] : SELECT * FROM `tpshop_goodspics` WHERE ( goods_id=$id ) 
+
+[ 2017-08-21T15:56:23+08:00 ] 127.0.0.1 /index.php/Home/Index/detail/id/80
+ERR: 1054:Unknown column '$id' in 'where clause'
+ [ SQL语句 ] : SELECT * FROM `tpshop_goodspics` WHERE ( goods_id=$id ) 
+
+[ 2017-08-21T15:56:26+08:00 ] 127.0.0.1 /index.php/Home/Index/detail/id/80
+ERR: 1054:Unknown column '$id' in 'where clause'
+ [ SQL语句 ] : SELECT * FROM `tpshop_goodspics` WHERE ( goods_id=$id ) 
+
+[ 2017-08-21T15:57:07+08:00 ] 127.0.0.1 /index.php/Home/Index/detail/id/80
+ERR: 1054:Unknown column '$id' in 'where clause'
+ [ SQL语句 ] : SELECT * FROM `tpshop_goodspics` WHERE ( goods_id  = $id ) 
+

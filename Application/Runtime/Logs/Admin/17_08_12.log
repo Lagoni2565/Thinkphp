@@ -1,0 +1,324 @@
+[ 2017-08-12T11:22:42+08:00 ] 127.0.0.1 /admin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000172s ]
+
+[ 2017-08-12T11:22:48+08:00 ] 127.0.0.1 /index.php/Admin/Goods/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000080s ]
+
+[ 2017-08-12T11:22:56+08:00 ] 127.0.0.1 /index.php/Admin/Goods/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000070s ]
+
+[ 2017-08-12T11:23:36+08:00 ] 127.0.0.1 /admin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000071s ]
+
+[ 2017-08-12T11:27:48+08:00 ] 127.0.0.1 /index.php/Admin/Goods/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000076s ]
+
+[ 2017-08-12T11:27:50+08:00 ] 127.0.0.1 /index.php/Admin/Goods/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000057s ]
+
+[ 2017-08-12T11:27:51+08:00 ] 127.0.0.1 /index.php/Admin/Goods/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000069s ]
+
+[ 2017-08-12T11:27:51+08:00 ] 127.0.0.1 /index.php/Admin/Type/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000068s ]
+
+[ 2017-08-12T11:27:52+08:00 ] 127.0.0.1 /index.php/Admin/Type/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000076s ]
+
+[ 2017-08-12T11:27:55+08:00 ] 127.0.0.1 /index.php/Admin/Goods/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000069s ]
+
+[ 2017-08-12T11:28:28+08:00 ] 127.0.0.1 /index.php/Admin/Setauth/setauth
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000121s ]
+
+[ 2017-08-12T11:28:31+08:00 ] 127.0.0.1 /index.php/Admin/Setauth/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000077s ]
+
+[ 2017-08-12T11:28:31+08:00 ] 127.0.0.1 /index.php/Admin/Setauth/Public/Admin/js/jquery-1.8.1.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000063s ]
+ERR: 非法操作:Public
+
+[ 2017-08-12T11:28:31+08:00 ] 127.0.0.1 /index.php/Admin/Setauth/Public/Admin/js/calendar/WdatePicker.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000063s ]
+ERR: 非法操作:Public
+
+[ 2017-08-12T11:28:31+08:00 ] 127.0.0.1 /index.php/Admin/Setauth/Public/Admin/js/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000058s ]
+ERR: 非法操作:Public
+
+[ 2017-08-12T11:28:31+08:00 ] 127.0.0.1 /index.php/Admin/Setauth/Public/Admin/js/calendar/WdatePicker.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000063s ]
+ERR: 非法操作:Public
+
+[ 2017-08-12T11:29:10+08:00 ] 127.0.0.1 /index.php/Admin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000078s ]
+
+[ 2017-08-12T11:29:56+08:00 ] 127.0.0.1 /index.php/Admin/Goods/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000071s ]
+
+[ 2017-08-12T11:29:58+08:00 ] 127.0.0.1 /index.php/Admin/Goods/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000078s ]
+
+[ 2017-08-12T11:29:59+08:00 ] 127.0.0.1 /index.php/Admin/Type/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000073s ]
+
+[ 2017-08-12T11:30:02+08:00 ] 127.0.0.1 /index.php/Admin/Manager/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000072s ]
+
+[ 2017-08-12T11:30:02+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/jquery-1.8.1.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000094s ]
+ERR: 非法操作:js
+
+[ 2017-08-12T11:30:02+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000099s ]
+ERR: 非法操作:js
+
+[ 2017-08-12T11:30:02+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/calendar/WdatePicker.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000106s ]
+ERR: 非法操作:js
+
+[ 2017-08-12T11:30:06+08:00 ] 127.0.0.1 /index.php/Admin/Manager/edit/id/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000056s ]
+
+[ 2017-08-12T11:30:06+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000123s ]
+ERR: 非法操作:js
+
+[ 2017-08-12T11:30:06+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/calendar/WdatePicker.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000110s ]
+ERR: 非法操作:js
+
+[ 2017-08-12T11:30:06+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/jquery-1.8.1.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000099s ]
+ERR: 非法操作:js
+
+[ 2017-08-12T11:30:06+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000100s ]
+ERR: 非法操作:js
+
+[ 2017-08-12T11:30:07+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/calendar/WdatePicker.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000060s ]
+ERR: 非法操作:js
+
+[ 2017-08-12T11:30:19+08:00 ] 127.0.0.1 /index.php/Admin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000081s ]
+
+[ 2017-08-12T11:30:28+08:00 ] 127.0.0.1 /index.php/Admin/Setauth/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000070s ]
+
+[ 2017-08-12T11:30:28+08:00 ] 127.0.0.1 /index.php/Admin/Setauth/Public/Admin/js/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000127s ]
+ERR: 非法操作:Public
+
+[ 2017-08-12T11:30:28+08:00 ] 127.0.0.1 /index.php/Admin/Setauth/Public/Admin/js/calendar/WdatePicker.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000098s ]
+ERR: 非法操作:Public
+
+[ 2017-08-12T11:30:28+08:00 ] 127.0.0.1 /index.php/Admin/Setauth/Public/Admin/js/jquery-1.8.1.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000102s ]
+ERR: 非法操作:Public
+
+[ 2017-08-12T11:30:28+08:00 ] 127.0.0.1 /index.php/Admin/Setauth/Public/Admin/js/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000059s ]
+ERR: 非法操作:Public
+
+[ 2017-08-12T11:30:28+08:00 ] 127.0.0.1 /index.php/Admin/Setauth/Public/Admin/js/calendar/WdatePicker.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000060s ]
+ERR: 非法操作:Public
+
+[ 2017-08-12T11:33:15+08:00 ] 127.0.0.1 /index.php/Admin/Index/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000108s ]
+
+[ 2017-08-12T11:33:30+08:00 ] 127.0.0.1 /index.php/Admin/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000208s ]
+
+[ 2017-08-12T11:33:32+08:00 ] 127.0.0.1 /index.php/Admin/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000068s ]
+
+[ 2017-08-12T11:33:33+08:00 ] 127.0.0.1 /index.php/Admin/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000069s ]
+
+[ 2017-08-12T11:33:38+08:00 ] 127.0.0.1 /index.php/Admin/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000078s ]
+
+[ 2017-08-12T11:52:18+08:00 ] 127.0.0.1 /index.php/Admin/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000061s ]
+
+[ 2017-08-12T11:52:20+08:00 ] 127.0.0.1 /index.php/Admin/Goods/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000075s ]
+
+[ 2017-08-12T11:52:22+08:00 ] 127.0.0.1 /index.php/Admin/Goods/detail
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000067s ]
+
+[ 2017-08-12T11:57:32+08:00 ] 127.0.0.1 /index.php/Admin/Goods/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000071s ]
+
+[ 2017-08-12T11:57:36+08:00 ] 127.0.0.1 /index.php/Admin/Manager/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000078s ]
+
+[ 2017-08-12T12:01:24+08:00 ] 127.0.0.1 /index.php/Admin/Manager/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000075s ]
+
+[ 2017-08-12T12:02:21+08:00 ] 127.0.0.1 /index.php/Admin/Manager/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000078s ]
+
+[ 2017-08-12T12:02:57+08:00 ] 127.0.0.1 /index.php/Admin/Manager/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000074s ]
+
+[ 2017-08-12T12:03:07+08:00 ] 127.0.0.1 /index.php/Admin/Manager/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000074s ]
+
+[ 2017-08-12T12:03:07+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/jquery-1.8.1.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000099s ]
+ERR: 非法操作:js
+
+[ 2017-08-12T12:03:07+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/calendar/WdatePicker.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000058s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000238s ]
+ERR: 非法操作:js
+
+[ 2017-08-12T12:03:07+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000106s ]
+ERR: 非法操作:js
+
+[ 2017-08-12T12:03:07+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/calendar/WdatePicker.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000052s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000227s ]
+ERR: 非法操作:js
+
+[ 2017-08-12T12:43:49+08:00 ] 127.0.0.1 /index.php/Admin/Manager/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000063s ]
+
+[ 2017-08-12T12:43:49+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/jquery-1.8.1.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000096s ]
+ERR: 非法操作:js
+
+[ 2017-08-12T12:43:49+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000103s ]
+ERR: 非法操作:js
+
+[ 2017-08-12T12:43:49+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/calendar/WdatePicker.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000101s ]
+ERR: 非法操作:js
+
+[ 2017-08-12T12:44:00+08:00 ] 127.0.0.1 /index.php/Admin/Goods/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000113s ]
+

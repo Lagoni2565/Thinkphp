@@ -1,0 +1,313 @@
+[ 2017-08-13T15:08:23+08:00 ] 127.0.0.1 /index.php/Admin/Logon/login
+ERR: 无法加载控制器:Logon
+
+[ 2017-08-13T15:39:29+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/jquery-1.8.1.min.js
+ERR: 非法操作:js
+
+[ 2017-08-13T15:39:29+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/bootstrap.min.js
+ERR: 非法操作:js
+
+[ 2017-08-13T15:39:29+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/calendar/WdatePicker.js
+ERR: 非法操作:js
+
+[ 2017-08-13T15:47:58+08:00 ] 127.0.0.1 /index.php/Admin/Login/login
+ERR: Think\Controller:sucess方法不存在！
+
+[ 2017-08-13T15:55:25+08:00 ] 127.0.0.1 /index.php/Admin/Login
+ERR: 非法操作:index
+
+[ 2017-08-13T18:07:06+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/jquery-1.8.1.min.js
+ERR: 非法操作:js
+
+[ 2017-08-13T18:07:06+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/calendar/WdatePicker.js
+ERR: 非法操作:js
+
+[ 2017-08-13T18:07:06+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/bootstrap.min.js
+ERR: 非法操作:js
+
+[ 2017-08-13T18:07:06+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/calendar/WdatePicker.js
+ERR: 非法操作:js
+
+[ 2017-08-13T18:08:26+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/jquery-1.8.1.min.js
+ERR: 非法操作:js
+
+[ 2017-08-13T18:08:26+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/bootstrap.min.js
+ERR: 非法操作:js
+
+[ 2017-08-13T18:08:26+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/calendar/WdatePicker.js
+ERR: 非法操作:js
+
+[ 2017-08-13T18:37:02+08:00 ] 127.0.0.1 /index.php/Admin/Goods/edit/id/21
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE `id` = 21' at line 1
+ [ SQL语句 ] : UPDATE `tpshop_goods` SET  WHERE `id` = 21
+
+[ 2017-08-13T18:59:22+08:00 ] 192.168.127.49 /index.php/Admin/Manager/js/bootstrap.min.js
+ERR: 非法操作:js
+
+[ 2017-08-13T18:59:22+08:00 ] 192.168.127.49 /index.php/Admin/Manager/js/jquery-1.8.1.min.js
+ERR: 非法操作:js
+
+[ 2017-08-13T18:59:22+08:00 ] 192.168.127.49 /index.php/Admin/Manager/js/calendar/WdatePicker.js
+ERR: 非法操作:js
+
+[ 2017-08-13T18:59:22+08:00 ] 192.168.127.49 /index.php/Admin/Manager/js/bootstrap.min.js
+ERR: 非法操作:js
+
+[ 2017-08-13T18:59:22+08:00 ] 192.168.127.49 /index.php/Admin/Manager/js/calendar/WdatePicker.js
+ERR: 非法操作:js
+
+[ 2017-08-13T18:59:38+08:00 ] 192.168.127.49 /index.php/Admin/Manager/js/jquery-1.8.1.min.js
+ERR: 非法操作:js
+
+[ 2017-08-13T18:59:38+08:00 ] 192.168.127.49 /index.php/Admin/Manager/js/calendar/WdatePicker.js
+ERR: 非法操作:js
+
+[ 2017-08-13T18:59:38+08:00 ] 192.168.127.49 /index.php/Admin/Manager/js/bootstrap.min.js
+ERR: 非法操作:js
+
+[ 2017-08-13T18:59:38+08:00 ] 192.168.127.49 /index.php/Admin/Manager/js/bootstrap.min.js
+ERR: 非法操作:js
+
+[ 2017-08-13T18:59:38+08:00 ] 192.168.127.49 /index.php/Admin/Manager/js/calendar/WdatePicker.js
+ERR: 非法操作:js
+
+[ 2017-08-13T18:59:59+08:00 ] 192.168.127.49 /index.php/Admin/Manager/js/calendar/WdatePicker.js
+ERR: 非法操作:js
+
+[ 2017-08-13T18:59:59+08:00 ] 192.168.127.49 /index.php/Admin/Manager/js/jquery-1.8.1.min.js
+ERR: 非法操作:js
+
+[ 2017-08-13T18:59:59+08:00 ] 192.168.127.49 /index.php/Admin/Manager/js/bootstrap.min.js
+ERR: 非法操作:js
+
+[ 2017-08-13T18:59:59+08:00 ] 192.168.127.49 /index.php/Admin/Manager/js/bootstrap.min.js
+ERR: 非法操作:js
+
+[ 2017-08-13T18:59:59+08:00 ] 192.168.127.49 /index.php/Admin/Manager/js/calendar/WdatePicker.js
+ERR: 非法操作:js
+
+[ 2017-08-13T19:00:13+08:00 ] 192.168.127.49 /index.php/Admin/Manager/js/calendar/WdatePicker.js
+ERR: 非法操作:js
+
+[ 2017-08-13T19:00:13+08:00 ] 192.168.127.49 /index.php/Admin/Manager/js/jquery-1.8.1.min.js
+ERR: 非法操作:js
+
+[ 2017-08-13T19:00:13+08:00 ] 192.168.127.49 /index.php/Admin/Manager/js/bootstrap.min.js
+ERR: 非法操作:js
+
+[ 2017-08-13T19:00:13+08:00 ] 192.168.127.49 /index.php/Admin/Manager/js/bootstrap.min.js
+ERR: 非法操作:js
+
+[ 2017-08-13T19:00:13+08:00 ] 192.168.127.49 /index.php/Admin/Manager/js/calendar/WdatePicker.js
+ERR: 非法操作:js
+
+[ 2017-08-13T19:00:25+08:00 ] 192.168.127.49 /index.php/Admin/Manager/js/bootstrap.min.js
+ERR: 非法操作:js
+
+[ 2017-08-13T19:00:25+08:00 ] 192.168.127.49 /index.php/Admin/Manager/js/jquery-1.8.1.min.js
+ERR: 非法操作:js
+
+[ 2017-08-13T19:00:25+08:00 ] 192.168.127.49 /index.php/Admin/Manager/js/calendar/WdatePicker.js
+ERR: 非法操作:js
+
+[ 2017-08-13T19:00:25+08:00 ] 192.168.127.49 /index.php/Admin/Manager/js/bootstrap.min.js
+ERR: 非法操作:js
+
+[ 2017-08-13T19:00:25+08:00 ] 192.168.127.49 /index.php/Admin/Manager/js/calendar/WdatePicker.js
+ERR: 非法操作:js
+
+[ 2017-08-13T19:05:59+08:00 ] 192.168.127.49 /index.php/Admin/Manager/js/jquery-1.8.1.min.js
+ERR: 非法操作:js
+
+[ 2017-08-13T19:05:59+08:00 ] 192.168.127.49 /index.php/Admin/Manager/js/bootstrap.min.js
+ERR: 非法操作:js
+
+[ 2017-08-13T19:05:59+08:00 ] 192.168.127.49 /index.php/Admin/Manager/js/calendar/WdatePicker.js
+ERR: 非法操作:js
+
+[ 2017-08-13T19:05:59+08:00 ] 192.168.127.49 /index.php/Admin/Manager/js/bootstrap.min.js
+ERR: 非法操作:js
+
+[ 2017-08-13T19:05:59+08:00 ] 192.168.127.49 /index.php/Admin/Manager/js/calendar/WdatePicker.js
+ERR: 非法操作:js
+
+[ 2017-08-13T19:06:07+08:00 ] 192.168.127.49 /index.php/Admin/Manager/js/jquery-1.8.1.min.js
+ERR: 非法操作:js
+
+[ 2017-08-13T19:06:07+08:00 ] 192.168.127.49 /index.php/Admin/Manager/js/calendar/WdatePicker.js
+ERR: 非法操作:js
+
+[ 2017-08-13T19:06:07+08:00 ] 192.168.127.49 /index.php/Admin/Manager/js/bootstrap.min.js
+ERR: 非法操作:js
+
+[ 2017-08-13T19:06:07+08:00 ] 192.168.127.49 /index.php/Admin/Manager/js/bootstrap.min.js
+ERR: 非法操作:js
+
+[ 2017-08-13T19:06:07+08:00 ] 192.168.127.49 /index.php/Admin/Manager/js/calendar/WdatePicker.js
+ERR: 非法操作:js
+
+[ 2017-08-13T20:36:31+08:00 ] 127.0.0.1 /index.php/Admin/Login/Admin/Index/index
+ERR: 非法操作:Admin
+
+[ 2017-08-13T20:36:55+08:00 ] 127.0.0.1 /index.php/Admin/Login/Admin/Index/index
+ERR: 非法操作:Admin
+
+[ 2017-08-13T20:37:48+08:00 ] 127.0.0.1 /index.php/Admin/Login/Admin/Index/index
+ERR: 非法操作:Admin
+
+[ 2017-08-13T20:37:51+08:00 ] 127.0.0.1 /index.php/Admin/Login/Admin/Index/index
+ERR: 非法操作:Admin
+
+[ 2017-08-13T20:38:17+08:00 ] 127.0.0.1 /index.php/Admin/Login/Admin/Index/index
+ERR: 非法操作:Admin
+
+[ 2017-08-13T20:39:54+08:00 ] 127.0.0.1 /index.php/Admin/Login/Admin/Index/index
+ERR: 非法操作:Admin
+
+[ 2017-08-13T20:39:57+08:00 ] 127.0.0.1 /index.php/Admin/Login/Admin/Index/index
+ERR: 非法操作:Admin
+
+[ 2017-08-13T20:45:50+08:00 ] 127.0.0.1 /index.php/Admin/Login/Admin/Index/index
+ERR: 非法操作:Admin
+
+[ 2017-08-13T21:03:37+08:00 ] 127.0.0.1 /index.php/Admin/Login/Admin/Index/index
+ERR: 非法操作:Admin
+
+[ 2017-08-13T21:03:39+08:00 ] 127.0.0.1 /index.php/Admin/Login/Admin/Index/index
+ERR: 非法操作:Admin
+
+[ 2017-08-13T21:04:41+08:00 ] 127.0.0.1 /index.php/Admin/Login
+ERR: 非法操作:index
+
+[ 2017-08-13T21:06:53+08:00 ] 127.0.0.1 /index.php/Admin/Setauth/Public/Admin/js/jquery-1.8.1.min.js
+ERR: 非法操作:Public
+
+[ 2017-08-13T21:06:53+08:00 ] 127.0.0.1 /index.php/Admin/Setauth/Public/Admin/js/bootstrap.min.js
+ERR: 非法操作:Public
+
+[ 2017-08-13T21:06:53+08:00 ] 127.0.0.1 /index.php/Admin/Setauth/Public/Admin/js/calendar/WdatePicker.js
+ERR: 非法操作:Public
+
+[ 2017-08-13T21:07:01+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/jquery-1.8.1.min.js
+ERR: 非法操作:js
+
+[ 2017-08-13T21:07:01+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/bootstrap.min.js
+ERR: 非法操作:js
+
+[ 2017-08-13T21:07:01+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/calendar/WdatePicker.js
+ERR: 非法操作:js
+
+[ 2017-08-13T21:07:06+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/jquery-1.8.1.min.js
+ERR: 非法操作:js
+
+[ 2017-08-13T21:07:06+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/calendar/WdatePicker.js
+ERR: 非法操作:js
+
+[ 2017-08-13T21:07:06+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/bootstrap.min.js
+ERR: 非法操作:js
+
+[ 2017-08-13T21:07:06+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/calendar/WdatePicker.js
+ERR: 非法操作:js
+
+[ 2017-08-13T21:07:29+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/jquery-1.8.1.min.js
+ERR: 非法操作:js
+
+[ 2017-08-13T21:07:29+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/bootstrap.min.js
+ERR: 非法操作:js
+
+[ 2017-08-13T21:07:29+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/calendar/WdatePicker.js
+ERR: 非法操作:js
+
+[ 2017-08-13T21:07:34+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/jquery-1.8.1.min.js
+ERR: 非法操作:js
+
+[ 2017-08-13T21:07:34+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/calendar/WdatePicker.js
+ERR: 非法操作:js
+
+[ 2017-08-13T21:07:34+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/bootstrap.min.js
+ERR: 非法操作:js
+
+[ 2017-08-13T21:07:34+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/calendar/WdatePicker.js
+ERR: 非法操作:js
+
+[ 2017-08-13T21:07:57+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/jquery-1.8.1.min.js
+ERR: 非法操作:js
+
+[ 2017-08-13T21:07:57+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/bootstrap.min.js
+ERR: 非法操作:js
+
+[ 2017-08-13T21:07:57+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/calendar/WdatePicker.js
+ERR: 非法操作:js
+
+[ 2017-08-13T21:10:03+08:00 ] 127.0.0.1 /index.php/Admin/Login
+ERR: 非法操作:index
+
+[ 2017-08-13T21:10:19+08:00 ] 127.0.0.1 /index.php/Admin/Login
+ERR: 非法操作:index
+
+[ 2017-08-13T22:00:42+08:00 ] 127.0.0.1 /index.php/Admin/Login/Admin/Index/index
+ERR: 非法操作:Admin
+
+[ 2017-08-13T22:02:25+08:00 ] 127.0.0.1 /index.php/Admin/Login/Admin/Index/index
+ERR: 非法操作:Admin
+
+[ 2017-08-13T22:02:26+08:00 ] 127.0.0.1 /index.php/Admin/Login/Admin/Index/index
+ERR: 非法操作:Admin
+
+[ 2017-08-13T22:02:27+08:00 ] 127.0.0.1 /index.php/Admin/Login/Admin/Index/index
+ERR: 非法操作:Admin
+
+[ 2017-08-13T22:02:27+08:00 ] 127.0.0.1 /index.php/Admin/Login/Admin/Index/index
+ERR: 非法操作:Admin
+
+[ 2017-08-13T22:02:27+08:00 ] 127.0.0.1 /index.php/Admin/Login/Admin/Index/index
+ERR: 非法操作:Admin
+
+[ 2017-08-13T22:02:27+08:00 ] 127.0.0.1 /index.php/Admin/Login/Admin/Index/index
+ERR: 非法操作:Admin
+
+[ 2017-08-13T22:02:28+08:00 ] 127.0.0.1 /index.php/Admin/Login/Admin/Index/index
+ERR: 非法操作:Admin
+
+[ 2017-08-13T22:02:37+08:00 ] 127.0.0.1 /index.php/Admin/Login/Admin/Index/index
+ERR: 非法操作:Admin
+
+[ 2017-08-13T22:02:38+08:00 ] 127.0.0.1 /index.php/Admin/Login/Admin/Index/index
+ERR: 非法操作:Admin
+
+[ 2017-08-13T22:02:38+08:00 ] 127.0.0.1 /index.php/Admin/Login/Admin/Index/index
+ERR: 非法操作:Admin
+
+[ 2017-08-13T22:02:38+08:00 ] 127.0.0.1 /index.php/Admin/Login/Admin/Index/index
+ERR: 非法操作:Admin
+
+[ 2017-08-13T22:02:43+08:00 ] 127.0.0.1 /index.php/Admin/Login/Admin/Index/index
+ERR: 非法操作:Admin
+
+[ 2017-08-13T22:30:45+08:00 ] 127.0.0.1 /index.php/Admin/Login/Admin/Index/index
+ERR: 非法操作:Admin
+
+[ 2017-08-13T22:31:19+08:00 ] 127.0.0.1 /index.php/Admin/Login/Admin/Index/index
+ERR: 非法操作:Admin
+
+[ 2017-08-13T22:31:20+08:00 ] 127.0.0.1 /index.php/Admin/Login/Admin/Index/index
+ERR: 非法操作:Admin
+
+[ 2017-08-13T22:31:20+08:00 ] 127.0.0.1 /index.php/Admin/Login/Admin/Index/index
+ERR: 非法操作:Admin
+
+[ 2017-08-13T22:31:20+08:00 ] 127.0.0.1 /index.php/Admin/Login/Admin/Index/index
+ERR: 非法操作:Admin
+
+[ 2017-08-13T22:31:21+08:00 ] 127.0.0.1 /index.php/Admin/Login/Admin/Index/index
+ERR: 非法操作:Admin
+
+[ 2017-08-13T22:31:21+08:00 ] 127.0.0.1 /index.php/Admin/Login/Admin/Index/index
+ERR: 非法操作:Admin
+
+[ 2017-08-13T22:31:21+08:00 ] 127.0.0.1 /index.php/Admin/Login/Admin/Index/index
+ERR: 非法操作:Admin
+
+[ 2017-08-13T22:31:43+08:00 ] 127.0.0.1 /index.php/Admin/Login/Admin/Index/index
+ERR: 非法操作:Admin
+

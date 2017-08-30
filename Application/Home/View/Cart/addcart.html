@@ -1,0 +1,31 @@
+
+
+  <link href="__PUBLIC__/Home/css/sustyle.css" rel="stylesheet" type="text/css" />
+  <style type="text/css">
+      .nav-cont .nav-extra{background: url(__PUBLIC__/Home/images/extra.png);}
+    	.option{
+    		padding-top: 80px;
+    	}
+    	.goods img{
+    		width: 80px;
+    		height:80px;
+    	}
+    	.option img{
+    		width:160px;
+    		height:36px;
+    	}
+	</style>
+    <!-- 主体部分 -->
+  	<div class="am-g take-delivery">
+		<div class="am-u-sm-7 success">
+			<h2>商品已成功加入购物车</h2>
+			<div class="goods">
+				<img src="{$goods.goods_small_img}">
+				<a href="__MODULE__/Index/detail/id/{$goods.id}">{$goods.goods_name}</a>
+			</div>
+		</div>
+		<div class="am-u-sm-5 option">
+			<a href="__MODULE__/Index/detail/id/{$goods.id}"><img src="__PUBLIC__/Home/images/backtogoods.png"></a>
+			<a href="__MODULE__/Cart/cart"><img src="__PUBLIC__/Home/images/addtocart.png"></a>
+		</div>
+	</div>

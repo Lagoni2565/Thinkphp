@@ -1,0 +1,94 @@
+[ 2017-08-14T08:40:39+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/jquery-1.8.1.min.js
+ERR: 非法操作:js
+
+[ 2017-08-14T08:40:39+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/bootstrap.min.js
+ERR: 非法操作:js
+
+[ 2017-08-14T08:40:39+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/calendar/WdatePicker.js
+ERR: 非法操作:js
+
+[ 2017-08-14T08:40:45+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/jquery-1.8.1.min.js
+ERR: 非法操作:js
+
+[ 2017-08-14T08:40:45+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/bootstrap.min.js
+ERR: 非法操作:js
+
+[ 2017-08-14T08:40:45+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/calendar/WdatePicker.js
+ERR: 非法操作:js
+
+[ 2017-08-14T08:41:14+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/bootstrap.min.js
+ERR: 非法操作:js
+
+[ 2017-08-14T08:41:14+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/jquery-1.8.1.min.js
+ERR: 非法操作:js
+
+[ 2017-08-14T08:41:14+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/calendar/WdatePicker.js
+ERR: 非法操作:js
+
+[ 2017-08-14T08:41:15+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/bootstrap.min.js
+ERR: 非法操作:js
+
+[ 2017-08-14T08:41:15+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/calendar/WdatePicker.js
+ERR: 非法操作:js
+
+[ 2017-08-14T08:42:51+08:00 ] 127.0.0.1 /index.php/Admin/Setauth/Public/Admin/js/jquery-1.8.1.min.js
+ERR: 非法操作:Public
+
+[ 2017-08-14T08:42:51+08:00 ] 127.0.0.1 /index.php/Admin/Setauth/Public/Admin/js/bootstrap.min.js
+ERR: 非法操作:Public
+
+[ 2017-08-14T08:42:51+08:00 ] 127.0.0.1 /index.php/Admin/Setauth/Public/Admin/js/calendar/WdatePicker.js
+ERR: 非法操作:Public
+
+[ 2017-08-14T08:43:04+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/jquery-1.8.1.min.js
+ERR: 非法操作:js
+
+[ 2017-08-14T08:43:04+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/bootstrap.min.js
+ERR: 非法操作:js
+
+[ 2017-08-14T08:43:04+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/calendar/WdatePicker.js
+ERR: 非法操作:js
+
+[ 2017-08-14T09:09:04+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/jquery-1.8.1.min.js
+ERR: 非法操作:js
+
+[ 2017-08-14T09:09:04+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/calendar/WdatePicker.js
+ERR: 非法操作:js
+
+[ 2017-08-14T09:09:05+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/bootstrap.min.js
+ERR: 非法操作:js
+
+[ 2017-08-14T09:09:05+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/calendar/WdatePicker.js
+ERR: 非法操作:js
+
+[ 2017-08-14T13:45:02+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/jquery-1.8.1.min.js
+ERR: 非法操作:js
+
+[ 2017-08-14T13:45:02+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/calendar/WdatePicker.js
+ERR: 非法操作:js
+
+[ 2017-08-14T13:45:02+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/bootstrap.min.js
+ERR: 非法操作:js
+
+[ 2017-08-14T13:45:02+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/calendar/WdatePicker.js
+ERR: 非法操作:js
+
+[ 2017-08-14T20:00:21+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/bootstrap.min.js
+ERR: 非法操作:js
+
+[ 2017-08-14T20:00:21+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/jquery-1.8.1.min.js
+ERR: 非法操作:js
+
+[ 2017-08-14T20:00:21+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/calendar/WdatePicker.js
+ERR: 非法操作:js
+
+[ 2017-08-14T20:00:21+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/bootstrap.min.js
+ERR: 非法操作:js
+
+[ 2017-08-14T20:00:21+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/calendar/WdatePicker.js
+ERR: 非法操作:js
+
+[ 2017-08-14T22:05:26+08:00 ] 127.0.0.1 /index.php/Admin/Goods/detail/id/39
+ERR: 1146:Table 'tpshop.tpshop_saleonlin' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `tpshop_saleonlin`
+

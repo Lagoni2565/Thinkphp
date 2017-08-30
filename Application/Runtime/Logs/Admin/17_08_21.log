@@ -1,0 +1,15 @@
+[ 2017-08-21T16:01:39+08:00 ] 127.0.0.1 /index.php/Admin/Login/ajaxlogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000453s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000735s ]
+SQL: SHOW COLUMNS FROM `tpshop_manager` [ RunTime:0.0038s ]
+SQL: SELECT * FROM `tpshop_manager` WHERE `username` = 'admin' LIMIT 1   [ RunTime:0.0006s ]
+SQL: UPDATE `tpshop_manager` SET `last_login_time`='1503302499' WHERE `id` = 1 [ RunTime:0.0743s ]
+
+[ 2017-08-21T16:03:09+08:00 ] 127.0.0.1 /index.php/Admin/Goods/getattr
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001108s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001674s ]
+SQL: SHOW COLUMNS FROM `tpshop_attribute` [ RunTime:0.0139s ]
+SQL: SELECT * FROM `tpshop_attribute` WHERE `type_id` = 13  [ RunTime:0.0006s ]
+

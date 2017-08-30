@@ -1,0 +1,582 @@
+[ 2017-08-24T00:02:11+08:00 ] 127.0.0.1 /index.php/Admin/Login/ajaxlogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000775s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001262s ]
+SQL: SHOW COLUMNS FROM `tpshop_manager` [ RunTime:0.0572s ]
+SQL: SELECT * FROM `tpshop_manager` WHERE `username` = 'admin' LIMIT 1   [ RunTime:0.0007s ]
+SQL: UPDATE `tpshop_manager` SET `last_login_time`='1503504131' WHERE `id` = 1 [ RunTime:0.0531s ]
+
+[ 2017-08-24T00:02:25+08:00 ] 127.0.0.1 /index.php/Admin/Order/index
+ERR: 无法加载控制器:Order
+
+[ 2017-08-24T00:02:37+08:00 ] 127.0.0.1 /index.php/Admin/Order/index
+ERR: 无法加载控制器:Order
+
+[ 2017-08-24T00:02:43+08:00 ] 127.0.0.1 /index.php/Admin/Order/add
+ERR: 无法加载控制器:Order
+
+[ 2017-08-24T00:03:01+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/jquery-1.8.1.min.js
+ERR: 非法操作:js
+
+[ 2017-08-24T00:03:01+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/bootstrap.min.js
+ERR: 非法操作:js
+
+[ 2017-08-24T00:03:01+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/calendar/WdatePicker.js
+ERR: 非法操作:js
+
+[ 2017-08-24T00:03:38+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/jquery-1.8.1.min.js
+ERR: 非法操作:js
+
+[ 2017-08-24T00:03:38+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/bootstrap.min.js
+ERR: 非法操作:js
+
+[ 2017-08-24T00:03:38+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/calendar/WdatePicker.js
+ERR: 非法操作:js
+
+[ 2017-08-24T00:03:53+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/jquery-1.8.1.min.js
+ERR: 非法操作:js
+
+[ 2017-08-24T00:03:53+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/bootstrap.min.js
+ERR: 非法操作:js
+
+[ 2017-08-24T00:03:53+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/calendar/WdatePicker.js
+ERR: 非法操作:js
+
+[ 2017-08-24T09:54:17+08:00 ] 127.0.0.1 /index.php/Admin/Login/ajaxlogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000457s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000733s ]
+SQL: SHOW COLUMNS FROM `tpshop_manager` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `tpshop_manager` WHERE `username` = 'admin' LIMIT 1   [ RunTime:0.0007s ]
+SQL: UPDATE `tpshop_manager` SET `last_login_time`='1503539657' WHERE `id` = 1 [ RunTime:0.0822s ]
+
+[ 2017-08-24T10:08:25+08:00 ] 127.0.0.1 /index.php/Admin/Login/ajaxlogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000424s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000694s ]
+SQL: SHOW COLUMNS FROM `tpshop_manager` [ RunTime:0.0036s ]
+SQL: SELECT * FROM `tpshop_manager` WHERE `username` = 'admin' LIMIT 1   [ RunTime:0.0006s ]
+SQL: UPDATE `tpshop_manager` SET `last_login_time`='1503540505' WHERE `id` = 1 [ RunTime:0.0727s ]
+
+[ 2017-08-24T10:08:38+08:00 ] 127.0.0.1 /index.php/Admin/Goods/getattr
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000578s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000954s ]
+SQL: SHOW COLUMNS FROM `tpshop_attribute` [ RunTime:0.0034s ]
+SQL: SELECT * FROM `tpshop_attribute` WHERE `type_id` = 13  [ RunTime:0.0006s ]
+
+[ 2017-08-24T10:48:35+08:00 ] 127.0.0.1 /index.php/Admin/Goods/getattr
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000463s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000793s ]
+SQL: SHOW COLUMNS FROM `tpshop_attribute` [ RunTime:0.0044s ]
+SQL: SELECT * FROM `tpshop_attribute` WHERE `type_id` = 11  [ RunTime:0.0006s ]
+
+[ 2017-08-24T10:48:36+08:00 ] 127.0.0.1 /index.php/Admin/Goods/getattr
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000670s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001116s ]
+SQL: SHOW COLUMNS FROM `tpshop_attribute` [ RunTime:0.0039s ]
+SQL: SELECT * FROM `tpshop_attribute` WHERE `type_id` = 12  [ RunTime:0.0006s ]
+
+[ 2017-08-24T10:58:05+08:00 ] 127.0.0.1 /index.php/Admin/Goods/getattr
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000516s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000853s ]
+SQL: SHOW COLUMNS FROM `tpshop_attribute` [ RunTime:0.0022s ]
+SQL: SELECT * FROM `tpshop_attribute` WHERE `type_id` = 13  [ RunTime:0.0004s ]
+
+[ 2017-08-24T10:59:56+08:00 ] 127.0.0.1 /index.php/Admin/Goods/getattr
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000699s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001086s ]
+SQL: SHOW COLUMNS FROM `tpshop_attribute` [ RunTime:0.0037s ]
+SQL: SELECT * FROM `tpshop_attribute` WHERE `type_id` = 12  [ RunTime:0.0007s ]
+
+[ 2017-08-24T11:02:03+08:00 ] 127.0.0.1 /index.php/Admin/Goods/getattr
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000731s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001235s ]
+SQL: SHOW COLUMNS FROM `tpshop_attribute` [ RunTime:0.0032s ]
+SQL: SELECT * FROM `tpshop_attribute` WHERE `type_id` = 13  [ RunTime:0.0007s ]
+
+[ 2017-08-24T11:05:05+08:00 ] 127.0.0.1 /index.php/Admin/Goods/getattr
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000468s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000753s ]
+SQL: SHOW COLUMNS FROM `tpshop_attribute` [ RunTime:0.0033s ]
+SQL: SELECT * FROM `tpshop_attribute` WHERE `type_id` = 13  [ RunTime:0.0006s ]
+
+[ 2017-08-24T11:06:10+08:00 ] 127.0.0.1 /index.php/Admin/Goods/getattr
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000534s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000894s ]
+SQL: SHOW COLUMNS FROM `tpshop_attribute` [ RunTime:0.0034s ]
+SQL: SELECT * FROM `tpshop_attribute` WHERE `type_id` = 13  [ RunTime:0.0006s ]
+
+[ 2017-08-24T11:06:14+08:00 ] 127.0.0.1 /index.php/Admin/Goods/getattr
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000440s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000735s ]
+SQL: SHOW COLUMNS FROM `tpshop_attribute` [ RunTime:0.0034s ]
+SQL: SELECT * FROM `tpshop_attribute` WHERE `type_id` = 11  [ RunTime:0.0005s ]
+
+[ 2017-08-24T11:06:26+08:00 ] 127.0.0.1 /index.php/Admin/Goods/getattr
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000540s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000912s ]
+SQL: SHOW COLUMNS FROM `tpshop_attribute` [ RunTime:0.0034s ]
+SQL: SELECT * FROM `tpshop_attribute` WHERE `type_id` = 12  [ RunTime:0.0005s ]
+
+[ 2017-08-24T11:06:28+08:00 ] 127.0.0.1 /index.php/Admin/Goods/getattr
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000519s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000843s ]
+SQL: SHOW COLUMNS FROM `tpshop_attribute` [ RunTime:0.0033s ]
+SQL: SELECT * FROM `tpshop_attribute` WHERE `type_id` = 11  [ RunTime:0.0005s ]
+
+[ 2017-08-24T11:19:42+08:00 ] 127.0.0.1 /index.php/Admin/Goods/getattr
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000678s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001094s ]
+SQL: SHOW COLUMNS FROM `tpshop_attribute` [ RunTime:0.0039s ]
+SQL: SELECT * FROM `tpshop_attribute` WHERE `type_id` = 14  [ RunTime:0.0006s ]
+
+[ 2017-08-24T11:22:54+08:00 ] 127.0.0.1 /index.php/Admin/Goods/getattr
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000632s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001047s ]
+SQL: SHOW COLUMNS FROM `tpshop_attribute` [ RunTime:0.0034s ]
+SQL: SELECT * FROM `tpshop_attribute` WHERE `type_id` = 12  [ RunTime:0.0005s ]
+
+[ 2017-08-24T11:25:09+08:00 ] 127.0.0.1 /index.php/Admin/Goods/getattr
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000611s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000972s ]
+SQL: SHOW COLUMNS FROM `tpshop_attribute` [ RunTime:0.0035s ]
+SQL: SELECT * FROM `tpshop_attribute` WHERE `type_id` = 12  [ RunTime:0.0005s ]
+
+[ 2017-08-24T11:25:13+08:00 ] 127.0.0.1 /index.php/Admin/Goods/getattr
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000481s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000881s ]
+SQL: SHOW COLUMNS FROM `tpshop_attribute` [ RunTime:0.0034s ]
+SQL: SELECT * FROM `tpshop_attribute` WHERE `type_id` = 14  [ RunTime:0.0006s ]
+
+[ 2017-08-24T11:25:16+08:00 ] 127.0.0.1 /index.php/Admin/Goods/getattr
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000853s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001396s ]
+SQL: SHOW COLUMNS FROM `tpshop_attribute` [ RunTime:0.0034s ]
+SQL: SELECT * FROM `tpshop_attribute` WHERE `type_id` = 11  [ RunTime:0.0006s ]
+
+[ 2017-08-24T11:25:20+08:00 ] 127.0.0.1 /index.php/Admin/Goods/getattr
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000516s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000887s ]
+SQL: SHOW COLUMNS FROM `tpshop_attribute` [ RunTime:0.0021s ]
+SQL: SELECT * FROM `tpshop_attribute` WHERE `type_id` = 13  [ RunTime:0.0003s ]
+
+[ 2017-08-24T11:32:12+08:00 ] 127.0.0.1 /index.php/Admin/Goods/getattr
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000536s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000905s ]
+SQL: SHOW COLUMNS FROM `tpshop_attribute` [ RunTime:0.0034s ]
+SQL: SELECT * FROM `tpshop_attribute` WHERE `type_id` = 12  [ RunTime:0.0005s ]
+
+[ 2017-08-24T11:32:16+08:00 ] 127.0.0.1 /index.php/Admin/Goods/getattr
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000491s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000846s ]
+SQL: SHOW COLUMNS FROM `tpshop_attribute` [ RunTime:0.0035s ]
+SQL: SELECT * FROM `tpshop_attribute` WHERE `type_id` = 14  [ RunTime:0.0006s ]
+
+[ 2017-08-24T11:32:19+08:00 ] 127.0.0.1 /index.php/Admin/Goods/getattr
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000533s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000926s ]
+SQL: SHOW COLUMNS FROM `tpshop_attribute` [ RunTime:0.0034s ]
+SQL: SELECT * FROM `tpshop_attribute` WHERE `type_id` = 12  [ RunTime:0.0005s ]
+
+[ 2017-08-24T11:32:23+08:00 ] 127.0.0.1 /index.php/Admin/Goods/getattr
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000513s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000852s ]
+SQL: SHOW COLUMNS FROM `tpshop_attribute` [ RunTime:0.0034s ]
+SQL: SELECT * FROM `tpshop_attribute` WHERE `type_id` = 11  [ RunTime:0.0005s ]
+
+[ 2017-08-24T11:45:38+08:00 ] 127.0.0.1 /index.php/Admin/Goods/getattr
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000543s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000858s ]
+SQL: SHOW COLUMNS FROM `tpshop_attribute` [ RunTime:0.0034s ]
+SQL: SELECT * FROM `tpshop_attribute` WHERE `type_id` = 13  [ RunTime:0.0006s ]
+
+[ 2017-08-24T11:55:38+08:00 ] 127.0.0.1 /index.php/Admin/Goods/getattr
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000623s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000964s ]
+SQL: SHOW COLUMNS FROM `tpshop_attribute` [ RunTime:0.0035s ]
+SQL: SELECT * FROM `tpshop_attribute` WHERE `type_id` = 12  [ RunTime:0.0005s ]
+
+[ 2017-08-24T11:55:41+08:00 ] 127.0.0.1 /index.php/Admin/Goods/getattr
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000562s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000891s ]
+SQL: SHOW COLUMNS FROM `tpshop_attribute` [ RunTime:0.0034s ]
+SQL: SELECT * FROM `tpshop_attribute` WHERE `type_id` = 13  [ RunTime:0.0006s ]
+
+[ 2017-08-24T11:55:57+08:00 ] 127.0.0.1 /index.php/Admin/Goods/edit/id/83
+ERR: 1048:Column 'goods_id' cannot be null
+ [ SQL语句 ] : INSERT INTO `tpshop_goods_attr` (`goods_id`,`attr_id`,`attr_value`) VALUES (NULL,'17','14个月')
+
+[ 2017-08-24T12:02:32+08:00 ] 127.0.0.1 /index.php/Admin/Goods/getattr
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000534s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000884s ]
+SQL: SHOW COLUMNS FROM `tpshop_attribute` [ RunTime:0.0033s ]
+SQL: SELECT * FROM `tpshop_attribute` WHERE `type_id` = 11  [ RunTime:0.0006s ]
+
+[ 2017-08-24T12:02:48+08:00 ] 127.0.0.1 /index.php/Admin/Goods/getattr
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000525s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000864s ]
+SQL: SHOW COLUMNS FROM `tpshop_attribute` [ RunTime:0.0034s ]
+SQL: SELECT * FROM `tpshop_attribute` WHERE `type_id` = 13  [ RunTime:0.0006s ]
+
+[ 2017-08-24T12:06:20+08:00 ] 127.0.0.1 /index.php/Admin/Goods/getattr
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000987s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001442s ]
+SQL: SHOW COLUMNS FROM `tpshop_attribute` [ RunTime:0.0035s ]
+SQL: SELECT * FROM `tpshop_attribute` WHERE `type_id` = 13  [ RunTime:0.0006s ]
+
+[ 2017-08-24T12:54:24+08:00 ] 127.0.0.1 /index.php/Admin/Login/ajaxlogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000550s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000886s ]
+SQL: SHOW COLUMNS FROM `tpshop_manager` [ RunTime:0.0037s ]
+SQL: SELECT * FROM `tpshop_manager` WHERE `username` = 'admin' LIMIT 1   [ RunTime:0.0006s ]
+SQL: UPDATE `tpshop_manager` SET `last_login_time`='1503550464' WHERE `id` = 1 [ RunTime:0.0710s ]
+
+[ 2017-08-24T12:54:49+08:00 ] 127.0.0.1 /index.php/Admin/Goods/getattr
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000821s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001353s ]
+SQL: SHOW COLUMNS FROM `tpshop_attribute` [ RunTime:0.0035s ]
+SQL: SELECT * FROM `tpshop_attribute` WHERE `type_id` = 11  [ RunTime:0.0006s ]
+
+[ 2017-08-24T12:54:51+08:00 ] 127.0.0.1 /index.php/Admin/Goods/getattr
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000512s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000844s ]
+SQL: SHOW COLUMNS FROM `tpshop_attribute` [ RunTime:0.0033s ]
+SQL: SELECT * FROM `tpshop_attribute` WHERE `type_id` = 13  [ RunTime:0.0006s ]
+
+[ 2017-08-24T12:54:54+08:00 ] 127.0.0.1 /index.php/Admin/Goods/getattr
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000552s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000879s ]
+SQL: SHOW COLUMNS FROM `tpshop_attribute` [ RunTime:0.0033s ]
+SQL: SELECT * FROM `tpshop_attribute` WHERE `type_id` = 14  [ RunTime:0.0006s ]
+
+[ 2017-08-24T12:55:55+08:00 ] 127.0.0.1 /index.php/Admin/Goods/getattr
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000532s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000878s ]
+SQL: SHOW COLUMNS FROM `tpshop_attribute` [ RunTime:0.0033s ]
+SQL: SELECT * FROM `tpshop_attribute` WHERE `type_id` = 11  [ RunTime:0.0005s ]
+
+[ 2017-08-24T12:55:58+08:00 ] 127.0.0.1 /index.php/Admin/Goods/getattr
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000572s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000981s ]
+SQL: SHOW COLUMNS FROM `tpshop_attribute` [ RunTime:0.0033s ]
+SQL: SELECT * FROM `tpshop_attribute` WHERE `type_id` = 14  [ RunTime:0.0006s ]
+
+[ 2017-08-24T12:56:30+08:00 ] 127.0.0.1 /index.php/Admin/Goods/getattr
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000685s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001067s ]
+SQL: SHOW COLUMNS FROM `tpshop_attribute` [ RunTime:0.0046s ]
+SQL: SELECT * FROM `tpshop_attribute` WHERE `type_id` = 11  [ RunTime:0.0006s ]
+
+[ 2017-08-24T21:56:50+08:00 ] 127.0.0.1 /index.php/Admin/Login/ajaxlogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000555s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000880s ]
+
+[ 2017-08-24T21:57:01+08:00 ] 127.0.0.1 /index.php/Admin/Login/ajaxlogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000534s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001136s ]
+SQL: SHOW COLUMNS FROM `tpshop_manager` [ RunTime:0.1307s ]
+SQL: SELECT * FROM `tpshop_manager` WHERE `username` = 'admin' LIMIT 1   [ RunTime:0.0007s ]
+SQL: UPDATE `tpshop_manager` SET `last_login_time`='1503583021' WHERE `id` = 1 [ RunTime:0.1251s ]
+
+[ 2017-08-24T21:57:15+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/jquery-1.8.1.min.js
+ERR: 非法操作:js
+
+[ 2017-08-24T21:57:15+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/bootstrap.min.js
+ERR: 非法操作:js
+
+[ 2017-08-24T21:57:15+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/calendar/WdatePicker.js
+ERR: 非法操作:js
+
+[ 2017-08-24T21:59:56+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/bootstrap.min.js
+ERR: 非法操作:js
+
+[ 2017-08-24T21:59:56+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/calendar/WdatePicker.js
+ERR: 非法操作:js
+
+[ 2017-08-24T21:59:56+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/jquery-1.8.1.min.js
+ERR: 非法操作:js
+
+[ 2017-08-24T21:59:56+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/bootstrap.min.js
+ERR: 非法操作:js
+
+[ 2017-08-24T21:59:56+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/calendar/WdatePicker.js
+ERR: 非法操作:js
+
+[ 2017-08-24T22:00:55+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/bootstrap.min.js
+ERR: 非法操作:js
+
+[ 2017-08-24T22:00:55+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/calendar/WdatePicker.js
+ERR: 非法操作:js
+
+[ 2017-08-24T22:00:55+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/jquery-1.8.1.min.js
+ERR: 非法操作:js
+
+[ 2017-08-24T22:00:56+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/bootstrap.min.js
+ERR: 非法操作:js
+
+[ 2017-08-24T22:00:56+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/calendar/WdatePicker.js
+ERR: 非法操作:js
+
+[ 2017-08-24T22:01:01+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/bootstrap.min.js
+ERR: 非法操作:js
+
+[ 2017-08-24T22:01:01+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/calendar/WdatePicker.js
+ERR: 非法操作:js
+
+[ 2017-08-24T22:01:01+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/jquery-1.8.1.min.js
+ERR: 非法操作:js
+
+[ 2017-08-24T22:01:01+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/bootstrap.min.js
+ERR: 非法操作:js
+
+[ 2017-08-24T22:01:01+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/calendar/WdatePicker.js
+ERR: 非法操作:js
+
+[ 2017-08-24T22:09:21+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/jquery-1.8.1.min.js
+ERR: 非法操作:js
+
+[ 2017-08-24T22:09:21+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/calendar/WdatePicker.js
+ERR: 非法操作:js
+
+[ 2017-08-24T22:09:21+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/bootstrap.min.js
+ERR: 非法操作:js
+
+[ 2017-08-24T22:09:21+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/calendar/WdatePicker.js
+ERR: 非法操作:js
+
+[ 2017-08-24T22:25:48+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/jquery-1.8.1.min.js
+ERR: 非法操作:js
+
+[ 2017-08-24T22:25:48+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/calendar/WdatePicker.js
+ERR: 非法操作:js
+
+[ 2017-08-24T22:25:48+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/bootstrap.min.js
+ERR: 非法操作:js
+
+[ 2017-08-24T22:25:48+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/calendar/WdatePicker.js
+ERR: 非法操作:js
+
+[ 2017-08-24T22:57:19+08:00 ] 127.0.0.1 /index.php/Admin/Login/ajaxlogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000664s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001037s ]
+SQL: SHOW COLUMNS FROM `tpshop_manager` [ RunTime:0.0049s ]
+SQL: SELECT * FROM `tpshop_manager` WHERE `username` = 'admin' LIMIT 1   [ RunTime:0.0008s ]
+SQL: UPDATE `tpshop_manager` SET `last_login_time`='1503586639' WHERE `id` = 1 [ RunTime:0.0507s ]
+
+[ 2017-08-24T22:57:25+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/jquery-1.8.1.min.js
+ERR: 非法操作:js
+
+[ 2017-08-24T22:57:25+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/bootstrap.min.js
+ERR: 非法操作:js
+
+[ 2017-08-24T22:57:25+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/calendar/WdatePicker.js
+ERR: 非法操作:js
+
+[ 2017-08-24T22:57:30+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/jquery-1.8.1.min.js
+ERR: 非法操作:js
+
+[ 2017-08-24T22:57:30+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/calendar/WdatePicker.js
+ERR: 非法操作:js
+
+[ 2017-08-24T22:57:30+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/bootstrap.min.js
+ERR: 非法操作:js
+
+[ 2017-08-24T22:57:30+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/calendar/WdatePicker.js
+ERR: 非法操作:js
+
+[ 2017-08-24T23:00:02+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/bootstrap.min.js
+ERR: 非法操作:js
+
+[ 2017-08-24T23:00:02+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/jquery-1.8.1.min.js
+ERR: 非法操作:js
+
+[ 2017-08-24T23:00:02+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/calendar/WdatePicker.js
+ERR: 非法操作:js
+
+[ 2017-08-24T23:00:02+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/bootstrap.min.js
+ERR: 非法操作:js
+
+[ 2017-08-24T23:00:02+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/calendar/WdatePicker.js
+ERR: 非法操作:js
+
+[ 2017-08-24T23:00:33+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/bootstrap.min.js
+ERR: 非法操作:js
+
+[ 2017-08-24T23:00:33+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/calendar/WdatePicker.js
+ERR: 非法操作:js
+
+[ 2017-08-24T23:00:33+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/jquery-1.8.1.min.js
+ERR: 非法操作:js
+
+[ 2017-08-24T23:00:33+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/bootstrap.min.js
+ERR: 非法操作:js
+
+[ 2017-08-24T23:00:33+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/calendar/WdatePicker.js
+ERR: 非法操作:js
+
+[ 2017-08-24T23:01:18+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/jquery-1.8.1.min.js
+ERR: 非法操作:js
+
+[ 2017-08-24T23:01:18+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/bootstrap.min.js
+ERR: 非法操作:js
+
+[ 2017-08-24T23:01:18+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/calendar/WdatePicker.js
+ERR: 非法操作:js
+
+[ 2017-08-24T23:01:26+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/jquery-1.8.1.min.js
+ERR: 非法操作:js
+
+[ 2017-08-24T23:01:26+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/bootstrap.min.js
+ERR: 非法操作:js
+
+[ 2017-08-24T23:01:26+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/calendar/WdatePicker.js
+ERR: 非法操作:js
+
+[ 2017-08-24T23:03:36+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/jquery-1.8.1.min.js
+ERR: 非法操作:js
+
+[ 2017-08-24T23:03:36+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/bootstrap.min.js
+ERR: 非法操作:js
+
+[ 2017-08-24T23:03:36+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/calendar/WdatePicker.js
+ERR: 非法操作:js
+
+[ 2017-08-24T23:03:41+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/jquery-1.8.1.min.js
+ERR: 非法操作:js
+
+[ 2017-08-24T23:03:41+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/bootstrap.min.js
+ERR: 非法操作:js
+
+[ 2017-08-24T23:03:41+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/calendar/WdatePicker.js
+ERR: 非法操作:js
+
+[ 2017-08-24T23:04:05+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/jquery-1.8.1.min.js
+ERR: 非法操作:js
+
+[ 2017-08-24T23:04:05+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/bootstrap.min.js
+ERR: 非法操作:js
+
+[ 2017-08-24T23:04:05+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/calendar/WdatePicker.js
+ERR: 非法操作:js
+
+[ 2017-08-24T23:10:27+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/bootstrap.min.js
+ERR: 非法操作:js
+
+[ 2017-08-24T23:10:27+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/jquery-1.8.1.min.js
+ERR: 非法操作:js
+
+[ 2017-08-24T23:10:27+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/calendar/WdatePicker.js
+ERR: 非法操作:js
+
+[ 2017-08-24T23:10:27+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/bootstrap.min.js
+ERR: 非法操作:js
+
+[ 2017-08-24T23:10:27+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/calendar/WdatePicker.js
+ERR: 非法操作:js
+
+[ 2017-08-24T23:23:18+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/jquery-1.8.1.min.js
+ERR: 非法操作:js
+
+[ 2017-08-24T23:23:18+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/calendar/WdatePicker.js
+ERR: 非法操作:js
+
+[ 2017-08-24T23:23:18+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/bootstrap.min.js
+ERR: 非法操作:js
+
+[ 2017-08-24T23:23:18+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/calendar/WdatePicker.js
+ERR: 非法操作:js
+
+[ 2017-08-24T23:24:38+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/calendar/WdatePicker.js
+ERR: 非法操作:js
+
+[ 2017-08-24T23:24:38+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/jquery-1.8.1.min.js
+ERR: 非法操作:js
+
+[ 2017-08-24T23:24:38+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/bootstrap.min.js
+ERR: 非法操作:js
+
+[ 2017-08-24T23:24:38+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/calendar/WdatePicker.js
+ERR: 非法操作:js
+
+[ 2017-08-24T23:27:18+08:00 ] 127.0.0.1 /index.php/Admin/Role/Public/Admin/js/jquery-1.8.1.min.js
+ERR: 非法操作:Public
+
+[ 2017-08-24T23:27:18+08:00 ] 127.0.0.1 /index.php/Admin/Role/Public/Admin/js/bootstrap.min.js
+ERR: 非法操作:Public
+
+[ 2017-08-24T23:27:18+08:00 ] 127.0.0.1 /index.php/Admin/Role/Public/Admin/js/calendar/WdatePicker.js
+ERR: 非法操作:Public
+
+[ 2017-08-24T23:30:52+08:00 ] 127.0.0.1 /index.php/Admin/Role/Public/Admin/js/jquery-1.8.1.min.js
+ERR: 非法操作:Public
+
+[ 2017-08-24T23:30:52+08:00 ] 127.0.0.1 /index.php/Admin/Role/Public/Admin/js/calendar/WdatePicker.js
+ERR: 非法操作:Public
+
+[ 2017-08-24T23:30:52+08:00 ] 127.0.0.1 /index.php/Admin/Role/Public/Admin/js/bootstrap.min.js
+ERR: 非法操作:Public
+
+[ 2017-08-24T23:30:52+08:00 ] 127.0.0.1 /index.php/Admin/Role/Public/Admin/js/calendar/WdatePicker.js
+ERR: 非法操作:Public
+
+[ 2017-08-24T23:55:05+08:00 ] 127.0.0.1 /index.php/Admin/Role/Public/Admin/js/jquery-1.8.1.min.js
+ERR: 非法操作:Public
+
+[ 2017-08-24T23:55:05+08:00 ] 127.0.0.1 /index.php/Admin/Role/Public/Admin/js/bootstrap.min.js
+ERR: 非法操作:Public
+
+[ 2017-08-24T23:55:05+08:00 ] 127.0.0.1 /index.php/Admin/Role/Public/Admin/js/calendar/WdatePicker.js
+ERR: 非法操作:Public
+
+[ 2017-08-24T23:55:10+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/calendar/WdatePicker.js
+ERR: 非法操作:js
+
+[ 2017-08-24T23:55:10+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/bootstrap.min.js
+ERR: 非法操作:js
+
+[ 2017-08-24T23:55:10+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/jquery-1.8.1.min.js
+ERR: 非法操作:js
+
+[ 2017-08-24T23:55:10+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/bootstrap.min.js
+ERR: 非法操作:js
+
+[ 2017-08-24T23:55:10+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/calendar/WdatePicker.js
+ERR: 非法操作:js
+

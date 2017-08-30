@@ -1,0 +1,1877 @@
+[ 2017-08-17T08:45:22+08:00 ] 127.0.0.1 /index.php/Admin/Login/ajaxlogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000646s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001003s ]
+ERR: SQLSTATE[HY000] [2002] ����Ŀ�����������ܾ����޷����ӡ�
+
+
+[ 2017-08-17T08:45:24+08:00 ] 127.0.0.1 /index.php/Admin/Login/ajaxlogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000534s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000854s ]
+
+[ 2017-08-17T08:45:36+08:00 ] 127.0.0.1 /index.php/Admin/Login/ajaxlogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000411s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000750s ]
+ERR: SQLSTATE[HY000] [2002] ����Ŀ�����������ܾ����޷����ӡ�
+
+
+[ 2017-08-17T08:45:36+08:00 ] 127.0.0.1 /index.php/Admin/Login/ajaxlogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000512s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000832s ]
+
+[ 2017-08-17T08:46:18+08:00 ] 127.0.0.1 /index.php/Admin/Login/ajaxlogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000619s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000979s ]
+ERR: SQLSTATE[HY000] [2002] ����Ŀ�����������ܾ����޷����ӡ�
+
+
+[ 2017-08-17T08:46:21+08:00 ] 127.0.0.1 /index.php/Admin/Login/ajaxlogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000509s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000829s ]
+
+[ 2017-08-17T08:46:32+08:00 ] 127.0.0.1 /index.php/Admin/Login/ajaxlogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000505s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000826s ]
+ERR: SQLSTATE[HY000] [2002] ����Ŀ�����������ܾ����޷����ӡ�
+
+
+[ 2017-08-17T08:47:07+08:00 ] 127.0.0.1 /index.php/Admin/Login/ajaxlogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000513s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000831s ]
+ERR: SQLSTATE[HY000] [2002] ����Ŀ�����������ܾ����޷����ӡ�
+
+
+[ 2017-08-17T08:47:07+08:00 ] 127.0.0.1 /index.php/Admin/Login/ajaxlogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000562s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000849s ]
+
+[ 2017-08-17T08:48:58+08:00 ] 127.0.0.1 /index.php/Admin/Login/ajaxlogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000515s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000839s ]
+
+[ 2017-08-17T08:49:01+08:00 ] 127.0.0.1 /index.php/Admin/Login/ajaxlogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000510s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000833s ]
+
+[ 2017-08-17T09:14:06+08:00 ] 127.0.0.1 /index.php/Admin/Login/ajaxlogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000534s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000875s ]
+SQL: SHOW COLUMNS FROM `tpshop_manager` [ RunTime:0.0047s ]
+SQL: SELECT * FROM `tpshop_manager` WHERE `username` = 'admin' LIMIT 1   [ RunTime:0.0007s ]
+NOTIC: [8] Undefined variable: passwword E:\php\tpshop\Application\Common\Common\function.php 第 12 行.
+
+[ 2017-08-17T09:25:46+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/jquery-1.8.1.min.js
+ERR: 非法操作:js
+
+[ 2017-08-17T09:25:46+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/bootstrap.min.js
+ERR: 非法操作:js
+
+[ 2017-08-17T09:25:46+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/calendar/WdatePicker.js
+ERR: 非法操作:js
+
+[ 2017-08-17T11:01:47+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/bootstrap.min.js
+ERR: 非法操作:js
+
+[ 2017-08-17T11:01:47+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/jquery-1.8.1.min.js
+ERR: 非法操作:js
+
+[ 2017-08-17T11:01:47+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/calendar/WdatePicker.js
+ERR: 非法操作:js
+
+[ 2017-08-17T11:01:47+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/bootstrap.min.js
+ERR: 非法操作:js
+
+[ 2017-08-17T11:01:47+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/calendar/WdatePicker.js
+ERR: 非法操作:js
+
+[ 2017-08-17T11:03:03+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/jquery-1.8.1.min.js
+ERR: 非法操作:js
+
+[ 2017-08-17T11:03:03+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/calendar/WdatePicker.js
+ERR: 非法操作:js
+
+[ 2017-08-17T11:03:03+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/bootstrap.min.js
+ERR: 非法操作:js
+
+[ 2017-08-17T11:03:03+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/calendar/WdatePicker.js
+ERR: 非法操作:js
+
+[ 2017-08-17T11:03:07+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/bootstrap.min.js
+ERR: 非法操作:js
+
+[ 2017-08-17T11:03:07+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/calendar/WdatePicker.js
+ERR: 非法操作:js
+
+[ 2017-08-17T11:03:07+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/jquery-1.8.1.min.js
+ERR: 非法操作:js
+
+[ 2017-08-17T11:03:07+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/bootstrap.min.js
+ERR: 非法操作:js
+
+[ 2017-08-17T11:03:07+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/calendar/WdatePicker.js
+ERR: 非法操作:js
+
+[ 2017-08-17T11:04:02+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/calendar/WdatePicker.js
+ERR: 非法操作:js
+
+[ 2017-08-17T11:04:02+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/bootstrap.min.js
+ERR: 非法操作:js
+
+[ 2017-08-17T11:04:02+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/jquery-1.8.1.min.js
+ERR: 非法操作:js
+
+[ 2017-08-17T11:04:02+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/bootstrap.min.js
+ERR: 非法操作:js
+
+[ 2017-08-17T11:04:02+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/calendar/WdatePicker.js
+ERR: 非法操作:js
+
+[ 2017-08-17T11:04:24+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/jquery-1.8.1.min.js
+ERR: 非法操作:js
+
+[ 2017-08-17T11:04:24+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/bootstrap.min.js
+ERR: 非法操作:js
+
+[ 2017-08-17T11:04:24+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/calendar/WdatePicker.js
+ERR: 非法操作:js
+
+[ 2017-08-17T11:06:48+08:00 ] 127.0.0.1 /index.php/Admin/Login/ajaxlogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000878s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001360s ]
+
+[ 2017-08-17T11:06:54+08:00 ] 127.0.0.1 /index.php/Admin/Login/ajaxlogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000659s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001154s ]
+
+[ 2017-08-17T11:07:11+08:00 ] 127.0.0.1 /index.php/Admin/Login/ajaxlogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000405s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000674s ]
+SQL: SHOW COLUMNS FROM `tpshop_manager` [ RunTime:0.0051s ]
+SQL: SELECT * FROM `tpshop_manager` WHERE `username` = 'admin' LIMIT 1   [ RunTime:0.0008s ]
+NOTIC: [8] Undefined variable: passwword E:\php\tpshop\Application\Common\Common\function.php 第 12 行.
+
+[ 2017-08-17T11:13:07+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/calendar/WdatePicker.js
+ERR: 非法操作:js
+
+[ 2017-08-17T11:13:07+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/jquery-1.8.1.min.js
+ERR: 非法操作:js
+
+[ 2017-08-17T11:13:07+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/bootstrap.min.js
+ERR: 非法操作:js
+
+[ 2017-08-17T11:13:07+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/calendar/WdatePicker.js
+ERR: 非法操作:js
+
+[ 2017-08-17T11:13:21+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/bootstrap.min.js
+ERR: 非法操作:js
+
+[ 2017-08-17T11:13:21+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/calendar/WdatePicker.js
+ERR: 非法操作:js
+
+[ 2017-08-17T11:13:21+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/jquery-1.8.1.min.js
+ERR: 非法操作:js
+
+[ 2017-08-17T11:13:21+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/bootstrap.min.js
+ERR: 非法操作:js
+
+[ 2017-08-17T11:13:21+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/calendar/WdatePicker.js
+ERR: 非法操作:js
+
+[ 2017-08-17T11:13:24+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/bootstrap.min.js
+ERR: 非法操作:js
+
+[ 2017-08-17T11:13:24+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/calendar/WdatePicker.js
+ERR: 非法操作:js
+
+[ 2017-08-17T11:13:24+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/jquery-1.8.1.min.js
+ERR: 非法操作:js
+
+[ 2017-08-17T11:13:24+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/bootstrap.min.js
+ERR: 非法操作:js
+
+[ 2017-08-17T11:13:24+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/calendar/WdatePicker.js
+ERR: 非法操作:js
+
+[ 2017-08-17T11:14:25+08:00 ] 127.0.0.1 /index.php/Admin/Role/index
+ERR: 无法加载控制器:Role
+
+[ 2017-08-17T11:17:49+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/bootstrap.min.js
+ERR: 非法操作:js
+
+[ 2017-08-17T11:17:49+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/jquery-1.8.1.min.js
+ERR: 非法操作:js
+
+[ 2017-08-17T11:17:49+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/calendar/WdatePicker.js
+ERR: 非法操作:js
+
+[ 2017-08-17T11:17:49+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/bootstrap.min.js
+ERR: 非法操作:js
+
+[ 2017-08-17T11:17:49+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/calendar/WdatePicker.js
+ERR: 非法操作:js
+
+[ 2017-08-17T11:18:38+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/calendar/WdatePicker.js
+ERR: 非法操作:js
+
+[ 2017-08-17T11:18:38+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/bootstrap.min.js
+ERR: 非法操作:js
+
+[ 2017-08-17T11:18:38+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/jquery-1.8.1.min.js
+ERR: 非法操作:js
+
+[ 2017-08-17T11:18:38+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/bootstrap.min.js
+ERR: 非法操作:js
+
+[ 2017-08-17T11:18:38+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/calendar/WdatePicker.js
+ERR: 非法操作:js
+
+[ 2017-08-17T11:18:43+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/jquery-1.8.1.min.js
+ERR: 非法操作:js
+
+[ 2017-08-17T11:18:43+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/bootstrap.min.js
+ERR: 非法操作:js
+
+[ 2017-08-17T11:18:43+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/calendar/WdatePicker.js
+ERR: 非法操作:js
+
+[ 2017-08-17T11:18:50+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/jquery-1.8.1.min.js
+ERR: 非法操作:js
+
+[ 2017-08-17T11:18:50+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/calendar/WdatePicker.js
+ERR: 非法操作:js
+
+[ 2017-08-17T11:18:50+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/bootstrap.min.js
+ERR: 非法操作:js
+
+[ 2017-08-17T11:18:50+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/calendar/WdatePicker.js
+ERR: 非法操作:js
+
+[ 2017-08-17T11:18:54+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/jquery-1.8.1.min.js
+ERR: 非法操作:js
+
+[ 2017-08-17T11:18:54+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/calendar/WdatePicker.js
+ERR: 非法操作:js
+
+[ 2017-08-17T11:18:55+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/bootstrap.min.js
+ERR: 非法操作:js
+
+[ 2017-08-17T11:18:55+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/calendar/WdatePicker.js
+ERR: 非法操作:js
+
+[ 2017-08-17T11:23:47+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/bootstrap.min.js
+ERR: 非法操作:js
+
+[ 2017-08-17T11:23:47+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/calendar/WdatePicker.js
+ERR: 非法操作:js
+
+[ 2017-08-17T11:23:47+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/jquery-1.8.1.min.js
+ERR: 非法操作:js
+
+[ 2017-08-17T11:23:47+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/bootstrap.min.js
+ERR: 非法操作:js
+
+[ 2017-08-17T11:23:47+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/calendar/WdatePicker.js
+ERR: 非法操作:js
+
+[ 2017-08-17T11:23:59+08:00 ] 127.0.0.1 /index.php/Admin/Role/Public/Admin/js/jquery-1.8.1.min.js
+ERR: 非法操作:Public
+
+[ 2017-08-17T11:23:59+08:00 ] 127.0.0.1 /index.php/Admin/Role/Public/Admin/js/bootstrap.min.js
+ERR: 非法操作:Public
+
+[ 2017-08-17T11:23:59+08:00 ] 127.0.0.1 /index.php/Admin/Role/Public/Admin/js/calendar/WdatePicker.js
+ERR: 非法操作:Public
+
+[ 2017-08-17T11:30:20+08:00 ] 127.0.0.1 /index.php/Admin/Role/Public/Admin/js/jquery-1.8.1.min.js
+ERR: 非法操作:Public
+
+[ 2017-08-17T11:30:20+08:00 ] 127.0.0.1 /index.php/Admin/Role/Public/Admin/js/bootstrap.min.js
+ERR: 非法操作:Public
+
+[ 2017-08-17T11:30:20+08:00 ] 127.0.0.1 /index.php/Admin/Role/Public/Admin/js/calendar/WdatePicker.js
+ERR: 非法操作:Public
+
+[ 2017-08-17T11:30:23+08:00 ] 127.0.0.1 /index.php/Admin/Role/Public/Admin/js/calendar/WdatePicker.js
+ERR: 非法操作:Public
+
+[ 2017-08-17T11:30:23+08:00 ] 127.0.0.1 /index.php/Admin/Role/Public/Admin/js/bootstrap.min.js
+ERR: 非法操作:Public
+
+[ 2017-08-17T11:30:23+08:00 ] 127.0.0.1 /index.php/Admin/Role/Public/Admin/js/jquery-1.8.1.min.js
+ERR: 非法操作:Public
+
+[ 2017-08-17T11:30:23+08:00 ] 127.0.0.1 /index.php/Admin/Role/Public/Admin/js/bootstrap.min.js
+ERR: 非法操作:Public
+
+[ 2017-08-17T11:30:23+08:00 ] 127.0.0.1 /index.php/Admin/Role/Public/Admin/js/calendar/WdatePicker.js
+ERR: 非法操作:Public
+
+[ 2017-08-17T11:33:43+08:00 ] 127.0.0.1 /index.php/Admin/Role/Public/Admin/js/calendar/WdatePicker.js
+ERR: 非法操作:Public
+
+[ 2017-08-17T11:33:43+08:00 ] 127.0.0.1 /index.php/Admin/Role/Public/Admin/js/bootstrap.min.js
+ERR: 非法操作:Public
+
+[ 2017-08-17T11:33:43+08:00 ] 127.0.0.1 /index.php/Admin/Role/Public/Admin/js/jquery-1.8.1.min.js
+ERR: 非法操作:Public
+
+[ 2017-08-17T11:33:43+08:00 ] 127.0.0.1 /index.php/Admin/Role/Public/Admin/js/bootstrap.min.js
+ERR: 非法操作:Public
+
+[ 2017-08-17T11:33:43+08:00 ] 127.0.0.1 /index.php/Admin/Role/Public/Admin/js/calendar/WdatePicker.js
+ERR: 非法操作:Public
+
+[ 2017-08-17T11:35:00+08:00 ] 127.0.0.1 /index.php/Admin/Role/Public/Admin/js/bootstrap.min.js
+ERR: 非法操作:Public
+
+[ 2017-08-17T11:35:00+08:00 ] 127.0.0.1 /index.php/Admin/Role/Public/Admin/js/jquery-1.8.1.min.js
+ERR: 非法操作:Public
+
+[ 2017-08-17T11:35:00+08:00 ] 127.0.0.1 /index.php/Admin/Role/Public/Admin/js/calendar/WdatePicker.js
+ERR: 非法操作:Public
+
+[ 2017-08-17T11:35:00+08:00 ] 127.0.0.1 /index.php/Admin/Role/Public/Admin/js/bootstrap.min.js
+ERR: 非法操作:Public
+
+[ 2017-08-17T11:35:00+08:00 ] 127.0.0.1 /index.php/Admin/Role/Public/Admin/js/calendar/WdatePicker.js
+ERR: 非法操作:Public
+
+[ 2017-08-17T11:35:39+08:00 ] 127.0.0.1 /index.php/Admin/Role/Public/Admin/js/calendar/WdatePicker.js
+ERR: 非法操作:Public
+
+[ 2017-08-17T11:35:39+08:00 ] 127.0.0.1 /index.php/Admin/Role/Public/Admin/js/jquery-1.8.1.min.js
+ERR: 非法操作:Public
+
+[ 2017-08-17T11:35:39+08:00 ] 127.0.0.1 /index.php/Admin/Role/Public/Admin/js/bootstrap.min.js
+ERR: 非法操作:Public
+
+[ 2017-08-17T11:35:39+08:00 ] 127.0.0.1 /index.php/Admin/Role/Public/Admin/js/calendar/WdatePicker.js
+ERR: 非法操作:Public
+
+[ 2017-08-17T11:35:55+08:00 ] 127.0.0.1 /index.php/Admin/Role/Public/Admin/js/jquery-1.8.1.min.js
+ERR: 非法操作:Public
+
+[ 2017-08-17T11:35:55+08:00 ] 127.0.0.1 /index.php/Admin/Role/Public/Admin/js/bootstrap.min.js
+ERR: 非法操作:Public
+
+[ 2017-08-17T11:35:55+08:00 ] 127.0.0.1 /index.php/Admin/Role/Public/Admin/js/calendar/WdatePicker.js
+ERR: 非法操作:Public
+
+[ 2017-08-17T11:36:19+08:00 ] 127.0.0.1 /index.php/Admin/Role/Public/Admin/js/jquery-1.8.1.min.js
+ERR: 非法操作:Public
+
+[ 2017-08-17T11:36:19+08:00 ] 127.0.0.1 /index.php/Admin/Role/Public/Admin/js/bootstrap.min.js
+ERR: 非法操作:Public
+
+[ 2017-08-17T11:36:19+08:00 ] 127.0.0.1 /index.php/Admin/Role/Public/Admin/js/calendar/WdatePicker.js
+ERR: 非法操作:Public
+
+[ 2017-08-17T11:37:50+08:00 ] 127.0.0.1 /index.php/Admin/Role/Public/Admin/js/jquery-1.8.1.min.js
+ERR: 非法操作:Public
+
+[ 2017-08-17T11:37:50+08:00 ] 127.0.0.1 /index.php/Admin/Role/Public/Admin/js/bootstrap.min.js
+ERR: 非法操作:Public
+
+[ 2017-08-17T11:37:50+08:00 ] 127.0.0.1 /index.php/Admin/Role/Public/Admin/js/calendar/WdatePicker.js
+ERR: 非法操作:Public
+
+[ 2017-08-17T11:40:12+08:00 ] 127.0.0.1 /index.php/Admin/Role/Public/Admin/js/jquery-1.8.1.min.js
+ERR: 非法操作:Public
+
+[ 2017-08-17T11:40:12+08:00 ] 127.0.0.1 /index.php/Admin/Role/Public/Admin/js/bootstrap.min.js
+ERR: 非法操作:Public
+
+[ 2017-08-17T11:40:12+08:00 ] 127.0.0.1 /index.php/Admin/Role/Public/Admin/js/calendar/WdatePicker.js
+ERR: 非法操作:Public
+
+[ 2017-08-17T11:40:16+08:00 ] 127.0.0.1 /index.php/Admin/Role/Public/Admin/js/jquery-1.8.1.min.js
+ERR: 非法操作:Public
+
+[ 2017-08-17T11:40:16+08:00 ] 127.0.0.1 /index.php/Admin/Role/Public/Admin/js/bootstrap.min.js
+ERR: 非法操作:Public
+
+[ 2017-08-17T11:40:16+08:00 ] 127.0.0.1 /index.php/Admin/Role/Public/Admin/js/calendar/WdatePicker.js
+ERR: 非法操作:Public
+
+[ 2017-08-17T11:47:39+08:00 ] 127.0.0.1 /index.php/Admin/Role/Public/Admin/js/bootstrap.min.js
+ERR: 非法操作:Public
+
+[ 2017-08-17T11:47:39+08:00 ] 127.0.0.1 /index.php/Admin/Role/Public/Admin/js/jquery-1.8.1.min.js
+ERR: 非法操作:Public
+
+[ 2017-08-17T11:47:39+08:00 ] 127.0.0.1 /index.php/Admin/Role/Public/Admin/js/calendar/WdatePicker.js
+ERR: 非法操作:Public
+
+[ 2017-08-17T11:47:39+08:00 ] 127.0.0.1 /index.php/Admin/Role/Public/Admin/js/bootstrap.min.js
+ERR: 非法操作:Public
+
+[ 2017-08-17T11:47:39+08:00 ] 127.0.0.1 /index.php/Admin/Role/Public/Admin/js/calendar/WdatePicker.js
+ERR: 非法操作:Public
+
+[ 2017-08-17T11:49:39+08:00 ] 127.0.0.1 /index.php/Admin/Role/Public/Admin/js/jquery-1.8.1.min.js
+ERR: 非法操作:Public
+
+[ 2017-08-17T11:49:39+08:00 ] 127.0.0.1 /index.php/Admin/Role/Public/Admin/js/bootstrap.min.js
+ERR: 非法操作:Public
+
+[ 2017-08-17T11:49:39+08:00 ] 127.0.0.1 /index.php/Admin/Role/Public/Admin/js/calendar/WdatePicker.js
+ERR: 非法操作:Public
+
+[ 2017-08-17T11:49:51+08:00 ] 127.0.0.1 /index.php/Admin/Role/Public/Admin/js/calendar/WdatePicker.js
+ERR: 非法操作:Public
+
+[ 2017-08-17T11:49:51+08:00 ] 127.0.0.1 /index.php/Admin/Role/Public/Admin/js/bootstrap.min.js
+ERR: 非法操作:Public
+
+[ 2017-08-17T11:49:51+08:00 ] 127.0.0.1 /index.php/Admin/Role/Public/Admin/js/jquery-1.8.1.min.js
+ERR: 非法操作:Public
+
+[ 2017-08-17T11:49:51+08:00 ] 127.0.0.1 /index.php/Admin/Role/Public/Admin/js/bootstrap.min.js
+ERR: 非法操作:Public
+
+[ 2017-08-17T11:49:51+08:00 ] 127.0.0.1 /index.php/Admin/Role/Public/Admin/js/calendar/WdatePicker.js
+ERR: 非法操作:Public
+
+[ 2017-08-17T11:50:02+08:00 ] 127.0.0.1 /index.php/Admin/Role/Public/Admin/js/bootstrap.min.js
+ERR: 非法操作:Public
+
+[ 2017-08-17T11:50:02+08:00 ] 127.0.0.1 /index.php/Admin/Role/Public/Admin/js/jquery-1.8.1.min.js
+ERR: 非法操作:Public
+
+[ 2017-08-17T11:50:02+08:00 ] 127.0.0.1 /index.php/Admin/Role/Public/Admin/js/calendar/WdatePicker.js
+ERR: 非法操作:Public
+
+[ 2017-08-17T11:50:02+08:00 ] 127.0.0.1 /index.php/Admin/Role/Public/Admin/js/bootstrap.min.js
+ERR: 非法操作:Public
+
+[ 2017-08-17T11:50:02+08:00 ] 127.0.0.1 /index.php/Admin/Role/Public/Admin/js/calendar/WdatePicker.js
+ERR: 非法操作:Public
+
+[ 2017-08-17T12:49:12+08:00 ] 127.0.0.1 /index.php/Admin/Login/ajaxlogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000659s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001048s ]
+SQL: SHOW COLUMNS FROM `tpshop_manager` [ RunTime:0.0037s ]
+SQL: SELECT * FROM `tpshop_manager` WHERE `username` = 'admin' LIMIT 1   [ RunTime:0.0006s ]
+NOTIC: [8] Undefined variable: passwword E:\php\tpshop\Application\Common\Common\function.php 第 12 行.
+
+[ 2017-08-17T12:49:23+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/jquery-1.8.1.min.js
+ERR: 非法操作:js
+
+[ 2017-08-17T12:49:23+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/calendar/WdatePicker.js
+ERR: 非法操作:js
+
+[ 2017-08-17T12:49:23+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/bootstrap.min.js
+ERR: 非法操作:js
+
+[ 2017-08-17T12:49:23+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/calendar/WdatePicker.js
+ERR: 非法操作:js
+
+[ 2017-08-17T12:49:50+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/calendar/WdatePicker.js
+ERR: 非法操作:js
+
+[ 2017-08-17T12:49:50+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/bootstrap.min.js
+ERR: 非法操作:js
+
+[ 2017-08-17T12:49:50+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/jquery-1.8.1.min.js
+ERR: 非法操作:js
+
+[ 2017-08-17T12:49:50+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/bootstrap.min.js
+ERR: 非法操作:js
+
+[ 2017-08-17T12:49:50+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/calendar/WdatePicker.js
+ERR: 非法操作:js
+
+[ 2017-08-17T12:49:58+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/calendar/WdatePicker.js
+ERR: 非法操作:js
+
+[ 2017-08-17T12:49:58+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/bootstrap.min.js
+ERR: 非法操作:js
+
+[ 2017-08-17T12:49:58+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/jquery-1.8.1.min.js
+ERR: 非法操作:js
+
+[ 2017-08-17T12:49:58+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/bootstrap.min.js
+ERR: 非法操作:js
+
+[ 2017-08-17T12:49:58+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/calendar/WdatePicker.js
+ERR: 非法操作:js
+
+[ 2017-08-17T12:50:05+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/jquery-1.8.1.min.js
+ERR: 非法操作:js
+
+[ 2017-08-17T12:50:05+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/bootstrap.min.js
+ERR: 非法操作:js
+
+[ 2017-08-17T12:50:05+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/calendar/WdatePicker.js
+ERR: 非法操作:js
+
+[ 2017-08-17T12:52:18+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/jquery-1.8.1.min.js
+ERR: 非法操作:js
+
+[ 2017-08-17T12:52:18+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/bootstrap.min.js
+ERR: 非法操作:js
+
+[ 2017-08-17T12:52:18+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/calendar/WdatePicker.js
+ERR: 非法操作:js
+
+[ 2017-08-17T12:52:24+08:00 ] 127.0.0.1 /index.php/Admin/js/jquery-1.8.1.min.js
+ERR: 无法加载控制器:Js
+
+[ 2017-08-17T12:52:24+08:00 ] 127.0.0.1 /index.php/Admin/js/calendar/WdatePicker.js
+ERR: 无法加载控制器:Js
+
+[ 2017-08-17T12:52:24+08:00 ] 127.0.0.1 /index.php/Admin/js/bootstrap.min.js
+ERR: 无法加载控制器:Js
+
+[ 2017-08-17T12:52:24+08:00 ] 127.0.0.1 /index.php/Admin/js/calendar/WdatePicker.js
+ERR: 无法加载控制器:Js
+
+[ 2017-08-17T12:52:58+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/calendar/WdatePicker.js
+ERR: 非法操作:js
+
+[ 2017-08-17T12:52:58+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/jquery-1.8.1.min.js
+ERR: 非法操作:js
+
+[ 2017-08-17T12:52:58+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/bootstrap.min.js
+ERR: 非法操作:js
+
+[ 2017-08-17T12:52:58+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/calendar/WdatePicker.js
+ERR: 非法操作:js
+
+[ 2017-08-17T12:54:01+08:00 ] 127.0.0.1 /index.php/Admin/Role/Public/Admin/js/jquery-1.8.1.min.js
+ERR: 非法操作:Public
+
+[ 2017-08-17T12:54:01+08:00 ] 127.0.0.1 /index.php/Admin/Role/Public/Admin/js/bootstrap.min.js
+ERR: 非法操作:Public
+
+[ 2017-08-17T12:54:01+08:00 ] 127.0.0.1 /index.php/Admin/Role/Public/Admin/js/calendar/WdatePicker.js
+ERR: 非法操作:Public
+
+[ 2017-08-17T12:54:09+08:00 ] 127.0.0.1 /index.php/Admin/Role/Public/Admin/js/calendar/WdatePicker.js
+ERR: 非法操作:Public
+
+[ 2017-08-17T12:54:09+08:00 ] 127.0.0.1 /index.php/Admin/Role/Public/Admin/js/jquery-1.8.1.min.js
+ERR: 非法操作:Public
+
+[ 2017-08-17T12:54:09+08:00 ] 127.0.0.1 /index.php/Admin/Role/Public/Admin/js/bootstrap.min.js
+ERR: 非法操作:Public
+
+[ 2017-08-17T12:54:09+08:00 ] 127.0.0.1 /index.php/Admin/Role/Public/Admin/js/calendar/WdatePicker.js
+ERR: 非法操作:Public
+
+[ 2017-08-17T12:54:14+08:00 ] 127.0.0.1 /index.php/Admin/Role/Public/Admin/js/bootstrap.min.js
+ERR: 非法操作:Public
+
+[ 2017-08-17T12:54:14+08:00 ] 127.0.0.1 /index.php/Admin/Role/Public/Admin/js/calendar/WdatePicker.js
+ERR: 非法操作:Public
+
+[ 2017-08-17T12:54:14+08:00 ] 127.0.0.1 /index.php/Admin/Role/Public/Admin/js/jquery-1.8.1.min.js
+ERR: 非法操作:Public
+
+[ 2017-08-17T12:54:14+08:00 ] 127.0.0.1 /index.php/Admin/Role/Public/Admin/js/bootstrap.min.js
+ERR: 非法操作:Public
+
+[ 2017-08-17T12:54:14+08:00 ] 127.0.0.1 /index.php/Admin/Role/Public/Admin/js/calendar/WdatePicker.js
+ERR: 非法操作:Public
+
+[ 2017-08-17T12:54:41+08:00 ] 127.0.0.1 /index.php/Admin/Order/index
+ERR: 无法加载控制器:Order
+
+[ 2017-08-17T12:54:53+08:00 ] 127.0.0.1 /index.php/Admin/Order/index
+ERR: 无法加载控制器:Order
+
+[ 2017-08-17T12:57:55+08:00 ] 127.0.0.1 /index.php/Admin/Login/ajaxlogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000606s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000960s ]
+SQL: SHOW COLUMNS FROM `tpshop_manager` [ RunTime:0.0036s ]
+SQL: SELECT * FROM `tpshop_manager` WHERE `username` = 'admin' LIMIT 1   [ RunTime:0.0007s ]
+NOTIC: [8] Undefined variable: passwword E:\php\tpshop\Application\Common\Common\function.php 第 12 行.
+
+[ 2017-08-17T12:58:11+08:00 ] 127.0.0.1 /index.php/Admin/Role/Public/Admin/js/bootstrap.min.js
+ERR: 非法操作:Public
+
+[ 2017-08-17T12:58:11+08:00 ] 127.0.0.1 /index.php/Admin/Role/Public/Admin/js/calendar/WdatePicker.js
+ERR: 非法操作:Public
+
+[ 2017-08-17T12:58:11+08:00 ] 127.0.0.1 /index.php/Admin/Role/Public/Admin/js/jquery-1.8.1.min.js
+ERR: 非法操作:Public
+
+[ 2017-08-17T12:58:11+08:00 ] 127.0.0.1 /index.php/Admin/Role/Public/Admin/js/bootstrap.min.js
+ERR: 非法操作:Public
+
+[ 2017-08-17T12:58:11+08:00 ] 127.0.0.1 /index.php/Admin/Role/Public/Admin/js/calendar/WdatePicker.js
+ERR: 非法操作:Public
+
+[ 2017-08-17T12:59:04+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/bootstrap.min.js
+ERR: 非法操作:js
+
+[ 2017-08-17T12:59:04+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/jquery-1.8.1.min.js
+ERR: 非法操作:js
+
+[ 2017-08-17T12:59:04+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/calendar/WdatePicker.js
+ERR: 非法操作:js
+
+[ 2017-08-17T12:59:04+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/bootstrap.min.js
+ERR: 非法操作:js
+
+[ 2017-08-17T12:59:04+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/calendar/WdatePicker.js
+ERR: 非法操作:js
+
+[ 2017-08-17T13:02:26+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/jquery-1.8.1.min.js
+ERR: 非法操作:js
+
+[ 2017-08-17T13:02:26+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/bootstrap.min.js
+ERR: 非法操作:js
+
+[ 2017-08-17T13:02:26+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/calendar/WdatePicker.js
+ERR: 非法操作:js
+
+[ 2017-08-17T13:02:30+08:00 ] 127.0.0.1 /index.php/Admin/js/jquery-1.8.1.min.js
+ERR: 无法加载控制器:Js
+
+[ 2017-08-17T13:02:30+08:00 ] 127.0.0.1 /index.php/Admin/js/calendar/WdatePicker.js
+ERR: 无法加载控制器:Js
+
+[ 2017-08-17T13:02:30+08:00 ] 127.0.0.1 /index.php/Admin/js/bootstrap.min.js
+ERR: 无法加载控制器:Js
+
+[ 2017-08-17T13:02:30+08:00 ] 127.0.0.1 /index.php/Admin/js/calendar/WdatePicker.js
+ERR: 无法加载控制器:Js
+
+[ 2017-08-17T13:02:40+08:00 ] 127.0.0.1 /index.php/Admin/Role/Public/Admin/js/jquery-1.8.1.min.js
+ERR: 非法操作:Public
+
+[ 2017-08-17T13:02:40+08:00 ] 127.0.0.1 /index.php/Admin/Role/Public/Admin/js/calendar/WdatePicker.js
+ERR: 非法操作:Public
+
+[ 2017-08-17T13:02:40+08:00 ] 127.0.0.1 /index.php/Admin/Role/Public/Admin/js/bootstrap.min.js
+ERR: 非法操作:Public
+
+[ 2017-08-17T13:02:40+08:00 ] 127.0.0.1 /index.php/Admin/Role/Public/Admin/js/calendar/WdatePicker.js
+ERR: 非法操作:Public
+
+[ 2017-08-17T13:03:01+08:00 ] 127.0.0.1 /index.php/Admin/Order/index
+ERR: 无法加载控制器:Order
+
+[ 2017-08-17T13:03:25+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/jquery-1.8.1.min.js
+ERR: 非法操作:js
+
+[ 2017-08-17T13:03:25+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/bootstrap.min.js
+ERR: 非法操作:js
+
+[ 2017-08-17T13:03:25+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/calendar/WdatePicker.js
+ERR: 非法操作:js
+
+[ 2017-08-17T13:04:24+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/jquery-1.8.1.min.js
+ERR: 非法操作:js
+
+[ 2017-08-17T13:04:24+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/calendar/WdatePicker.js
+ERR: 非法操作:js
+
+[ 2017-08-17T13:04:24+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/bootstrap.min.js
+ERR: 非法操作:js
+
+[ 2017-08-17T13:04:24+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/calendar/WdatePicker.js
+ERR: 非法操作:js
+
+[ 2017-08-17T13:04:31+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/jquery-1.8.1.min.js
+ERR: 非法操作:js
+
+[ 2017-08-17T13:04:31+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/calendar/WdatePicker.js
+ERR: 非法操作:js
+
+[ 2017-08-17T13:04:32+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/bootstrap.min.js
+ERR: 非法操作:js
+
+[ 2017-08-17T13:04:32+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/calendar/WdatePicker.js
+ERR: 非法操作:js
+
+[ 2017-08-17T13:04:54+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/bootstrap.min.js
+ERR: 非法操作:js
+
+[ 2017-08-17T13:04:54+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/calendar/WdatePicker.js
+ERR: 非法操作:js
+
+[ 2017-08-17T13:04:54+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/jquery-1.8.1.min.js
+ERR: 非法操作:js
+
+[ 2017-08-17T13:04:54+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/bootstrap.min.js
+ERR: 非法操作:js
+
+[ 2017-08-17T13:04:54+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/calendar/WdatePicker.js
+ERR: 非法操作:js
+
+[ 2017-08-17T13:05:00+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/calendar/WdatePicker.js
+ERR: 非法操作:js
+
+[ 2017-08-17T13:05:00+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/jquery-1.8.1.min.js
+ERR: 非法操作:js
+
+[ 2017-08-17T13:05:00+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/bootstrap.min.js
+ERR: 非法操作:js
+
+[ 2017-08-17T13:05:00+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/calendar/WdatePicker.js
+ERR: 非法操作:js
+
+[ 2017-08-17T13:11:28+08:00 ] 127.0.0.1 /index.php/Admin/Role/Public/Admin/js/jquery-1.8.1.min.js
+ERR: 非法操作:Public
+
+[ 2017-08-17T13:11:28+08:00 ] 127.0.0.1 /index.php/Admin/Role/Public/Admin/js/bootstrap.min.js
+ERR: 非法操作:Public
+
+[ 2017-08-17T13:11:28+08:00 ] 127.0.0.1 /index.php/Admin/Role/Public/Admin/js/calendar/WdatePicker.js
+ERR: 非法操作:Public
+
+[ 2017-08-17T13:12:28+08:00 ] 127.0.0.1 /index.php/Admin/Role/Public/Admin/js/calendar/WdatePicker.js
+ERR: 非法操作:Public
+
+[ 2017-08-17T13:12:28+08:00 ] 127.0.0.1 /index.php/Admin/Role/Public/Admin/js/bootstrap.min.js
+ERR: 非法操作:Public
+
+[ 2017-08-17T13:12:28+08:00 ] 127.0.0.1 /index.php/Admin/Role/Public/Admin/js/jquery-1.8.1.min.js
+ERR: 非法操作:Public
+
+[ 2017-08-17T13:12:28+08:00 ] 127.0.0.1 /index.php/Admin/Role/Public/Admin/js/bootstrap.min.js
+ERR: 非法操作:Public
+
+[ 2017-08-17T13:12:28+08:00 ] 127.0.0.1 /index.php/Admin/Role/Public/Admin/js/calendar/WdatePicker.js
+ERR: 非法操作:Public
+
+[ 2017-08-17T13:14:54+08:00 ] 127.0.0.1 /index.php/Admin/Role/Public/Admin/js/jquery-1.8.1.min.js
+ERR: 非法操作:Public
+
+[ 2017-08-17T13:14:54+08:00 ] 127.0.0.1 /index.php/Admin/Role/Public/Admin/js/calendar/WdatePicker.js
+ERR: 非法操作:Public
+
+[ 2017-08-17T13:14:54+08:00 ] 127.0.0.1 /index.php/Admin/Role/Public/Admin/js/bootstrap.min.js
+ERR: 非法操作:Public
+
+[ 2017-08-17T13:14:54+08:00 ] 127.0.0.1 /index.php/Admin/Role/Public/Admin/js/calendar/WdatePicker.js
+ERR: 非法操作:Public
+
+[ 2017-08-17T13:31:59+08:00 ] 127.0.0.1 /index.php/Admin/Goods/delpics
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000509s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000834s ]
+SQL: SHOW COLUMNS FROM `tpshop_goodspics` [ RunTime:0.0033s ]
+SQL: SELECT * FROM `tpshop_goodspics` WHERE `id` = 40 LIMIT 1   [ RunTime:0.0006s ]
+SQL: DELETE FROM `tpshop_goodspics` WHERE `id` = 40 [ RunTime:0.1336s ]
+NOTIC: [2] unlink(E:\php\tpshop/Public/Uploads/2017-08-16/59945ee731e44.jpg): No such file or directory E:\php\tpshop\Application\Admin\Controller\GoodsController.class.php 第 291 行.
+NOTIC: [2] unlink(E:\php\tpshop/Public/Uploads/2017-08-16/thumb_800_59945ee731e44.jpg): No such file or directory E:\php\tpshop\Application\Admin\Controller\GoodsController.class.php 第 292 行.
+NOTIC: [2] unlink(E:\php\tpshop/Public/Uploads/2017-08-16/thumb_350_59945ee731e44.jpg): No such file or directory E:\php\tpshop\Application\Admin\Controller\GoodsController.class.php 第 293 行.
+NOTIC: [2] unlink(E:\php\tpshop/Public/Uploads/2017-08-16/thumb_50_59945ee731e44.jpg): No such file or directory E:\php\tpshop\Application\Admin\Controller\GoodsController.class.php 第 294 行.
+
+[ 2017-08-17T13:32:03+08:00 ] 127.0.0.1 /index.php/Admin/Goods/delpics
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000504s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000819s ]
+SQL: SHOW COLUMNS FROM `tpshop_goodspics` [ RunTime:0.0032s ]
+SQL: SELECT * FROM `tpshop_goodspics` WHERE `id` = 47 LIMIT 1   [ RunTime:0.0006s ]
+SQL: DELETE FROM `tpshop_goodspics` WHERE `id` = 47 [ RunTime:0.0806s ]
+NOTIC: [2] unlink(E:\php\tpshop/Public/Uploads/2017-08-17/599529da2a15d.jpg): No such file or directory E:\php\tpshop\Application\Admin\Controller\GoodsController.class.php 第 291 行.
+NOTIC: [2] unlink(E:\php\tpshop/Public/Uploads/2017-08-17/thumb_800_599529da2a15d.jpg): No such file or directory E:\php\tpshop\Application\Admin\Controller\GoodsController.class.php 第 292 行.
+NOTIC: [2] unlink(E:\php\tpshop/Public/Uploads/2017-08-17/thumb_350_599529da2a15d.jpg): No such file or directory E:\php\tpshop\Application\Admin\Controller\GoodsController.class.php 第 293 行.
+NOTIC: [2] unlink(E:\php\tpshop/Public/Uploads/2017-08-17/thumb_50_599529da2a15d.jpg): No such file or directory E:\php\tpshop\Application\Admin\Controller\GoodsController.class.php 第 294 行.
+
+[ 2017-08-17T13:37:34+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/jquery-1.8.1.min.js
+ERR: 非法操作:js
+
+[ 2017-08-17T13:37:34+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/calendar/WdatePicker.js
+ERR: 非法操作:js
+
+[ 2017-08-17T13:37:34+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/bootstrap.min.js
+ERR: 非法操作:js
+
+[ 2017-08-17T13:37:34+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/calendar/WdatePicker.js
+ERR: 非法操作:js
+
+[ 2017-08-17T13:38:05+08:00 ] 127.0.0.1 /index.php/Admin/Role/Public/Admin/js/bootstrap.min.js
+ERR: 非法操作:Public
+
+[ 2017-08-17T13:38:05+08:00 ] 127.0.0.1 /index.php/Admin/Role/Public/Admin/js/jquery-1.8.1.min.js
+ERR: 非法操作:Public
+
+[ 2017-08-17T13:38:05+08:00 ] 127.0.0.1 /index.php/Admin/Role/Public/Admin/js/calendar/WdatePicker.js
+ERR: 非法操作:Public
+
+[ 2017-08-17T13:38:05+08:00 ] 127.0.0.1 /index.php/Admin/Role/Public/Admin/js/bootstrap.min.js
+ERR: 非法操作:Public
+
+[ 2017-08-17T13:38:05+08:00 ] 127.0.0.1 /index.php/Admin/Role/Public/Admin/js/calendar/WdatePicker.js
+ERR: 非法操作:Public
+
+[ 2017-08-17T13:38:28+08:00 ] 127.0.0.1 /index.php/Admin/Role/Public/Admin/js/jquery-1.8.1.min.js
+ERR: 非法操作:Public
+
+[ 2017-08-17T13:38:28+08:00 ] 127.0.0.1 /index.php/Admin/Role/Public/Admin/js/calendar/WdatePicker.js
+ERR: 非法操作:Public
+
+[ 2017-08-17T13:38:28+08:00 ] 127.0.0.1 /index.php/Admin/Role/Public/Admin/js/bootstrap.min.js
+ERR: 非法操作:Public
+
+[ 2017-08-17T13:38:28+08:00 ] 127.0.0.1 /index.php/Admin/Role/Public/Admin/js/calendar/WdatePicker.js
+ERR: 非法操作:Public
+
+[ 2017-08-17T13:38:43+08:00 ] 127.0.0.1 /index.php/Admin/Role/Public/Admin/js/jquery-1.8.1.min.js
+ERR: 非法操作:Public
+
+[ 2017-08-17T13:38:43+08:00 ] 127.0.0.1 /index.php/Admin/Role/Public/Admin/js/calendar/WdatePicker.js
+ERR: 非法操作:Public
+
+[ 2017-08-17T13:38:43+08:00 ] 127.0.0.1 /index.php/Admin/Role/Public/Admin/js/bootstrap.min.js
+ERR: 非法操作:Public
+
+[ 2017-08-17T13:38:43+08:00 ] 127.0.0.1 /index.php/Admin/Role/Public/Admin/js/calendar/WdatePicker.js
+ERR: 非法操作:Public
+
+[ 2017-08-17T13:39:52+08:00 ] 127.0.0.1 /index.php/Admin/Role/Public/Admin/js/jquery-1.8.1.min.js
+ERR: 非法操作:Public
+
+[ 2017-08-17T13:39:52+08:00 ] 127.0.0.1 /index.php/Admin/Role/Public/Admin/js/bootstrap.min.js
+ERR: 非法操作:Public
+
+[ 2017-08-17T13:39:52+08:00 ] 127.0.0.1 /index.php/Admin/Role/Public/Admin/js/calendar/WdatePicker.js
+ERR: 非法操作:Public
+
+[ 2017-08-17T13:45:13+08:00 ] 127.0.0.1 /index.php/Admin/Role/Public/Admin/js/jquery-1.8.1.min.js
+ERR: 非法操作:Public
+
+[ 2017-08-17T13:45:13+08:00 ] 127.0.0.1 /index.php/Admin/Role/Public/Admin/js/calendar/WdatePicker.js
+ERR: 非法操作:Public
+
+[ 2017-08-17T13:45:13+08:00 ] 127.0.0.1 /index.php/Admin/Role/Public/Admin/js/bootstrap.min.js
+ERR: 非法操作:Public
+
+[ 2017-08-17T13:45:13+08:00 ] 127.0.0.1 /index.php/Admin/Role/Public/Admin/js/calendar/WdatePicker.js
+ERR: 非法操作:Public
+
+[ 2017-08-17T13:46:14+08:00 ] 127.0.0.1 /index.php/Admin/Role/Public/Admin/js/jquery-1.8.1.min.js
+ERR: 非法操作:Public
+
+[ 2017-08-17T13:46:14+08:00 ] 127.0.0.1 /index.php/Admin/Role/Public/Admin/js/calendar/WdatePicker.js
+ERR: 非法操作:Public
+
+[ 2017-08-17T13:46:14+08:00 ] 127.0.0.1 /index.php/Admin/Role/Public/Admin/js/bootstrap.min.js
+ERR: 非法操作:Public
+
+[ 2017-08-17T13:46:14+08:00 ] 127.0.0.1 /index.php/Admin/Role/Public/Admin/js/calendar/WdatePicker.js
+ERR: 非法操作:Public
+
+[ 2017-08-17T13:51:18+08:00 ] 127.0.0.1 /index.php/Admin/Role/Public/Admin/js/jquery-1.8.1.min.js
+ERR: 非法操作:Public
+
+[ 2017-08-17T13:51:18+08:00 ] 127.0.0.1 /index.php/Admin/Role/Public/Admin/js/bootstrap.min.js
+ERR: 非法操作:Public
+
+[ 2017-08-17T13:51:18+08:00 ] 127.0.0.1 /index.php/Admin/Role/Public/Admin/js/calendar/WdatePicker.js
+ERR: 非法操作:Public
+
+[ 2017-08-17T13:52:53+08:00 ] 127.0.0.1 /index.php/Admin/Role/Public/Admin/js/calendar/WdatePicker.js
+ERR: 非法操作:Public
+
+[ 2017-08-17T13:52:53+08:00 ] 127.0.0.1 /index.php/Admin/Role/Public/Admin/js/bootstrap.min.js
+ERR: 非法操作:Public
+
+[ 2017-08-17T13:52:53+08:00 ] 127.0.0.1 /index.php/Admin/Role/Public/Admin/js/jquery-1.8.1.min.js
+ERR: 非法操作:Public
+
+[ 2017-08-17T13:52:53+08:00 ] 127.0.0.1 /index.php/Admin/Role/Public/Admin/js/bootstrap.min.js
+ERR: 非法操作:Public
+
+[ 2017-08-17T13:52:53+08:00 ] 127.0.0.1 /index.php/Admin/Role/Public/Admin/js/calendar/WdatePicker.js
+ERR: 非法操作:Public
+
+[ 2017-08-17T13:56:46+08:00 ] 127.0.0.1 /index.php/Admin/Role/Public/Admin/js/calendar/WdatePicker.js
+ERR: 非法操作:Public
+
+[ 2017-08-17T13:56:46+08:00 ] 127.0.0.1 /index.php/Admin/Role/Public/Admin/js/bootstrap.min.js
+ERR: 非法操作:Public
+
+[ 2017-08-17T13:56:46+08:00 ] 127.0.0.1 /index.php/Admin/Role/Public/Admin/js/jquery-1.8.1.min.js
+ERR: 非法操作:Public
+
+[ 2017-08-17T13:56:46+08:00 ] 127.0.0.1 /index.php/Admin/Role/Public/Admin/js/bootstrap.min.js
+ERR: 非法操作:Public
+
+[ 2017-08-17T13:56:46+08:00 ] 127.0.0.1 /index.php/Admin/Role/Public/Admin/js/calendar/WdatePicker.js
+ERR: 非法操作:Public
+
+[ 2017-08-17T14:05:36+08:00 ] 127.0.0.1 /index.php/Admin/Role/Public/Admin/js/jquery-1.8.1.min.js
+ERR: 非法操作:Public
+
+[ 2017-08-17T14:05:36+08:00 ] 127.0.0.1 /index.php/Admin/Role/Public/Admin/js/calendar/WdatePicker.js
+ERR: 非法操作:Public
+
+[ 2017-08-17T14:05:36+08:00 ] 127.0.0.1 /index.php/Admin/Role/Public/Admin/js/bootstrap.min.js
+ERR: 非法操作:Public
+
+[ 2017-08-17T14:05:36+08:00 ] 127.0.0.1 /index.php/Admin/Role/Public/Admin/js/calendar/WdatePicker.js
+ERR: 非法操作:Public
+
+[ 2017-08-17T14:08:57+08:00 ] 127.0.0.1 /index.php/Admin/Role/Public/Admin/js/jquery-1.8.1.min.js
+ERR: 非法操作:Public
+
+[ 2017-08-17T14:08:57+08:00 ] 127.0.0.1 /index.php/Admin/Role/Public/Admin/js/bootstrap.min.js
+ERR: 非法操作:Public
+
+[ 2017-08-17T14:08:57+08:00 ] 127.0.0.1 /index.php/Admin/Role/Public/Admin/js/calendar/WdatePicker.js
+ERR: 非法操作:Public
+
+[ 2017-08-17T14:09:20+08:00 ] 127.0.0.1 /index.php/Admin/Role/Public/Admin/js/bootstrap.min.js
+ERR: 非法操作:Public
+
+[ 2017-08-17T14:09:20+08:00 ] 127.0.0.1 /index.php/Admin/Role/Public/Admin/js/jquery-1.8.1.min.js
+ERR: 非法操作:Public
+
+[ 2017-08-17T14:09:20+08:00 ] 127.0.0.1 /index.php/Admin/Role/Public/Admin/js/calendar/WdatePicker.js
+ERR: 非法操作:Public
+
+[ 2017-08-17T14:09:20+08:00 ] 127.0.0.1 /index.php/Admin/Role/Public/Admin/js/bootstrap.min.js
+ERR: 非法操作:Public
+
+[ 2017-08-17T14:09:20+08:00 ] 127.0.0.1 /index.php/Admin/Role/Public/Admin/js/calendar/WdatePicker.js
+ERR: 非法操作:Public
+
+[ 2017-08-17T14:12:49+08:00 ] 127.0.0.1 /index.php/Admin/Role/Public/Admin/js/bootstrap.min.js
+ERR: 非法操作:Public
+
+[ 2017-08-17T14:12:49+08:00 ] 127.0.0.1 /index.php/Admin/Role/Public/Admin/js/jquery-1.8.1.min.js
+ERR: 非法操作:Public
+
+[ 2017-08-17T14:12:49+08:00 ] 127.0.0.1 /index.php/Admin/Role/Public/Admin/js/calendar/WdatePicker.js
+ERR: 非法操作:Public
+
+[ 2017-08-17T14:12:49+08:00 ] 127.0.0.1 /index.php/Admin/Role/Public/Admin/js/bootstrap.min.js
+ERR: 非法操作:Public
+
+[ 2017-08-17T14:12:49+08:00 ] 127.0.0.1 /index.php/Admin/Role/Public/Admin/js/calendar/WdatePicker.js
+ERR: 非法操作:Public
+
+[ 2017-08-17T14:13:17+08:00 ] 127.0.0.1 /index.php/Admin/Role/Public/Admin/js/bootstrap.min.js
+ERR: 非法操作:Public
+
+[ 2017-08-17T14:13:17+08:00 ] 127.0.0.1 /index.php/Admin/Role/Public/Admin/js/calendar/WdatePicker.js
+ERR: 非法操作:Public
+
+[ 2017-08-17T14:13:17+08:00 ] 127.0.0.1 /index.php/Admin/Role/Public/Admin/js/jquery-1.8.1.min.js
+ERR: 非法操作:Public
+
+[ 2017-08-17T14:13:17+08:00 ] 127.0.0.1 /index.php/Admin/Role/Public/Admin/js/bootstrap.min.js
+ERR: 非法操作:Public
+
+[ 2017-08-17T14:13:17+08:00 ] 127.0.0.1 /index.php/Admin/Role/Public/Admin/js/calendar/WdatePicker.js
+ERR: 非法操作:Public
+
+[ 2017-08-17T14:13:34+08:00 ] 127.0.0.1 /index.php/Admin/Role/Public/Admin/js/calendar/WdatePicker.js
+ERR: 非法操作:Public
+
+[ 2017-08-17T14:13:34+08:00 ] 127.0.0.1 /index.php/Admin/Role/Public/Admin/js/jquery-1.8.1.min.js
+ERR: 非法操作:Public
+
+[ 2017-08-17T14:13:34+08:00 ] 127.0.0.1 /index.php/Admin/Role/Public/Admin/js/bootstrap.min.js
+ERR: 非法操作:Public
+
+[ 2017-08-17T14:13:34+08:00 ] 127.0.0.1 /index.php/Admin/Role/Public/Admin/js/calendar/WdatePicker.js
+ERR: 非法操作:Public
+
+[ 2017-08-17T14:13:41+08:00 ] 127.0.0.1 /index.php/Admin/Role/Public/Admin/js/bootstrap.min.js
+ERR: 非法操作:Public
+
+[ 2017-08-17T14:13:41+08:00 ] 127.0.0.1 /index.php/Admin/Role/Public/Admin/js/jquery-1.8.1.min.js
+ERR: 非法操作:Public
+
+[ 2017-08-17T14:13:41+08:00 ] 127.0.0.1 /index.php/Admin/Role/Public/Admin/js/calendar/WdatePicker.js
+ERR: 非法操作:Public
+
+[ 2017-08-17T14:13:41+08:00 ] 127.0.0.1 /index.php/Admin/Role/Public/Admin/js/bootstrap.min.js
+ERR: 非法操作:Public
+
+[ 2017-08-17T14:13:41+08:00 ] 127.0.0.1 /index.php/Admin/Role/Public/Admin/js/calendar/WdatePicker.js
+ERR: 非法操作:Public
+
+[ 2017-08-17T14:17:25+08:00 ] 127.0.0.1 /index.php/Admin/Role/Public/Admin/js/jquery-1.8.1.min.js
+ERR: 非法操作:Public
+
+[ 2017-08-17T14:17:25+08:00 ] 127.0.0.1 /index.php/Admin/Role/Public/Admin/js/bootstrap.min.js
+ERR: 非法操作:Public
+
+[ 2017-08-17T14:17:25+08:00 ] 127.0.0.1 /index.php/Admin/Role/Public/Admin/js/calendar/WdatePicker.js
+ERR: 非法操作:Public
+
+[ 2017-08-17T14:18:55+08:00 ] 127.0.0.1 /index.php/Admin/Role/Public/Admin/js/bootstrap.min.js
+ERR: 非法操作:Public
+
+[ 2017-08-17T14:18:55+08:00 ] 127.0.0.1 /index.php/Admin/Role/Public/Admin/js/calendar/WdatePicker.js
+ERR: 非法操作:Public
+
+[ 2017-08-17T14:18:55+08:00 ] 127.0.0.1 /index.php/Admin/Role/Public/Admin/js/jquery-1.8.1.min.js
+ERR: 非法操作:Public
+
+[ 2017-08-17T14:18:55+08:00 ] 127.0.0.1 /index.php/Admin/Role/Public/Admin/js/bootstrap.min.js
+ERR: 非法操作:Public
+
+[ 2017-08-17T14:18:55+08:00 ] 127.0.0.1 /index.php/Admin/Role/Public/Admin/js/calendar/WdatePicker.js
+ERR: 非法操作:Public
+
+[ 2017-08-17T14:22:01+08:00 ] 127.0.0.1 /index.php/Admin/Role/Public/Admin/js/bootstrap.min.js
+ERR: 非法操作:Public
+
+[ 2017-08-17T14:22:01+08:00 ] 127.0.0.1 /index.php/Admin/Role/Public/Admin/js/jquery-1.8.1.min.js
+ERR: 非法操作:Public
+
+[ 2017-08-17T14:22:01+08:00 ] 127.0.0.1 /index.php/Admin/Role/Public/Admin/js/calendar/WdatePicker.js
+ERR: 非法操作:Public
+
+[ 2017-08-17T14:22:01+08:00 ] 127.0.0.1 /index.php/Admin/Role/Public/Admin/js/bootstrap.min.js
+ERR: 非法操作:Public
+
+[ 2017-08-17T14:22:01+08:00 ] 127.0.0.1 /index.php/Admin/Role/Public/Admin/js/calendar/WdatePicker.js
+ERR: 非法操作:Public
+
+[ 2017-08-17T14:22:17+08:00 ] 127.0.0.1 /index.php/Admin/Role/Public/Admin/js/bootstrap.min.js
+ERR: 非法操作:Public
+
+[ 2017-08-17T14:22:17+08:00 ] 127.0.0.1 /index.php/Admin/Role/Public/Admin/js/jquery-1.8.1.min.js
+ERR: 非法操作:Public
+
+[ 2017-08-17T14:22:17+08:00 ] 127.0.0.1 /index.php/Admin/Role/Public/Admin/js/calendar/WdatePicker.js
+ERR: 非法操作:Public
+
+[ 2017-08-17T14:22:17+08:00 ] 127.0.0.1 /index.php/Admin/Role/Public/Admin/js/bootstrap.min.js
+ERR: 非法操作:Public
+
+[ 2017-08-17T14:22:17+08:00 ] 127.0.0.1 /index.php/Admin/Role/Public/Admin/js/calendar/WdatePicker.js
+ERR: 非法操作:Public
+
+[ 2017-08-17T14:22:50+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/jquery-1.8.1.min.js
+ERR: 非法操作:js
+
+[ 2017-08-17T14:22:50+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/bootstrap.min.js
+ERR: 非法操作:js
+
+[ 2017-08-17T14:22:50+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/calendar/WdatePicker.js
+ERR: 非法操作:js
+
+[ 2017-08-17T14:23:20+08:00 ] 127.0.0.1 /index.php/Admin/js/jquery-1.8.1.min.js
+ERR: 无法加载控制器:Js
+
+[ 2017-08-17T14:23:20+08:00 ] 127.0.0.1 /index.php/Admin/js/bootstrap.min.js
+ERR: 无法加载控制器:Js
+
+[ 2017-08-17T14:23:20+08:00 ] 127.0.0.1 /index.php/Admin/js/calendar/WdatePicker.js
+ERR: 无法加载控制器:Js
+
+[ 2017-08-17T14:24:10+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/bootstrap.min.js
+ERR: 非法操作:js
+
+[ 2017-08-17T14:24:10+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/calendar/WdatePicker.js
+ERR: 非法操作:js
+
+[ 2017-08-17T14:24:10+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/jquery-1.8.1.min.js
+ERR: 非法操作:js
+
+[ 2017-08-17T14:24:10+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/bootstrap.min.js
+ERR: 非法操作:js
+
+[ 2017-08-17T14:24:10+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/calendar/WdatePicker.js
+ERR: 非法操作:js
+
+[ 2017-08-17T14:28:33+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/jquery-1.8.1.min.js
+ERR: 非法操作:js
+
+[ 2017-08-17T14:28:33+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/calendar/WdatePicker.js
+ERR: 非法操作:js
+
+[ 2017-08-17T14:28:33+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/bootstrap.min.js
+ERR: 非法操作:js
+
+[ 2017-08-17T14:28:33+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/calendar/WdatePicker.js
+ERR: 非法操作:js
+
+[ 2017-08-17T14:29:51+08:00 ] 127.0.0.1 /index.php/Admin/Role/Public/Admin/js/bootstrap.min.js
+ERR: 非法操作:Public
+
+[ 2017-08-17T14:29:51+08:00 ] 127.0.0.1 /index.php/Admin/Role/Public/Admin/js/calendar/WdatePicker.js
+ERR: 非法操作:Public
+
+[ 2017-08-17T14:29:51+08:00 ] 127.0.0.1 /index.php/Admin/Role/Public/Admin/js/jquery-1.8.1.min.js
+ERR: 非法操作:Public
+
+[ 2017-08-17T14:29:51+08:00 ] 127.0.0.1 /index.php/Admin/Role/Public/Admin/js/bootstrap.min.js
+ERR: 非法操作:Public
+
+[ 2017-08-17T14:29:51+08:00 ] 127.0.0.1 /index.php/Admin/Role/Public/Admin/js/calendar/WdatePicker.js
+ERR: 非法操作:Public
+
+[ 2017-08-17T15:10:09+08:00 ] 127.0.0.1 /index.php/Admin/Role/Public/Admin/js/jquery-1.8.1.min.js
+ERR: 非法操作:Public
+
+[ 2017-08-17T15:10:09+08:00 ] 127.0.0.1 /index.php/Admin/Role/Public/Admin/js/bootstrap.min.js
+ERR: 非法操作:Public
+
+[ 2017-08-17T15:10:09+08:00 ] 127.0.0.1 /index.php/Admin/Role/Public/Admin/js/calendar/WdatePicker.js
+ERR: 非法操作:Public
+
+[ 2017-08-17T15:19:42+08:00 ] 127.0.0.1 /index.php/Admin/Auth/edit/id/1
+ERR: 非法操作:edit
+
+[ 2017-08-17T15:24:06+08:00 ] 127.0.0.1 /index.php/Admin/Role/Public/Admin/js/jquery-1.8.1.min.js
+ERR: 非法操作:Public
+
+[ 2017-08-17T15:24:06+08:00 ] 127.0.0.1 /index.php/Admin/Role/Public/Admin/js/calendar/WdatePicker.js
+ERR: 非法操作:Public
+
+[ 2017-08-17T15:24:06+08:00 ] 127.0.0.1 /index.php/Admin/Role/Public/Admin/js/bootstrap.min.js
+ERR: 非法操作:Public
+
+[ 2017-08-17T15:24:06+08:00 ] 127.0.0.1 /index.php/Admin/Role/Public/Admin/js/calendar/WdatePicker.js
+ERR: 非法操作:Public
+
+[ 2017-08-17T16:11:54+08:00 ] 127.0.0.1 /index.php/Admin/Auth/add
+ERR: Think\Controller:sucess方法不存在！
+
+[ 2017-08-17T16:12:43+08:00 ] 127.0.0.1 /index.php/Admin/Auth/delete/id/14
+ERR: 非法操作:delete
+
+[ 2017-08-17T16:14:01+08:00 ] 127.0.0.1 /index.php/Admin/Auth/edit/id/1
+ERR: 非法操作:edit
+
+[ 2017-08-17T16:17:32+08:00 ] 127.0.0.1 /index.php/Admin/Login/ajaxlogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000586s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001024s ]
+SQL: SHOW COLUMNS FROM `tpshop_manager` [ RunTime:0.0038s ]
+SQL: SELECT * FROM `tpshop_manager` WHERE `username` = 'admin' LIMIT 1   [ RunTime:0.0006s ]
+NOTIC: [8] Undefined variable: passwword E:\php\tpshop\Application\Common\Common\function.php 第 12 行.
+
+[ 2017-08-17T16:21:14+08:00 ] 127.0.0.1 /index.php/Admin/Login/ajaxlogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000531s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000885s ]
+SQL: SHOW COLUMNS FROM `tpshop_manager` [ RunTime:0.0036s ]
+SQL: SELECT * FROM `tpshop_manager` WHERE `username` = 'admin' LIMIT 1   [ RunTime:0.0007s ]
+NOTIC: [8] Undefined variable: passwword E:\php\tpshop\Application\Common\Common\function.php 第 12 行.
+
+[ 2017-08-17T16:23:14+08:00 ] 127.0.0.1 /index.php/Admin/Auth/delete/id/14
+ERR: 非法操作:delete
+
+[ 2017-08-17T16:24:47+08:00 ] 127.0.0.1 /index.php/Admin/Login/ajaxlogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000531s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000865s ]
+SQL: SHOW COLUMNS FROM `tpshop_manager` [ RunTime:0.0022s ]
+SQL: SELECT * FROM `tpshop_manager` WHERE `username` = 'admin' LIMIT 1   [ RunTime:0.0004s ]
+NOTIC: [8] Undefined variable: passwword E:\php\tpshop\Application\Common\Common\function.php 第 12 行.
+
+[ 2017-08-17T16:25:44+08:00 ] 127.0.0.1 /index.php/Admin/Login/ajaxlogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000414s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000707s ]
+SQL: SHOW COLUMNS FROM `tpshop_manager` [ RunTime:0.0038s ]
+SQL: SELECT * FROM `tpshop_manager` WHERE `username` = 'admin' LIMIT 1   [ RunTime:0.0008s ]
+NOTIC: [8] Undefined variable: passwword E:\php\tpshop\Application\Common\Common\function.php 第 12 行.
+
+[ 2017-08-17T16:33:50+08:00 ] 127.0.0.1 /index.php/Admin/Auth/edit/id/1
+ERR: 非法操作:edit
+
+[ 2017-08-17T18:41:01+08:00 ] 127.0.0.1 /index.php/Admin/Login/ajaxlogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000563s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000946s ]
+SQL: SHOW COLUMNS FROM `tpshop_manager` [ RunTime:0.0037s ]
+SQL: SELECT * FROM `tpshop_manager` WHERE `username` = 'caocao' LIMIT 1   [ RunTime:0.0006s ]
+NOTIC: [8] Undefined variable: passwword E:\php\tpshop\Application\Common\Common\function.php 第 12 行.
+
+[ 2017-08-17T18:41:03+08:00 ] 127.0.0.1 /index.php/Admin/Index/index
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '2,8,3,11 )' at line 1
+ [ SQL语句 ] : SELECT * FROM `tpshop_auth` WHERE ( pid = 0  and is_nav = 1 and id in 2,8,3,11 ) 
+
+[ 2017-08-17T18:42:12+08:00 ] 127.0.0.1 /index.php/Admin/Login/ajaxlogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000512s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000844s ]
+SQL: SHOW COLUMNS FROM `tpshop_manager` [ RunTime:0.0035s ]
+SQL: SELECT * FROM `tpshop_manager` WHERE `username` = 'admin' LIMIT 1   [ RunTime:0.0006s ]
+NOTIC: [8] Undefined variable: passwword E:\php\tpshop\Application\Common\Common\function.php 第 12 行.
+
+[ 2017-08-17T18:43:07+08:00 ] 127.0.0.1 /index.php/Admin/Login/ajaxlogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000562s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000890s ]
+SQL: SHOW COLUMNS FROM `tpshop_manager` [ RunTime:0.0035s ]
+SQL: SELECT * FROM `tpshop_manager` WHERE `username` = 'sunquan' LIMIT 1   [ RunTime:0.0006s ]
+NOTIC: [8] Undefined variable: passwword E:\php\tpshop\Application\Common\Common\function.php 第 12 行.
+
+[ 2017-08-17T18:45:27+08:00 ] 127.0.0.1 /index.php/Admin/Login/ajaxlogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000614s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000981s ]
+SQL: SHOW COLUMNS FROM `tpshop_manager` [ RunTime:0.0036s ]
+SQL: SELECT * FROM `tpshop_manager` WHERE `username` = 'caocao' LIMIT 1   [ RunTime:0.0007s ]
+NOTIC: [8] Undefined variable: passwword E:\php\tpshop\Application\Common\Common\function.php 第 12 行.
+
+[ 2017-08-17T18:45:28+08:00 ] 127.0.0.1 /index.php/Admin/Index/index
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '2,8,3,11 )' at line 1
+ [ SQL语句 ] : SELECT * FROM `tpshop_auth` WHERE ( pid = 0  and is_nav = 1 and id in 2,8,3,11 ) 
+
+[ 2017-08-17T18:51:43+08:00 ] 127.0.0.1 /index.php/Admin/Login/ajaxlogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000455s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000747s ]
+SQL: SHOW COLUMNS FROM `tpshop_manager` [ RunTime:0.0035s ]
+SQL: SELECT * FROM `tpshop_manager` WHERE `username` = 'caocao' LIMIT 1   [ RunTime:0.0006s ]
+NOTIC: [8] Undefined variable: passwword E:\php\tpshop\Application\Common\Common\function.php 第 12 行.
+
+[ 2017-08-17T18:55:45+08:00 ] 127.0.0.1 /index.php/Admin/Login/ajaxlogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000506s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000828s ]
+
+[ 2017-08-17T18:55:55+08:00 ] 127.0.0.1 /index.php/Admin/Login/ajaxlogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000504s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000820s ]
+SQL: SHOW COLUMNS FROM `tpshop_manager` [ RunTime:0.0038s ]
+SQL: SELECT * FROM `tpshop_manager` WHERE `username` = 'admin' LIMIT 1   [ RunTime:0.0006s ]
+NOTIC: [8] Undefined variable: passwword E:\php\tpshop\Application\Common\Common\function.php 第 12 行.
+
+[ 2017-08-17T18:56:18+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/jquery-1.8.1.min.js
+ERR: 非法操作:js
+
+[ 2017-08-17T18:56:18+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/calendar/WdatePicker.js
+ERR: 非法操作:js
+
+[ 2017-08-17T18:56:18+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/bootstrap.min.js
+ERR: 非法操作:js
+
+[ 2017-08-17T18:56:18+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/calendar/WdatePicker.js
+ERR: 非法操作:js
+
+[ 2017-08-17T18:57:28+08:00 ] 127.0.0.1 /index.php/Admin/Role/Public/Admin/js/calendar/WdatePicker.js
+ERR: 非法操作:Public
+
+[ 2017-08-17T18:57:28+08:00 ] 127.0.0.1 /index.php/Admin/Role/Public/Admin/js/jquery-1.8.1.min.js
+ERR: 非法操作:Public
+
+[ 2017-08-17T18:57:28+08:00 ] 127.0.0.1 /index.php/Admin/Role/Public/Admin/js/bootstrap.min.js
+ERR: 非法操作:Public
+
+[ 2017-08-17T18:57:28+08:00 ] 127.0.0.1 /index.php/Admin/Role/Public/Admin/js/calendar/WdatePicker.js
+ERR: 非法操作:Public
+
+[ 2017-08-17T18:57:57+08:00 ] 127.0.0.1 /index.php/Admin/Role/Public/Admin/js/jquery-1.8.1.min.js
+ERR: 非法操作:Public
+
+[ 2017-08-17T18:57:57+08:00 ] 127.0.0.1 /index.php/Admin/Role/Public/Admin/js/bootstrap.min.js
+ERR: 非法操作:Public
+
+[ 2017-08-17T18:57:57+08:00 ] 127.0.0.1 /index.php/Admin/Role/Public/Admin/js/calendar/WdatePicker.js
+ERR: 非法操作:Public
+
+[ 2017-08-17T18:58:07+08:00 ] 127.0.0.1 /index.php/Admin/Role/Public/Admin/js/calendar/WdatePicker.js
+ERR: 非法操作:Public
+
+[ 2017-08-17T18:58:07+08:00 ] 127.0.0.1 /index.php/Admin/Role/Public/Admin/js/jquery-1.8.1.min.js
+ERR: 非法操作:Public
+
+[ 2017-08-17T18:58:07+08:00 ] 127.0.0.1 /index.php/Admin/Role/Public/Admin/js/bootstrap.min.js
+ERR: 非法操作:Public
+
+[ 2017-08-17T18:58:07+08:00 ] 127.0.0.1 /index.php/Admin/Role/Public/Admin/js/calendar/WdatePicker.js
+ERR: 非法操作:Public
+
+[ 2017-08-17T18:58:16+08:00 ] 127.0.0.1 /index.php/Admin/Role/Public/Admin/js/jquery-1.8.1.min.js
+ERR: 非法操作:Public
+
+[ 2017-08-17T18:58:16+08:00 ] 127.0.0.1 /index.php/Admin/Role/Public/Admin/js/calendar/WdatePicker.js
+ERR: 非法操作:Public
+
+[ 2017-08-17T18:58:16+08:00 ] 127.0.0.1 /index.php/Admin/Role/Public/Admin/js/bootstrap.min.js
+ERR: 非法操作:Public
+
+[ 2017-08-17T18:58:16+08:00 ] 127.0.0.1 /index.php/Admin/Role/Public/Admin/js/calendar/WdatePicker.js
+ERR: 非法操作:Public
+
+[ 2017-08-17T19:26:59+08:00 ] 127.0.0.1 /index.php/Admin/Role/Public/Admin/js/bootstrap.min.js
+ERR: 非法操作:Public
+
+[ 2017-08-17T19:26:59+08:00 ] 127.0.0.1 /index.php/Admin/Role/Public/Admin/js/jquery-1.8.1.min.js
+ERR: 非法操作:Public
+
+[ 2017-08-17T19:26:59+08:00 ] 127.0.0.1 /index.php/Admin/Role/Public/Admin/js/calendar/WdatePicker.js
+ERR: 非法操作:Public
+
+[ 2017-08-17T19:26:59+08:00 ] 127.0.0.1 /index.php/Admin/Role/Public/Admin/js/bootstrap.min.js
+ERR: 非法操作:Public
+
+[ 2017-08-17T19:26:59+08:00 ] 127.0.0.1 /index.php/Admin/Role/Public/Admin/js/calendar/WdatePicker.js
+ERR: 非法操作:Public
+
+[ 2017-08-17T19:27:04+08:00 ] 127.0.0.1 /index.php/Admin/Role/Public/Admin/js/calendar/WdatePicker.js
+ERR: 非法操作:Public
+
+[ 2017-08-17T19:27:04+08:00 ] 127.0.0.1 /index.php/Admin/Role/Public/Admin/js/jquery-1.8.1.min.js
+ERR: 非法操作:Public
+
+[ 2017-08-17T19:27:04+08:00 ] 127.0.0.1 /index.php/Admin/Role/Public/Admin/js/bootstrap.min.js
+ERR: 非法操作:Public
+
+[ 2017-08-17T19:27:04+08:00 ] 127.0.0.1 /index.php/Admin/Role/Public/Admin/js/calendar/WdatePicker.js
+ERR: 非法操作:Public
+
+[ 2017-08-17T19:27:18+08:00 ] 127.0.0.1 /index.php/Admin/Role/Public/Admin/js/jquery-1.8.1.min.js
+ERR: 非法操作:Public
+
+[ 2017-08-17T19:27:18+08:00 ] 127.0.0.1 /index.php/Admin/Role/Public/Admin/js/bootstrap.min.js
+ERR: 非法操作:Public
+
+[ 2017-08-17T19:27:18+08:00 ] 127.0.0.1 /index.php/Admin/Role/Public/Admin/js/calendar/WdatePicker.js
+ERR: 非法操作:Public
+
+[ 2017-08-17T19:32:45+08:00 ] 127.0.0.1 /index.php/Admin/Role/Public/Admin/js/jquery-1.8.1.min.js
+ERR: 非法操作:Public
+
+[ 2017-08-17T19:32:45+08:00 ] 127.0.0.1 /index.php/Admin/Role/Public/Admin/js/bootstrap.min.js
+ERR: 非法操作:Public
+
+[ 2017-08-17T19:32:45+08:00 ] 127.0.0.1 /index.php/Admin/Role/Public/Admin/js/calendar/WdatePicker.js
+ERR: 非法操作:Public
+
+[ 2017-08-17T19:32:50+08:00 ] 127.0.0.1 /index.php/Admin/Role/Public/Admin/js/calendar/WdatePicker.js
+ERR: 非法操作:Public
+
+[ 2017-08-17T19:32:50+08:00 ] 127.0.0.1 /index.php/Admin/Role/Public/Admin/js/jquery-1.8.1.min.js
+ERR: 非法操作:Public
+
+[ 2017-08-17T19:32:50+08:00 ] 127.0.0.1 /index.php/Admin/Role/Public/Admin/js/bootstrap.min.js
+ERR: 非法操作:Public
+
+[ 2017-08-17T19:32:50+08:00 ] 127.0.0.1 /index.php/Admin/Role/Public/Admin/js/calendar/WdatePicker.js
+ERR: 非法操作:Public
+
+[ 2017-08-17T19:54:29+08:00 ] 127.0.0.1 /index.php/Admin/Role/setauth/role_id/2
+ERR: 1054:Unknown column '$role_auth_ids' in 'where clause'
+ [ SQL语句 ] : SELECT * FROM `tpshop_auth` WHERE (  id in ($role_auth_ids) ) 
+
+[ 2017-08-17T20:33:07+08:00 ] 127.0.0.1 /index.php/Admin/Role/setauth/role_id/2
+ERR: 表达式错误:2
+
+[ 2017-08-17T20:35:00+08:00 ] 127.0.0.1 /index.php/Admin/Role/stauth/role_id/
+ERR: 非法操作:stauth
+
+[ 2017-08-17T20:35:39+08:00 ] 127.0.0.1 /index.php/Admin/Role/stauth/role_id/
+ERR: 非法操作:stauth
+
+[ 2017-08-17T20:35:41+08:00 ] 127.0.0.1 /index.php/Admin/Role/stauth/role_id/
+ERR: 非法操作:stauth
+
+[ 2017-08-17T20:35:46+08:00 ] 127.0.0.1 /index.php/Admin/Role/stauth/role_id/
+ERR: 非法操作:stauth
+
+[ 2017-08-17T20:35:47+08:00 ] 127.0.0.1 /index.php/Admin/Role/Public/Admin/js/jquery-1.8.1.min.js
+ERR: 非法操作:Public
+
+[ 2017-08-17T20:35:47+08:00 ] 127.0.0.1 /index.php/Admin/Role/Public/Admin/js/calendar/WdatePicker.js
+ERR: 非法操作:Public
+
+[ 2017-08-17T20:35:47+08:00 ] 127.0.0.1 /index.php/Admin/Role/Public/Admin/js/bootstrap.min.js
+ERR: 非法操作:Public
+
+[ 2017-08-17T20:35:49+08:00 ] 127.0.0.1 /index.php/Admin/Role/Public/Admin/js/calendar/WdatePicker.js
+ERR: 非法操作:Public
+
+[ 2017-08-17T20:35:49+08:00 ] 127.0.0.1 /index.php/Admin/Role/Public/Admin/js/jquery-1.8.1.min.js
+ERR: 非法操作:Public
+
+[ 2017-08-17T20:35:49+08:00 ] 127.0.0.1 /index.php/Admin/Role/Public/Admin/js/bootstrap.min.js
+ERR: 非法操作:Public
+
+[ 2017-08-17T20:35:49+08:00 ] 127.0.0.1 /index.php/Admin/Role/Public/Admin/js/calendar/WdatePicker.js
+ERR: 非法操作:Public
+
+[ 2017-08-17T20:37:12+08:00 ] 127.0.0.1 /index.php/Admin/Role/Public/Admin/js/jquery-1.8.1.min.js
+ERR: 非法操作:Public
+
+[ 2017-08-17T20:37:12+08:00 ] 127.0.0.1 /index.php/Admin/Role/Public/Admin/js/bootstrap.min.js
+ERR: 非法操作:Public
+
+[ 2017-08-17T20:37:12+08:00 ] 127.0.0.1 /index.php/Admin/Role/Public/Admin/js/calendar/WdatePicker.js
+ERR: 非法操作:Public
+
+[ 2017-08-17T20:52:17+08:00 ] 127.0.0.1 /index.php/Admin/Login/ajaxlogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000762s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001150s ]
+SQL: SHOW COLUMNS FROM `tpshop_manager` [ RunTime:0.0038s ]
+SQL: SELECT * FROM `tpshop_manager` WHERE `username` = 'admin' LIMIT 1   [ RunTime:0.0006s ]
+NOTIC: [8] Undefined variable: passwword E:\php\tpshop\Application\Common\Common\function.php 第 12 行.
+
+[ 2017-08-17T20:52:32+08:00 ] 127.0.0.1 /index.php/Admin/Role/Public/Admin/js/bootstrap.min.js
+ERR: 非法操作:Public
+
+[ 2017-08-17T20:52:32+08:00 ] 127.0.0.1 /index.php/Admin/Role/Public/Admin/js/jquery-1.8.1.min.js
+ERR: 非法操作:Public
+
+[ 2017-08-17T20:52:32+08:00 ] 127.0.0.1 /index.php/Admin/Role/Public/Admin/js/calendar/WdatePicker.js
+ERR: 非法操作:Public
+
+[ 2017-08-17T20:52:32+08:00 ] 127.0.0.1 /index.php/Admin/Role/Public/Admin/js/bootstrap.min.js
+ERR: 非法操作:Public
+
+[ 2017-08-17T20:52:32+08:00 ] 127.0.0.1 /index.php/Admin/Role/Public/Admin/js/calendar/WdatePicker.js
+ERR: 非法操作:Public
+
+[ 2017-08-17T20:53:00+08:00 ] 127.0.0.1 /index.php/Admin/Role/Public/Admin/js/jquery-1.8.1.min.js
+ERR: 非法操作:Public
+
+[ 2017-08-17T20:53:00+08:00 ] 127.0.0.1 /index.php/Admin/Role/Public/Admin/js/bootstrap.min.js
+ERR: 非法操作:Public
+
+[ 2017-08-17T20:53:00+08:00 ] 127.0.0.1 /index.php/Admin/Role/Public/Admin/js/calendar/WdatePicker.js
+ERR: 非法操作:Public
+
+[ 2017-08-17T20:53:36+08:00 ] 127.0.0.1 /index.php/Admin/Role/Public/Admin/js/bootstrap.min.js
+ERR: 非法操作:Public
+
+[ 2017-08-17T20:53:36+08:00 ] 127.0.0.1 /index.php/Admin/Role/Public/Admin/js/jquery-1.8.1.min.js
+ERR: 非法操作:Public
+
+[ 2017-08-17T20:53:36+08:00 ] 127.0.0.1 /index.php/Admin/Role/Public/Admin/js/calendar/WdatePicker.js
+ERR: 非法操作:Public
+
+[ 2017-08-17T20:53:36+08:00 ] 127.0.0.1 /index.php/Admin/Role/Public/Admin/js/bootstrap.min.js
+ERR: 非法操作:Public
+
+[ 2017-08-17T20:53:36+08:00 ] 127.0.0.1 /index.php/Admin/Role/Public/Admin/js/calendar/WdatePicker.js
+ERR: 非法操作:Public
+
+[ 2017-08-17T20:53:50+08:00 ] 127.0.0.1 /index.php/Admin/Role/Public/Admin/js/bootstrap.min.js
+ERR: 非法操作:Public
+
+[ 2017-08-17T20:53:50+08:00 ] 127.0.0.1 /index.php/Admin/Role/Public/Admin/js/jquery-1.8.1.min.js
+ERR: 非法操作:Public
+
+[ 2017-08-17T20:53:50+08:00 ] 127.0.0.1 /index.php/Admin/Role/Public/Admin/js/calendar/WdatePicker.js
+ERR: 非法操作:Public
+
+[ 2017-08-17T20:53:50+08:00 ] 127.0.0.1 /index.php/Admin/Role/Public/Admin/js/bootstrap.min.js
+ERR: 非法操作:Public
+
+[ 2017-08-17T20:53:50+08:00 ] 127.0.0.1 /index.php/Admin/Role/Public/Admin/js/calendar/WdatePicker.js
+ERR: 非法操作:Public
+
+[ 2017-08-17T20:54:55+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/jquery-1.8.1.min.js
+ERR: 非法操作:js
+
+[ 2017-08-17T20:54:55+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/bootstrap.min.js
+ERR: 非法操作:js
+
+[ 2017-08-17T20:54:55+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/calendar/WdatePicker.js
+ERR: 非法操作:js
+
+[ 2017-08-17T20:55:10+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/jquery-1.8.1.min.js
+ERR: 非法操作:js
+
+[ 2017-08-17T20:55:10+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/bootstrap.min.js
+ERR: 非法操作:js
+
+[ 2017-08-17T20:55:10+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/calendar/WdatePicker.js
+ERR: 非法操作:js
+
+[ 2017-08-17T20:55:19+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/jquery-1.8.1.min.js
+ERR: 非法操作:js
+
+[ 2017-08-17T20:55:19+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/calendar/WdatePicker.js
+ERR: 非法操作:js
+
+[ 2017-08-17T20:55:19+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/bootstrap.min.js
+ERR: 非法操作:js
+
+[ 2017-08-17T20:55:19+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/calendar/WdatePicker.js
+ERR: 非法操作:js
+
+[ 2017-08-17T20:58:31+08:00 ] 127.0.0.1 /index.php/Admin/js/jquery-1.8.1.min.js
+ERR: 无法加载控制器:Js
+
+[ 2017-08-17T20:58:31+08:00 ] 127.0.0.1 /index.php/Admin/js/calendar/WdatePicker.js
+ERR: 无法加载控制器:Js
+
+[ 2017-08-17T20:58:31+08:00 ] 127.0.0.1 /index.php/Admin/js/bootstrap.min.js
+ERR: 无法加载控制器:Js
+
+[ 2017-08-17T20:58:31+08:00 ] 127.0.0.1 /index.php/Admin/js/calendar/WdatePicker.js
+ERR: 无法加载控制器:Js
+
+[ 2017-08-17T21:01:34+08:00 ] 127.0.0.1 /index.php/Admin/Login/ajaxlogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000416s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000685s ]
+SQL: SHOW COLUMNS FROM `tpshop_manager` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `tpshop_manager` WHERE `username` = 'admin' LIMIT 1   [ RunTime:0.0007s ]
+NOTIC: [8] Undefined variable: passwword E:\php\tpshop\Application\Common\Common\function.php 第 12 行.
+
+[ 2017-08-17T21:02:17+08:00 ] 127.0.0.1 /index.php/Admin/Login/ajaxlogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000533s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000866s ]
+
+[ 2017-08-17T21:02:27+08:00 ] 127.0.0.1 /index.php/Admin/Login/ajaxlogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000509s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000831s ]
+SQL: SHOW COLUMNS FROM `tpshop_manager` [ RunTime:0.0036s ]
+SQL: SELECT * FROM `tpshop_manager` WHERE `username` = 'admin' LIMIT 1   [ RunTime:0.0007s ]
+NOTIC: [8] Undefined variable: passwword E:\php\tpshop\Application\Common\Common\function.php 第 12 行.
+
+[ 2017-08-17T21:02:51+08:00 ] 127.0.0.1 /index.php/Admin/Role/Public/Admin/js/jquery-1.8.1.min.js
+ERR: 非法操作:Public
+
+[ 2017-08-17T21:02:51+08:00 ] 127.0.0.1 /index.php/Admin/Role/Public/Admin/js/bootstrap.min.js
+ERR: 非法操作:Public
+
+[ 2017-08-17T21:02:51+08:00 ] 127.0.0.1 /index.php/Admin/Role/Public/Admin/js/calendar/WdatePicker.js
+ERR: 非法操作:Public
+
+[ 2017-08-17T21:03:07+08:00 ] 127.0.0.1 /index.php/Admin/Role/Public/Admin/js/jquery-1.8.1.min.js
+ERR: 非法操作:Public
+
+[ 2017-08-17T21:03:07+08:00 ] 127.0.0.1 /index.php/Admin/Role/Public/Admin/js/bootstrap.min.js
+ERR: 非法操作:Public
+
+[ 2017-08-17T21:03:07+08:00 ] 127.0.0.1 /index.php/Admin/Role/Public/Admin/js/calendar/WdatePicker.js
+ERR: 非法操作:Public
+
+[ 2017-08-17T21:03:33+08:00 ] 127.0.0.1 /index.php/Admin/Role/Public/Admin/js/bootstrap.min.js
+ERR: 非法操作:Public
+
+[ 2017-08-17T21:03:33+08:00 ] 127.0.0.1 /index.php/Admin/Role/Public/Admin/js/calendar/WdatePicker.js
+ERR: 非法操作:Public
+
+[ 2017-08-17T21:03:33+08:00 ] 127.0.0.1 /index.php/Admin/Role/Public/Admin/js/jquery-1.8.1.min.js
+ERR: 非法操作:Public
+
+[ 2017-08-17T21:03:33+08:00 ] 127.0.0.1 /index.php/Admin/Role/Public/Admin/js/bootstrap.min.js
+ERR: 非法操作:Public
+
+[ 2017-08-17T21:03:33+08:00 ] 127.0.0.1 /index.php/Admin/Role/Public/Admin/js/calendar/WdatePicker.js
+ERR: 非法操作:Public
+
+[ 2017-08-17T21:14:11+08:00 ] 127.0.0.1 /index.php/Admin/Role/Public/Admin/js/jquery-1.8.1.min.js
+ERR: 非法操作:Public
+
+[ 2017-08-17T21:14:11+08:00 ] 127.0.0.1 /index.php/Admin/Role/Public/Admin/js/bootstrap.min.js
+ERR: 非法操作:Public
+
+[ 2017-08-17T21:14:11+08:00 ] 127.0.0.1 /index.php/Admin/Role/Public/Admin/js/calendar/WdatePicker.js
+ERR: 非法操作:Public
+
+[ 2017-08-17T21:14:17+08:00 ] 127.0.0.1 /index.php/Admin/Role/Public/Admin/js/calendar/WdatePicker.js
+ERR: 非法操作:Public
+
+[ 2017-08-17T21:14:17+08:00 ] 127.0.0.1 /index.php/Admin/Role/Public/Admin/js/jquery-1.8.1.min.js
+ERR: 非法操作:Public
+
+[ 2017-08-17T21:14:17+08:00 ] 127.0.0.1 /index.php/Admin/Role/Public/Admin/js/bootstrap.min.js
+ERR: 非法操作:Public
+
+[ 2017-08-17T21:14:17+08:00 ] 127.0.0.1 /index.php/Admin/Role/Public/Admin/js/calendar/WdatePicker.js
+ERR: 非法操作:Public
+
+[ 2017-08-17T21:14:21+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/calendar/WdatePicker.js
+ERR: 非法操作:js
+
+[ 2017-08-17T21:14:21+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/bootstrap.min.js
+ERR: 非法操作:js
+
+[ 2017-08-17T21:14:21+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/jquery-1.8.1.min.js
+ERR: 非法操作:js
+
+[ 2017-08-17T21:14:21+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/bootstrap.min.js
+ERR: 非法操作:js
+
+[ 2017-08-17T21:14:21+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/calendar/WdatePicker.js
+ERR: 非法操作:js
+
+[ 2017-08-17T21:16:50+08:00 ] 127.0.0.1 /index.php/Admin/Login/ajaxlogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000512s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000869s ]
+SQL: SHOW COLUMNS FROM `tpshop_manager` [ RunTime:0.0036s ]
+SQL: SELECT * FROM `tpshop_manager` WHERE `username` = 'admin' LIMIT 1   [ RunTime:0.0007s ]
+NOTIC: [8] Undefined variable: passwword E:\php\tpshop\Application\Common\Common\function.php 第 12 行.
+
+[ 2017-08-17T21:17:38+08:00 ] 127.0.0.1 /index.php/Admin/Login/ajaxlogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000705s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001064s ]
+SQL: SHOW COLUMNS FROM `tpshop_manager` [ RunTime:0.0035s ]
+SQL: SELECT * FROM `tpshop_manager` WHERE `username` = 'admin' LIMIT 1   [ RunTime:0.0006s ]
+NOTIC: [8] Undefined variable: passwword E:\php\tpshop\Application\Common\Common\function.php 第 12 行.
+
+[ 2017-08-17T21:18:33+08:00 ] 127.0.0.1 /index.php/Admin/Login/ajaxlogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000615s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000971s ]
+SQL: SHOW COLUMNS FROM `tpshop_manager` [ RunTime:0.0034s ]
+SQL: SELECT * FROM `tpshop_manager` WHERE `username` = 'admin' LIMIT 1   [ RunTime:0.0006s ]
+
+[ 2017-08-17T21:18:36+08:00 ] 127.0.0.1 /index.php/Admin/Login/ajaxlogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000511s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000835s ]
+
+[ 2017-08-17T21:18:48+08:00 ] 127.0.0.1 /index.php/Admin/Login/ajaxlogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000504s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000857s ]
+SQL: SHOW COLUMNS FROM `tpshop_manager` [ RunTime:0.0034s ]
+SQL: SELECT * FROM `tpshop_manager` WHERE `username` = 'admin' LIMIT 1   [ RunTime:0.0006s ]
+
+[ 2017-08-17T21:18:50+08:00 ] 127.0.0.1 /index.php/Admin/Login/ajaxlogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000549s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000918s ]
+
+[ 2017-08-17T21:19:42+08:00 ] 127.0.0.1 /index.php/Admin/Login/ajaxlogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000510s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000866s ]
+SQL: SHOW COLUMNS FROM `tpshop_manager` [ RunTime:0.0034s ]
+SQL: SELECT * FROM `tpshop_manager` WHERE `username` = 'admin' LIMIT 1   [ RunTime:0.0006s ]
+NOTIC: [8] Undefined variable: passwword E:\php\tpshop\Application\Common\Common\function.php 第 12 行.
+
+[ 2017-08-17T21:19:50+08:00 ] 127.0.0.1 /index.php/Admin/Login/ajaxlogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000511s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000871s ]
+
+[ 2017-08-17T21:20:01+08:00 ] 127.0.0.1 /index.php/Admin/Login/ajaxlogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000503s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000858s ]
+SQL: SHOW COLUMNS FROM `tpshop_manager` [ RunTime:0.0034s ]
+SQL: SELECT * FROM `tpshop_manager` WHERE `username` = 'admin' LIMIT 1   [ RunTime:0.0006s ]
+NOTIC: [8] Undefined variable: passwword E:\php\tpshop\Application\Common\Common\function.php 第 12 行.
+
+[ 2017-08-17T21:20:03+08:00 ] 127.0.0.1 /index.php/Admin/Login/ajaxlogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000504s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000866s ]
+
+[ 2017-08-17T21:20:16+08:00 ] 127.0.0.1 /index.php/Admin/Login/ajaxlogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000503s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000860s ]
+
+[ 2017-08-17T21:20:26+08:00 ] 127.0.0.1 /index.php/Admin/Login/ajaxlogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000511s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000865s ]
+SQL: SHOW COLUMNS FROM `tpshop_manager` [ RunTime:0.0036s ]
+SQL: SELECT * FROM `tpshop_manager` WHERE `username` = 'admin' LIMIT 1   [ RunTime:0.0006s ]
+NOTIC: [8] Undefined variable: passwword E:\php\tpshop\Application\Common\Common\function.php 第 12 行.
+
+[ 2017-08-17T21:21:28+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/jquery-1.8.1.min.js
+ERR: 非法操作:js
+
+[ 2017-08-17T21:21:28+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/calendar/WdatePicker.js
+ERR: 非法操作:js
+
+[ 2017-08-17T21:21:28+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/bootstrap.min.js
+ERR: 非法操作:js
+
+[ 2017-08-17T21:21:28+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/calendar/WdatePicker.js
+ERR: 非法操作:js
+
+[ 2017-08-17T21:21:35+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/calendar/WdatePicker.js
+ERR: 非法操作:js
+
+[ 2017-08-17T21:21:35+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/bootstrap.min.js
+ERR: 非法操作:js
+
+[ 2017-08-17T21:21:35+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/jquery-1.8.1.min.js
+ERR: 非法操作:js
+
+[ 2017-08-17T21:21:35+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/bootstrap.min.js
+ERR: 非法操作:js
+
+[ 2017-08-17T21:21:35+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/calendar/WdatePicker.js
+ERR: 非法操作:js
+
+[ 2017-08-17T21:22:54+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/bootstrap.min.js
+ERR: 非法操作:js
+
+[ 2017-08-17T21:22:54+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/calendar/WdatePicker.js
+ERR: 非法操作:js
+
+[ 2017-08-17T21:22:54+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/jquery-1.8.1.min.js
+ERR: 非法操作:js
+
+[ 2017-08-17T21:22:54+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/bootstrap.min.js
+ERR: 非法操作:js
+
+[ 2017-08-17T21:22:54+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/calendar/WdatePicker.js
+ERR: 非法操作:js
+
+[ 2017-08-17T21:28:21+08:00 ] 127.0.0.1 /index.php/Admin/Login/ajaxlogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000517s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000888s ]
+SQL: SHOW COLUMNS FROM `tpshop_manager` [ RunTime:0.0038s ]
+SQL: SELECT * FROM `tpshop_manager` WHERE `username` = 'admin' LIMIT 1   [ RunTime:0.0006s ]
+NOTIC: [8] Undefined variable: passwword E:\php\tpshop\Application\Common\Common\function.php 第 12 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' E:\php\tpshop\Application\Admin\Controller\LoginController.class.php 第 91 行.
+NOTIC: [8] Array to string conversion E:\php\tpshop\Application\Admin\Controller\LoginController.class.php 第 91 行.
+SQL: INSERT INTO `tpshop_manager` (`last_login_time`) VALUES ('1502976501') [ RunTime:0.0879s ]
+
+[ 2017-08-17T21:28:26+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/calendar/WdatePicker.js
+ERR: 非法操作:js
+
+[ 2017-08-17T21:28:26+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/jquery-1.8.1.min.js
+ERR: 非法操作:js
+
+[ 2017-08-17T21:28:26+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/bootstrap.min.js
+ERR: 非法操作:js
+
+[ 2017-08-17T21:28:26+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/calendar/WdatePicker.js
+ERR: 非法操作:js
+
+[ 2017-08-17T21:29:23+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/jquery-1.8.1.min.js
+ERR: 非法操作:js
+
+[ 2017-08-17T21:29:23+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/bootstrap.min.js
+ERR: 非法操作:js
+
+[ 2017-08-17T21:29:23+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/calendar/WdatePicker.js
+ERR: 非法操作:js
+
+[ 2017-08-17T21:29:44+08:00 ] 127.0.0.1 /index.php/Admin/Login/ajaxlogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000585s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000879s ]
+SQL: SHOW COLUMNS FROM `tpshop_manager` [ RunTime:0.0046s ]
+SQL: SELECT * FROM `tpshop_manager` WHERE `username` = 'admin' LIMIT 1   [ RunTime:0.0006s ]
+NOTIC: [8] Undefined variable: passwword E:\php\tpshop\Application\Common\Common\function.php 第 12 行.
+SQL: INSERT INTO `tpshop_manager` (`last_login_time`) VALUES ('1502976584') [ RunTime:0.0731s ]
+
+[ 2017-08-17T21:29:49+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/jquery-1.8.1.min.js
+ERR: 非法操作:js
+
+[ 2017-08-17T21:29:49+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/bootstrap.min.js
+ERR: 非法操作:js
+
+[ 2017-08-17T21:29:49+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/calendar/WdatePicker.js
+ERR: 非法操作:js
+
+[ 2017-08-17T21:30:39+08:00 ] 127.0.0.1 /index.php/Admin/Login/ajaxlogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000432s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000708s ]
+SQL: SHOW COLUMNS FROM `tpshop_manager` [ RunTime:0.0036s ]
+SQL: SELECT * FROM `tpshop_manager` WHERE `username` = 'admin' LIMIT 1   [ RunTime:0.0006s ]
+NOTIC: [8] Undefined variable: passwword E:\php\tpshop\Application\Common\Common\function.php 第 12 行.
+SQL: UPDATE `tpshop_manager` SET `last_login_time`='1502976639' WHERE `id` = 1 [ RunTime:0.0779s ]
+
+[ 2017-08-17T21:30:43+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/jquery-1.8.1.min.js
+ERR: 非法操作:js
+
+[ 2017-08-17T21:30:43+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/calendar/WdatePicker.js
+ERR: 非法操作:js
+
+[ 2017-08-17T21:30:43+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/bootstrap.min.js
+ERR: 非法操作:js
+
+[ 2017-08-17T21:30:43+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/calendar/WdatePicker.js
+ERR: 非法操作:js
+
+[ 2017-08-17T21:30:59+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/jquery-1.8.1.min.js
+ERR: 非法操作:js
+
+[ 2017-08-17T21:30:59+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/bootstrap.min.js
+ERR: 非法操作:js
+
+[ 2017-08-17T21:30:59+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/calendar/WdatePicker.js
+ERR: 非法操作:js
+
+[ 2017-08-17T21:32:04+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/jquery-1.8.1.min.js
+ERR: 非法操作:js
+
+[ 2017-08-17T21:32:04+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/bootstrap.min.js
+ERR: 非法操作:js
+
+[ 2017-08-17T21:32:04+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/calendar/WdatePicker.js
+ERR: 非法操作:js
+
+[ 2017-08-17T21:32:18+08:00 ] 127.0.0.1 /index.php/Admin/Login/ajaxlogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000433s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000690s ]
+SQL: SHOW COLUMNS FROM `tpshop_manager` [ RunTime:0.0034s ]
+SQL: SELECT * FROM `tpshop_manager` WHERE `username` = 'admin' LIMIT 1   [ RunTime:0.0006s ]
+NOTIC: [8] Undefined variable: passwword E:\php\tpshop\Application\Common\Common\function.php 第 12 行.
+SQL: UPDATE `tpshop_manager` SET `last_login_time`='1502976738' WHERE `id` = 1 [ RunTime:0.0729s ]
+
+[ 2017-08-17T21:32:22+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/bootstrap.min.js
+ERR: 非法操作:js
+
+[ 2017-08-17T21:32:22+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/calendar/WdatePicker.js
+ERR: 非法操作:js
+
+[ 2017-08-17T21:32:22+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/jquery-1.8.1.min.js
+ERR: 非法操作:js
+
+[ 2017-08-17T21:32:22+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/bootstrap.min.js
+ERR: 非法操作:js
+
+[ 2017-08-17T21:32:22+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/calendar/WdatePicker.js
+ERR: 非法操作:js
+
+[ 2017-08-17T21:32:50+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/jquery-1.8.1.min.js
+ERR: 非法操作:js
+
+[ 2017-08-17T21:32:50+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/calendar/WdatePicker.js
+ERR: 非法操作:js
+
+[ 2017-08-17T21:32:50+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/bootstrap.min.js
+ERR: 非法操作:js
+
+[ 2017-08-17T21:32:50+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/calendar/WdatePicker.js
+ERR: 非法操作:js
+
+[ 2017-08-17T21:33:08+08:00 ] 127.0.0.1 /index.php/Admin/Login/ajaxlogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000535s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000920s ]
+SQL: SHOW COLUMNS FROM `tpshop_manager` [ RunTime:0.0034s ]
+SQL: SELECT * FROM `tpshop_manager` WHERE `username` = 'admin' LIMIT 1   [ RunTime:0.0006s ]
+NOTIC: [8] Undefined variable: passwword E:\php\tpshop\Application\Common\Common\function.php 第 12 行.
+SQL: UPDATE `tpshop_manager` SET `last_login_time`='1502976788' WHERE `id` = 1 [ RunTime:0.0729s ]
+
+[ 2017-08-17T21:46:03+08:00 ] 127.0.0.1 /index.php/Admin/Auth/edit/id/12
+ERR: 模板不存在:./Application/Admin/View/Auth/edit.html
+
+[ 2017-08-17T23:33:03+08:00 ] 127.0.0.1 /index.php/Admin/Role/Public/Admin/js/jquery-1.8.1.min.js
+ERR: 非法操作:Public
+
+[ 2017-08-17T23:33:03+08:00 ] 127.0.0.1 /index.php/Admin/Role/Public/Admin/js/bootstrap.min.js
+ERR: 非法操作:Public
+
+[ 2017-08-17T23:33:03+08:00 ] 127.0.0.1 /index.php/Admin/Role/Public/Admin/js/calendar/WdatePicker.js
+ERR: 非法操作:Public
+

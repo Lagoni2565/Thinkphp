@@ -1,0 +1,8 @@
+[ 2017-08-25T11:22:30+08:00 ] 127.0.0.1 /index.php/Admin/Login/ajaxlogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000500s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000853s ]
+SQL: SHOW COLUMNS FROM `tpshop_manager` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `tpshop_manager` WHERE `username` = 'admin' LIMIT 1   [ RunTime:0.0006s ]
+SQL: UPDATE `tpshop_manager` SET `last_login_time`='1503631350' WHERE `id` = 1 [ RunTime:0.0670s ]
+

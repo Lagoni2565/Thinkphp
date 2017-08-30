@@ -1,0 +1,82 @@
+[ 2017-08-20T00:22:17+08:00 ] 127.0.0.1 /index.php/Admin/Goods/getattr
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000522s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000892s ]
+SQL: SHOW COLUMNS FROM `tpshop_attribute` [ RunTime:0.0034s ]
+SQL: SELECT * FROM `tpshop_attribute` WHERE `type_id` = 11  [ RunTime:0.0006s ]
+
+[ 2017-08-20T08:25:51+08:00 ] 127.0.0.1 /index.php/Admin/Login/ajaxlogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000450s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000764s ]
+SQL: SHOW COLUMNS FROM `tpshop_manager` [ RunTime:0.0017s ]
+SQL: SELECT * FROM `tpshop_manager` WHERE `username` = 'admin' LIMIT 1   [ RunTime:0.0003s ]
+SQL: UPDATE `tpshop_manager` SET `last_login_time`='1503188751' WHERE `id` = 1 [ RunTime:0.1840s ]
+
+[ 2017-08-20T08:26:32+08:00 ] 127.0.0.1 /index.php/Admin/Goods/getattr
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000464s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000810s ]
+SQL: SHOW COLUMNS FROM `tpshop_attribute` [ RunTime:0.0033s ]
+SQL: SELECT * FROM `tpshop_attribute` WHERE `type_id` = 11  [ RunTime:0.0006s ]
+
+[ 2017-08-20T10:29:12+08:00 ] 127.0.0.1 /index.php/Admin/Login/ajaxlogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000523s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000833s ]
+SQL: SHOW COLUMNS FROM `tpshop_manager` [ RunTime:0.0025s ]
+SQL: SELECT * FROM `tpshop_manager` WHERE `username` = 'admin' LIMIT 1   [ RunTime:0.0005s ]
+SQL: UPDATE `tpshop_manager` SET `last_login_time`='1503196152' WHERE `id` = 1 [ RunTime:0.0744s ]
+
+[ 2017-08-20T10:29:20+08:00 ] 127.0.0.1 /index.php/Admin/Goods/add
+ERR: 1146:Table 'tpshop.tpshop_categroy' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `tpshop_categroy`
+
+[ 2017-08-20T10:30:10+08:00 ] 127.0.0.1 /index.php/Admin/Goods/add
+ERR: 1146:Table 'tpshop.tpshop_categroy' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `tpshop_categroy`
+
+[ 2017-08-20T12:59:01+08:00 ] 127.0.0.1 /index.php/Admin/Goods/getattr
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000658s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001006s ]
+SQL: SHOW COLUMNS FROM `tpshop_attribute` [ RunTime:0.0038s ]
+SQL: SELECT * FROM `tpshop_attribute` WHERE `type_id` = 13  [ RunTime:0.0006s ]
+
+[ 2017-08-20T13:03:07+08:00 ] 127.0.0.1 /index.php/Admin/Goods/getattr
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000590s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000911s ]
+SQL: SHOW COLUMNS FROM `tpshop_attribute` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `tpshop_attribute` WHERE `type_id` = 13  [ RunTime:0.0006s ]
+
+[ 2017-08-20T19:47:27+08:00 ] 127.0.0.1 /index.php/Admin/Login/ajaxlogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000778s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001168s ]
+SQL: SHOW COLUMNS FROM `tpshop_manager` [ RunTime:0.0038s ]
+SQL: SELECT * FROM `tpshop_manager` WHERE `username` = 'admin' LIMIT 1   [ RunTime:0.0006s ]
+SQL: UPDATE `tpshop_manager` SET `last_login_time`='1503229647' WHERE `id` = 1 [ RunTime:0.1789s ]
+
+[ 2017-08-20T19:49:12+08:00 ] 127.0.0.1 /index.php/Admin/Goods/getattr
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000610s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000948s ]
+SQL: SHOW COLUMNS FROM `tpshop_attribute` [ RunTime:0.0034s ]
+SQL: SELECT * FROM `tpshop_attribute` WHERE `type_id` = 11  [ RunTime:0.0005s ]
+
+[ 2017-08-20T21:11:02+08:00 ] 127.0.0.1 /index.php/Admin/Login/ajaxlogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000518s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000874s ]
+SQL: SHOW COLUMNS FROM `tpshop_manager` [ RunTime:0.0038s ]
+SQL: SELECT * FROM `tpshop_manager` WHERE `username` = 'admin' LIMIT 1   [ RunTime:0.0006s ]
+SQL: UPDATE `tpshop_manager` SET `last_login_time`='1503234662' WHERE `id` = 1 [ RunTime:0.0697s ]
+
+[ 2017-08-20T21:11:20+08:00 ] 127.0.0.1 /index.php/Admin/Goods/getattr
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000558s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001023s ]
+SQL: SHOW COLUMNS FROM `tpshop_attribute` [ RunTime:0.0039s ]
+SQL: SELECT * FROM `tpshop_attribute` WHERE `type_id` = 13  [ RunTime:0.0006s ]
+

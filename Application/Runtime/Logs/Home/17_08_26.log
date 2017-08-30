@@ -1,0 +1,724 @@
+[ 2017-08-26T00:25:16+08:00 ] 127.0.0.1 /index.php/Home/Test/dongtaiditu
+ERR: 模板不存在:./Application/Home/View/Test/dongtaiditu.html
+
+[ 2017-08-26T00:25:46+08:00 ] 127.0.0.1 /index.php/Home/Cart/ajaxgetnum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000463s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000773s ]
+SQL: SHOW COLUMNS FROM `tpshop_cart` [ RunTime:0.0019s ]
+NOTIC: [8] Undefined variable: return E:\php\tpshop\Application\Home\Model\CartModel.class.php 第 70 行.
+NOTIC: [2] Invalid argument supplied for foreach() E:\php\tpshop\Application\Home\Model\CartModel.class.php 第 78 行.
+
+[ 2017-08-26T08:53:00+08:00 ] 127.0.0.1 /index.php
+ERR: 模板不存在:./Application/Home/View/Index/index.html
+
+[ 2017-08-26T09:28:46+08:00 ] 127.0.0.1 /index.php/Home/Cart/ajaxgetnum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000776s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001360s ]
+SQL: SHOW COLUMNS FROM `tpshop_cart` [ RunTime:0.0015s ]
+NOTIC: [8] Undefined variable: return E:\php\tpshop\Application\Home\Model\CartModel.class.php 第 70 行.
+NOTIC: [2] Invalid argument supplied for foreach() E:\php\tpshop\Application\Home\Model\CartModel.class.php 第 78 行.
+
+[ 2017-08-26T12:31:39+08:00 ] 127.0.0.1 /index.php/Home/Cart/ajaxgetnum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000835s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001360s ]
+SQL: SHOW COLUMNS FROM `tpshop_cart` [ RunTime:0.0022s ]
+NOTIC: [8] Undefined variable: return E:\php\tpshop\Application\Home\Model\CartModel.class.php 第 70 行.
+NOTIC: [2] Invalid argument supplied for foreach() E:\php\tpshop\Application\Home\Model\CartModel.class.php 第 78 行.
+
+[ 2017-08-26T15:47:20+08:00 ] 127.0.0.1 /index.php/Home/Cart/ajaxgetnum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000860s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001291s ]
+SQL: SHOW COLUMNS FROM `tpshop_cart` [ RunTime:0.0016s ]
+NOTIC: [8] Undefined variable: return E:\php\tpshop\Application\Home\Model\CartModel.class.php 第 70 行.
+NOTIC: [2] Invalid argument supplied for foreach() E:\php\tpshop\Application\Home\Model\CartModel.class.php 第 78 行.
+
+[ 2017-08-26T15:51:57+08:00 ] 127.0.0.1 /index.php/Home/Cart/ajaxgetnum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000612s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000891s ]
+SQL: SHOW COLUMNS FROM `tpshop_cart` [ RunTime:0.0375s ]
+NOTIC: [8] Undefined variable: return E:\php\tpshop\Application\Home\Model\CartModel.class.php 第 70 行.
+NOTIC: [2] Invalid argument supplied for foreach() E:\php\tpshop\Application\Home\Model\CartModel.class.php 第 78 行.
+
+[ 2017-08-26T16:14:05+08:00 ] 127.0.0.1 /index.php/Home/Cart/ajaxgetnum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000450s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000737s ]
+SQL: SHOW COLUMNS FROM `tpshop_cart` [ RunTime:0.0017s ]
+NOTIC: [8] Undefined variable: return E:\php\tpshop\Application\Home\Model\CartModel.class.php 第 70 行.
+NOTIC: [2] Invalid argument supplied for foreach() E:\php\tpshop\Application\Home\Model\CartModel.class.php 第 78 行.
+
+[ 2017-08-26T16:14:06+08:00 ] 127.0.0.1 /index.php/Home/Cart/ajaxgetnum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000445s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000744s ]
+SQL: SHOW COLUMNS FROM `tpshop_cart` [ RunTime:0.0022s ]
+NOTIC: [8] Undefined variable: return E:\php\tpshop\Application\Home\Model\CartModel.class.php 第 70 行.
+NOTIC: [2] Invalid argument supplied for foreach() E:\php\tpshop\Application\Home\Model\CartModel.class.php 第 78 行.
+
+[ 2017-08-26T16:50:04+08:00 ] 127.0.0.1 /index.php/Home/Cart/ajaxgetnum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000691s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000974s ]
+SQL: SHOW COLUMNS FROM `tpshop_cart` [ RunTime:0.0016s ]
+NOTIC: [8] Undefined variable: return E:\php\tpshop\Application\Home\Model\CartModel.class.php 第 70 行.
+NOTIC: [2] Invalid argument supplied for foreach() E:\php\tpshop\Application\Home\Model\CartModel.class.php 第 78 行.
+
+[ 2017-08-26T16:50:12+08:00 ] 127.0.0.1 /index.php/Home/Cart/ajaxgetnum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001339s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001901s ]
+SQL: SHOW COLUMNS FROM `tpshop_cart` [ RunTime:0.0017s ]
+NOTIC: [8] Undefined variable: return E:\php\tpshop\Application\Home\Model\CartModel.class.php 第 70 行.
+NOTIC: [2] Invalid argument supplied for foreach() E:\php\tpshop\Application\Home\Model\CartModel.class.php 第 78 行.
+
+[ 2017-08-26T16:50:47+08:00 ] 127.0.0.1 /index.php/Home/Cart/ajaxgetnum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000862s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001401s ]
+SQL: SHOW COLUMNS FROM `tpshop_cart` [ RunTime:0.0015s ]
+SQL: SELECT * FROM `tpshop_cart` WHERE `user_id` = 8  [ RunTime:0.0002s ]
+
+[ 2017-08-26T16:50:53+08:00 ] 127.0.0.1 /index.php/Home/Cart/ajaxgetnum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000682s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001002s ]
+SQL: SHOW COLUMNS FROM `tpshop_cart` [ RunTime:0.0015s ]
+SQL: SELECT * FROM `tpshop_cart` WHERE `user_id` = 8  [ RunTime:0.0002s ]
+
+[ 2017-08-26T16:50:58+08:00 ] 127.0.0.1 /index.php/Home/Cart/ajaxgetnum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001188s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001875s ]
+SQL: SHOW COLUMNS FROM `tpshop_cart` [ RunTime:0.0021s ]
+SQL: SELECT * FROM `tpshop_cart` WHERE `user_id` = 8  [ RunTime:0.0004s ]
+
+[ 2017-08-26T16:51:01+08:00 ] 127.0.0.1 /index.php/Home/Cart/ajaxgetnum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000999s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001542s ]
+SQL: SHOW COLUMNS FROM `tpshop_cart` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `tpshop_cart` WHERE `user_id` = 8  [ RunTime:0.0003s ]
+
+[ 2017-08-26T16:51:03+08:00 ] 127.0.0.1 /index.php/Home/Cart/ajaxchangenum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000669s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001003s ]
+SQL: SHOW COLUMNS FROM `tpshop_cart` [ RunTime:0.0015s ]
+SQL: SELECT * FROM `tpshop_cart` WHERE `user_id` = 8 AND `goods_id` = 85 AND `goods_attr_ids` = '81,83,85' LIMIT 1   [ RunTime:0.0003s ]
+SQL: UPDATE `tpshop_cart` SET `user_id`='8',`goods_id`='85',`goods_attr_ids`='81,83,85',`number`='2' WHERE `id` = 17 [ RunTime:0.0918s ]
+SQL: SELECT * FROM `tpshop_cart` WHERE `user_id` = 8  [ RunTime:0.0003s ]
+
+[ 2017-08-26T16:51:05+08:00 ] 127.0.0.1 /index.php/Home/Cart/ajaxchangenum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000554s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000835s ]
+SQL: SHOW COLUMNS FROM `tpshop_cart` [ RunTime:0.0022s ]
+SQL: SELECT * FROM `tpshop_cart` WHERE `user_id` = 8 AND `goods_id` = 85 AND `goods_attr_ids` = '81,83,85' LIMIT 1   [ RunTime:0.0004s ]
+SQL: UPDATE `tpshop_cart` SET `user_id`='8',`goods_id`='85',`goods_attr_ids`='81,83,85',`number`='2' WHERE `id` = 17 [ RunTime:0.0699s ]
+
+[ 2017-08-26T16:51:06+08:00 ] 127.0.0.1 /index.php/Home/Cart/ajaxchangenum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000543s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000888s ]
+SQL: SHOW COLUMNS FROM `tpshop_cart` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `tpshop_cart` WHERE `user_id` = 8 AND `goods_id` = 85 AND `goods_attr_ids` = '81,83,85' LIMIT 1   [ RunTime:0.0006s ]
+SQL: UPDATE `tpshop_cart` SET `user_id`='8',`goods_id`='85',`goods_attr_ids`='81,83,85',`number`='2' WHERE `id` = 17 [ RunTime:0.4652s ]
+
+[ 2017-08-26T16:51:07+08:00 ] 127.0.0.1 /index.php/Home/Cart/ajaxchangenum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000558s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000917s ]
+SQL: SHOW COLUMNS FROM `tpshop_cart` [ RunTime:0.0019s ]
+SQL: SELECT * FROM `tpshop_cart` WHERE `user_id` = 8 AND `goods_id` = 85 AND `goods_attr_ids` = '81,83,85' LIMIT 1   [ RunTime:0.0004s ]
+SQL: UPDATE `tpshop_cart` SET `user_id`='8',`goods_id`='85',`goods_attr_ids`='81,83,85',`number`='2' WHERE `id` = 17 [ RunTime:0.1318s ]
+
+[ 2017-08-26T16:51:10+08:00 ] 127.0.0.1 /index.php/Home/Cart/ajaxchangenum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000511s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000777s ]
+SQL: SHOW COLUMNS FROM `tpshop_cart` [ RunTime:0.0015s ]
+SQL: SELECT * FROM `tpshop_cart` WHERE `user_id` = 8 AND `goods_id` = 85 AND `goods_attr_ids` = '81,83,85' LIMIT 1   [ RunTime:0.0003s ]
+SQL: UPDATE `tpshop_cart` SET `user_id`='8',`goods_id`='85',`goods_attr_ids`='81,83,85',`number`='2' WHERE `id` = 17 [ RunTime:0.0672s ]
+
+[ 2017-08-26T16:51:15+08:00 ] 127.0.0.1 /index.php/Home/Cart/ajaxgetnum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000669s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001120s ]
+SQL: SHOW COLUMNS FROM `tpshop_cart` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `tpshop_cart` WHERE `user_id` = 8  [ RunTime:0.0004s ]
+
+[ 2017-08-26T16:51:18+08:00 ] 127.0.0.1 /index.php/Home/Cart/ajaxchangenum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000752s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001154s ]
+SQL: SHOW COLUMNS FROM `tpshop_cart` [ RunTime:0.0023s ]
+SQL: SELECT * FROM `tpshop_cart` WHERE `user_id` = 8 AND `goods_id` = 83 AND `goods_attr_ids` = '44' LIMIT 1   [ RunTime:0.0005s ]
+SQL: UPDATE `tpshop_cart` SET `user_id`='8',`goods_id`='83',`goods_attr_ids`='44',`number`='1' WHERE `id` = 16 [ RunTime:0.0556s ]
+SQL: SELECT * FROM `tpshop_cart` WHERE `user_id` = 8  [ RunTime:0.0003s ]
+
+[ 2017-08-26T16:51:25+08:00 ] 127.0.0.1 /index.php/Home/Cart/ajaxchangenum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001147s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001695s ]
+SQL: SHOW COLUMNS FROM `tpshop_cart` [ RunTime:0.0014s ]
+SQL: SELECT * FROM `tpshop_cart` WHERE `user_id` = 8 AND `goods_id` = 83 AND `goods_attr_ids` = '44' LIMIT 1   [ RunTime:0.0003s ]
+SQL: UPDATE `tpshop_cart` SET `user_id`='8',`goods_id`='83',`goods_attr_ids`='44',`number`='1' WHERE `id` = 16 [ RunTime:0.0528s ]
+
+[ 2017-08-26T16:51:49+08:00 ] 127.0.0.1 /index.php/Home/Cart/ajaxchangenum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000584s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000936s ]
+SQL: SHOW COLUMNS FROM `tpshop_cart` [ RunTime:0.0015s ]
+SQL: SELECT * FROM `tpshop_cart` WHERE `user_id` = 8 AND `goods_id` = 83 AND `goods_attr_ids` = '44' LIMIT 1   [ RunTime:0.0003s ]
+SQL: UPDATE `tpshop_cart` SET `user_id`='8',`goods_id`='83',`goods_attr_ids`='44',`number`='2' WHERE `id` = 16 [ RunTime:0.0755s ]
+SQL: SELECT * FROM `tpshop_cart` WHERE `user_id` = 8  [ RunTime:0.0003s ]
+
+[ 2017-08-26T16:51:57+08:00 ] 127.0.0.1 /index.php/Home/Cart/ajaxchangenum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000571s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000888s ]
+SQL: SHOW COLUMNS FROM `tpshop_cart` [ RunTime:0.0018s ]
+SQL: SELECT * FROM `tpshop_cart` WHERE `user_id` = 8 AND `goods_id` = 83 AND `goods_attr_ids` = '44' LIMIT 1   [ RunTime:0.0003s ]
+SQL: UPDATE `tpshop_cart` SET `user_id`='8',`goods_id`='83',`goods_attr_ids`='44',`number`='1' WHERE `id` = 16 [ RunTime:0.0685s ]
+SQL: SELECT * FROM `tpshop_cart` WHERE `user_id` = 8  [ RunTime:0.0003s ]
+
+[ 2017-08-26T16:52:00+08:00 ] 127.0.0.1 /index.php/Home/Cart/ajaxgetnum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000823s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001259s ]
+SQL: SHOW COLUMNS FROM `tpshop_cart` [ RunTime:0.0019s ]
+SQL: SELECT * FROM `tpshop_cart` WHERE `user_id` = 8  [ RunTime:0.0003s ]
+
+[ 2017-08-26T16:52:04+08:00 ] 127.0.0.1 /index.php/Home/Cart/ajaxgetnum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000927s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001358s ]
+SQL: SHOW COLUMNS FROM `tpshop_cart` [ RunTime:0.0024s ]
+SQL: SELECT * FROM `tpshop_cart` WHERE `user_id` = 8  [ RunTime:0.0003s ]
+
+[ 2017-08-26T16:52:05+08:00 ] 127.0.0.1 /index.php/Home/Cart/ajaxgetnum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000562s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000904s ]
+SQL: SHOW COLUMNS FROM `tpshop_cart` [ RunTime:0.0017s ]
+SQL: SELECT * FROM `tpshop_cart` WHERE `user_id` = 8  [ RunTime:0.0003s ]
+
+[ 2017-08-26T16:52:07+08:00 ] 127.0.0.1 /index.php/Home/Cart/ajaxgetnum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000774s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001173s ]
+SQL: SHOW COLUMNS FROM `tpshop_cart` [ RunTime:0.0021s ]
+SQL: SELECT * FROM `tpshop_cart` WHERE `user_id` = 8  [ RunTime:0.0003s ]
+
+[ 2017-08-26T16:52:09+08:00 ] 127.0.0.1 /index.php/Home/Cart/ajaxchangenum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000444s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000741s ]
+SQL: SHOW COLUMNS FROM `tpshop_cart` [ RunTime:0.0035s ]
+SQL: SELECT * FROM `tpshop_cart` WHERE `user_id` = 8 AND `goods_id` = 81 AND `goods_attr_ids` = '29' LIMIT 1   [ RunTime:0.0005s ]
+SQL: UPDATE `tpshop_cart` SET `user_id`='8',`goods_id`='81',`goods_attr_ids`='29',`number`='4' WHERE `id` = 15 [ RunTime:0.0614s ]
+SQL: SELECT * FROM `tpshop_cart` WHERE `user_id` = 8  [ RunTime:0.0004s ]
+
+[ 2017-08-26T16:52:15+08:00 ] 127.0.0.1 /index.php/Home/Cart/ajaxchangenum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000525s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000899s ]
+SQL: SHOW COLUMNS FROM `tpshop_cart` [ RunTime:0.0018s ]
+SQL: SELECT * FROM `tpshop_cart` WHERE `user_id` = 8 AND `goods_id` = 81 AND `goods_attr_ids` = '29' LIMIT 1   [ RunTime:0.0003s ]
+SQL: UPDATE `tpshop_cart` SET `user_id`='8',`goods_id`='81',`goods_attr_ids`='29',`number`='4' WHERE `id` = 15 [ RunTime:0.0723s ]
+
+[ 2017-08-26T16:52:25+08:00 ] 127.0.0.1 /index.php/Home/Cart/ajaxgetnum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000665s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001085s ]
+SQL: SHOW COLUMNS FROM `tpshop_cart` [ RunTime:0.0027s ]
+SQL: SELECT * FROM `tpshop_cart` WHERE `user_id` = 8  [ RunTime:0.0004s ]
+
+[ 2017-08-26T16:52:28+08:00 ] 127.0.0.1 /index.php/Home/Cart/ajaxgetnum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000766s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001295s ]
+SQL: SHOW COLUMNS FROM `tpshop_cart` [ RunTime:0.0017s ]
+SQL: SELECT * FROM `tpshop_cart` WHERE `user_id` = 8  [ RunTime:0.0003s ]
+
+[ 2017-08-26T16:52:34+08:00 ] 127.0.0.1 /index.php/Home/Cart/ajaxgetnum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000695s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001168s ]
+SQL: SHOW COLUMNS FROM `tpshop_cart` [ RunTime:0.0043s ]
+SQL: SELECT * FROM `tpshop_cart` WHERE `user_id` = 8  [ RunTime:0.0006s ]
+
+[ 2017-08-26T16:52:52+08:00 ] 127.0.0.1 /index.php/Home/Cart/ajaxgetnum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000718s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001211s ]
+SQL: SHOW COLUMNS FROM `tpshop_cart` [ RunTime:0.0023s ]
+SQL: SELECT * FROM `tpshop_cart` WHERE `user_id` = 8  [ RunTime:0.0004s ]
+
+[ 2017-08-26T16:52:55+08:00 ] 127.0.0.1 /index.php/Home/Cart/ajaxgetnum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000726s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001334s ]
+SQL: SHOW COLUMNS FROM `tpshop_cart` [ RunTime:0.0016s ]
+SQL: SELECT * FROM `tpshop_cart` WHERE `user_id` = 8  [ RunTime:0.0003s ]
+
+[ 2017-08-26T16:52:57+08:00 ] 127.0.0.1 /index.php/Home/Cart/ajaxgetnum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000738s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001234s ]
+SQL: SHOW COLUMNS FROM `tpshop_cart` [ RunTime:0.0025s ]
+SQL: SELECT * FROM `tpshop_cart` WHERE `user_id` = 8  [ RunTime:0.0003s ]
+
+[ 2017-08-26T16:53:06+08:00 ] 127.0.0.1 /index.php/Home/Cart/ajaxgetnum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000693s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001182s ]
+SQL: SHOW COLUMNS FROM `tpshop_cart` [ RunTime:0.0023s ]
+SQL: SELECT * FROM `tpshop_cart` WHERE `user_id` = 8  [ RunTime:0.0003s ]
+
+[ 2017-08-26T18:52:40+08:00 ] 127.0.0.1 /index.php/Home/Cart/ajaxgetnum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000594s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001008s ]
+SQL: SHOW COLUMNS FROM `tpshop_cart` [ RunTime:0.0550s ]
+SQL: SELECT * FROM `tpshop_cart` WHERE `user_id` = 8  [ RunTime:0.0004s ]
+
+[ 2017-08-26T18:52:50+08:00 ] 127.0.0.1 /index.php/Home/Cart/ajaxgetnum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.006234s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006625s ]
+SQL: SHOW COLUMNS FROM `tpshop_cart` [ RunTime:0.0033s ]
+SQL: SELECT * FROM `tpshop_cart` WHERE `user_id` = 8  [ RunTime:0.0005s ]
+
+[ 2017-08-26T19:16:39+08:00 ] 127.0.0.1 /index.php/Home/Cart/ajaxgetnum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000438s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000723s ]
+SQL: SHOW COLUMNS FROM `tpshop_cart` [ RunTime:0.0022s ]
+SQL: SELECT * FROM `tpshop_cart` WHERE `user_id` = 8  [ RunTime:0.0003s ]
+
+[ 2017-08-26T19:16:41+08:00 ] 127.0.0.1 /index.php/Home/Cart/ajaxgetnum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000444s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000735s ]
+SQL: SHOW COLUMNS FROM `tpshop_cart` [ RunTime:0.0016s ]
+SQL: SELECT * FROM `tpshop_cart` WHERE `user_id` = 8  [ RunTime:0.0003s ]
+
+[ 2017-08-26T19:16:44+08:00 ] 127.0.0.1 /index.php/Home/Cart/ajaxchangenum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000533s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000916s ]
+SQL: SHOW COLUMNS FROM `tpshop_cart` [ RunTime:0.0021s ]
+SQL: SELECT * FROM `tpshop_cart` WHERE `user_id` = 8 AND `goods_id` = 83 AND `goods_attr_ids` = '44' LIMIT 1   [ RunTime:0.0004s ]
+SQL: UPDATE `tpshop_cart` SET `user_id`='8',`goods_id`='83',`goods_attr_ids`='44',`number`='2' WHERE `id` = 16 [ RunTime:0.1055s ]
+SQL: SELECT * FROM `tpshop_cart` WHERE `user_id` = 8  [ RunTime:0.0006s ]
+
+[ 2017-08-26T19:16:51+08:00 ] 127.0.0.1 /index.php/Home/Cart/ajaxchangenum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000528s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000904s ]
+SQL: SHOW COLUMNS FROM `tpshop_cart` [ RunTime:0.0033s ]
+SQL: SELECT * FROM `tpshop_cart` WHERE `user_id` = 8 AND `goods_id` = 83 AND `goods_attr_ids` = '44' LIMIT 1   [ RunTime:0.0006s ]
+SQL: UPDATE `tpshop_cart` SET `user_id`='8',`goods_id`='83',`goods_attr_ids`='44',`number`='1' WHERE `id` = 16 [ RunTime:0.1098s ]
+SQL: SELECT * FROM `tpshop_cart` WHERE `user_id` = 8  [ RunTime:0.0004s ]
+
+[ 2017-08-26T19:16:53+08:00 ] 127.0.0.1 /index.php/Home/Cart/ajaxchangenum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000429s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000751s ]
+SQL: SHOW COLUMNS FROM `tpshop_cart` [ RunTime:0.0043s ]
+SQL: SELECT * FROM `tpshop_cart` WHERE `user_id` = 8 AND `goods_id` = 83 AND `goods_attr_ids` = '44' LIMIT 1   [ RunTime:0.0006s ]
+SQL: UPDATE `tpshop_cart` SET `user_id`='8',`goods_id`='83',`goods_attr_ids`='44',`number`='1' WHERE `id` = 16 [ RunTime:0.1048s ]
+
+[ 2017-08-26T19:16:58+08:00 ] 127.0.0.1 /index.php/Home/Cart/ajaxchangenum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000516s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000841s ]
+SQL: SHOW COLUMNS FROM `tpshop_cart` [ RunTime:0.0021s ]
+SQL: SELECT * FROM `tpshop_cart` WHERE `user_id` = 8 AND `goods_id` = 83 AND `goods_attr_ids` = '44' LIMIT 1   [ RunTime:0.0003s ]
+SQL: UPDATE `tpshop_cart` SET `user_id`='8',`goods_id`='83',`goods_attr_ids`='44',`number`='2' WHERE `id` = 16 [ RunTime:0.1021s ]
+SQL: SELECT * FROM `tpshop_cart` WHERE `user_id` = 8  [ RunTime:0.0006s ]
+
+[ 2017-08-26T19:17:00+08:00 ] 127.0.0.1 /index.php/Home/Cart/ajaxchangenum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000523s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000845s ]
+SQL: SHOW COLUMNS FROM `tpshop_cart` [ RunTime:0.0021s ]
+SQL: SELECT * FROM `tpshop_cart` WHERE `user_id` = 8 AND `goods_id` = 85 AND `goods_attr_ids` = '81,83,85' LIMIT 1   [ RunTime:0.0003s ]
+SQL: UPDATE `tpshop_cart` SET `user_id`='8',`goods_id`='85',`goods_attr_ids`='81,83,85',`number`='4' WHERE `id` = 17 [ RunTime:0.0767s ]
+SQL: SELECT * FROM `tpshop_cart` WHERE `user_id` = 8  [ RunTime:0.0005s ]
+
+[ 2017-08-26T19:17:04+08:00 ] 127.0.0.1 /index.php/Home/Cart/ajaxchangenum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000520s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000876s ]
+SQL: SHOW COLUMNS FROM `tpshop_cart` [ RunTime:0.0043s ]
+SQL: SELECT * FROM `tpshop_cart` WHERE `user_id` = 8 AND `goods_id` = 83 AND `goods_attr_ids` = '44' LIMIT 1   [ RunTime:0.0006s ]
+SQL: UPDATE `tpshop_cart` SET `user_id`='8',`goods_id`='83',`goods_attr_ids`='44',`number`='2' WHERE `id` = 16 [ RunTime:0.0933s ]
+
+[ 2017-08-26T19:17:09+08:00 ] 127.0.0.1 /index.php/Home/Cart/ajaxchangenum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000535s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000883s ]
+SQL: SHOW COLUMNS FROM `tpshop_cart` [ RunTime:0.0031s ]
+SQL: SELECT * FROM `tpshop_cart` WHERE `user_id` = 8 AND `goods_id` = 83 AND `goods_attr_ids` = '44' LIMIT 1   [ RunTime:0.0006s ]
+SQL: UPDATE `tpshop_cart` SET `user_id`='8',`goods_id`='83',`goods_attr_ids`='44',`number`='2' WHERE `id` = 16 [ RunTime:0.0754s ]
+
+[ 2017-08-26T19:17:26+08:00 ] 127.0.0.1 /index.php/Home/Cart/ajaxgetnum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000709s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001020s ]
+SQL: SHOW COLUMNS FROM `tpshop_cart` [ RunTime:0.0024s ]
+SQL: SELECT * FROM `tpshop_cart` WHERE `user_id` = 8  [ RunTime:0.0003s ]
+
+[ 2017-08-26T19:17:57+08:00 ] 127.0.0.1 /index.php/Home/Cart/ajaxgetnum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000465s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000814s ]
+SQL: SHOW COLUMNS FROM `tpshop_cart` [ RunTime:0.0043s ]
+SQL: SELECT * FROM `tpshop_cart` WHERE `user_id` = 8  [ RunTime:0.0007s ]
+
+[ 2017-08-26T19:18:02+08:00 ] 127.0.0.1 /index.php/Home/Cart/ajaxchangenum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000448s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000729s ]
+SQL: SHOW COLUMNS FROM `tpshop_cart` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `tpshop_cart` WHERE `user_id` = 8 AND `goods_id` = 83 AND `goods_attr_ids` = '44' LIMIT 1   [ RunTime:0.0007s ]
+SQL: UPDATE `tpshop_cart` SET `user_id`='8',`goods_id`='83',`goods_attr_ids`='44',`number`='2' WHERE `id` = 16 [ RunTime:0.1115s ]
+
+[ 2017-08-26T19:18:10+08:00 ] 127.0.0.1 /index.php/Home/Cart/ajaxgetnum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000680s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001185s ]
+SQL: SHOW COLUMNS FROM `tpshop_cart` [ RunTime:0.0022s ]
+SQL: SELECT * FROM `tpshop_cart` WHERE `user_id` = 8  [ RunTime:0.0004s ]
+
+[ 2017-08-26T19:18:31+08:00 ] 127.0.0.1 /index.php/Home/Cart/ajaxgetnum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000718s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001236s ]
+SQL: SHOW COLUMNS FROM `tpshop_cart` [ RunTime:0.0034s ]
+SQL: SELECT * FROM `tpshop_cart` WHERE `user_id` = 8  [ RunTime:0.0006s ]
+
+[ 2017-08-26T19:19:41+08:00 ] 127.0.0.1 /index.php/Home/Cart/ajaxgetnum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000898s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001363s ]
+SQL: SHOW COLUMNS FROM `tpshop_cart` [ RunTime:0.0019s ]
+SQL: SELECT * FROM `tpshop_cart` WHERE `user_id` = 8  [ RunTime:0.0003s ]
+
+[ 2017-08-26T19:30:37+08:00 ] 127.0.0.1 /index.php/Home/Cart/ajaxgetnum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000801s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001220s ]
+SQL: SHOW COLUMNS FROM `tpshop_cart` [ RunTime:0.0016s ]
+SQL: SELECT * FROM `tpshop_cart` WHERE `user_id` = 8  [ RunTime:0.0002s ]
+
+[ 2017-08-26T19:30:41+08:00 ] 127.0.0.1 /index.php/Home/Cart/ajaxgetnum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000592s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000959s ]
+SQL: SHOW COLUMNS FROM `tpshop_cart` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `tpshop_cart` WHERE `user_id` = 8  [ RunTime:0.0417s ]
+
+[ 2017-08-26T20:18:57+08:00 ] 127.0.0.1 /index.php/Home/Cart/ajaxgetnum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000442s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000736s ]
+SQL: SHOW COLUMNS FROM `tpshop_cart` [ RunTime:0.0020s ]
+NOTIC: [8] Undefined variable: return E:\php\tpshop\Application\Home\Model\CartModel.class.php 第 70 行.
+NOTIC: [2] Invalid argument supplied for foreach() E:\php\tpshop\Application\Home\Model\CartModel.class.php 第 78 行.
+
+[ 2017-08-26T20:19:06+08:00 ] 127.0.0.1 /index.php/Home/Cart/ajaxgetnum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000688s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001164s ]
+SQL: SHOW COLUMNS FROM `tpshop_cart` [ RunTime:0.0042s ]
+NOTIC: [8] Undefined variable: return E:\php\tpshop\Application\Home\Model\CartModel.class.php 第 70 行.
+NOTIC: [2] Invalid argument supplied for foreach() E:\php\tpshop\Application\Home\Model\CartModel.class.php 第 78 行.
+
+[ 2017-08-26T20:19:12+08:00 ] 127.0.0.1 /index.php/Home/Cart/ajaxgetnum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000456s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000776s ]
+SQL: SHOW COLUMNS FROM `tpshop_cart` [ RunTime:0.0043s ]
+
+[ 2017-08-26T20:19:16+08:00 ] 127.0.0.1 /index.php/Home/Cart/ajaxgetnum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000529s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000876s ]
+SQL: SHOW COLUMNS FROM `tpshop_cart` [ RunTime:0.0043s ]
+
+[ 2017-08-26T20:19:20+08:00 ] 127.0.0.1 /index.php/Home/Cart/ajaxchangenum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000708s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001044s ]
+SQL: SHOW COLUMNS FROM `tpshop_cart` [ RunTime:0.0036s ]
+
+[ 2017-08-26T20:19:27+08:00 ] 127.0.0.1 /index.php/Home/Cart/ajaxchangenum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000662s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001108s ]
+SQL: SHOW COLUMNS FROM `tpshop_cart` [ RunTime:0.0033s ]
+
+[ 2017-08-26T20:23:33+08:00 ] 127.0.0.1 /index.php/Home/Cart/ajaxchangenum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000661s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001049s ]
+SQL: SHOW COLUMNS FROM `tpshop_cart` [ RunTime:0.0042s ]
+
+[ 2017-08-26T20:23:55+08:00 ] 127.0.0.1 /index.php/Home/Cart/ajaxgetnum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000898s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001396s ]
+SQL: SHOW COLUMNS FROM `tpshop_cart` [ RunTime:0.0015s ]
+
+[ 2017-08-26T20:23:58+08:00 ] 127.0.0.1 /index.php/Home/Cart/ajaxchangenum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000717s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001094s ]
+SQL: SHOW COLUMNS FROM `tpshop_cart` [ RunTime:0.0031s ]
+
+[ 2017-08-26T20:24:31+08:00 ] 127.0.0.1 /index.php/Home/Cart/ajaxgetnum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000796s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001298s ]
+SQL: SHOW COLUMNS FROM `tpshop_cart` [ RunTime:0.0020s ]
+
+[ 2017-08-26T20:24:33+08:00 ] 127.0.0.1 /index.php/Home/Cart/ajaxchangenum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000451s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000721s ]
+SQL: SHOW COLUMNS FROM `tpshop_cart` [ RunTime:0.0031s ]
+
+[ 2017-08-26T20:24:35+08:00 ] 127.0.0.1 /index.php/Home/Cart/ajaxchangenum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000560s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000902s ]
+SQL: SHOW COLUMNS FROM `tpshop_cart` [ RunTime:0.0032s ]
+
+[ 2017-08-26T20:24:42+08:00 ] 127.0.0.1 /index.php/Home/Cart/ajaxgetnum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000877s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001240s ]
+SQL: SHOW COLUMNS FROM `tpshop_cart` [ RunTime:0.0033s ]
+
+[ 2017-08-26T20:24:46+08:00 ] 127.0.0.1 /index.php/Home/Cart/ajaxchangenum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000765s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001414s ]
+SQL: SHOW COLUMNS FROM `tpshop_cart` [ RunTime:0.0039s ]
+
+[ 2017-08-26T20:24:49+08:00 ] 127.0.0.1 /index.php/Home/Cart/ajaxchangenum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000747s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001111s ]
+SQL: SHOW COLUMNS FROM `tpshop_cart` [ RunTime:0.0021s ]
+
+[ 2017-08-26T20:24:52+08:00 ] 127.0.0.1 /index.php/Home/Cart/ajaxchangenum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000781s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001177s ]
+SQL: SHOW COLUMNS FROM `tpshop_cart` [ RunTime:0.0031s ]
+
+[ 2017-08-26T20:24:54+08:00 ] 127.0.0.1 /index.php/Home/Cart/ajaxchangenum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000762s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001157s ]
+SQL: SHOW COLUMNS FROM `tpshop_cart` [ RunTime:0.0031s ]
+
+[ 2017-08-26T20:24:55+08:00 ] 127.0.0.1 /index.php/Home/Cart/ajaxchangenum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000761s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001167s ]
+SQL: SHOW COLUMNS FROM `tpshop_cart` [ RunTime:0.0031s ]
+
+[ 2017-08-26T20:24:58+08:00 ] 127.0.0.1 /index.php/Home/Cart/ajaxchangenum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000841s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001283s ]
+SQL: SHOW COLUMNS FROM `tpshop_cart` [ RunTime:0.0032s ]
+
+[ 2017-08-26T20:25:49+08:00 ] 127.0.0.1 /index.php/Home/Cart/ajaxgetnum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000452s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000758s ]
+SQL: SHOW COLUMNS FROM `tpshop_cart` [ RunTime:0.0020s ]
+
+[ 2017-08-26T20:25:51+08:00 ] 127.0.0.1 /index.php/Home/Cart/ajaxchangenum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000534s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000908s ]
+SQL: SHOW COLUMNS FROM `tpshop_cart` [ RunTime:0.0033s ]
+
+[ 2017-08-26T20:25:53+08:00 ] 127.0.0.1 /index.php/Home/Cart/ajaxchangenum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000425s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000690s ]
+SQL: SHOW COLUMNS FROM `tpshop_cart` [ RunTime:0.0041s ]
+
+[ 2017-08-26T20:25:56+08:00 ] 127.0.0.1 /index.php/Home/Cart/ajaxchangenum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000510s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000841s ]
+SQL: SHOW COLUMNS FROM `tpshop_cart` [ RunTime:0.0019s ]
+
+[ 2017-08-26T20:26:28+08:00 ] 127.0.0.1 /index.php/Home/Cart/ajaxgetnum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000620s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001245s ]
+SQL: SHOW COLUMNS FROM `tpshop_cart` [ RunTime:0.0038s ]
+
+[ 2017-08-26T20:27:18+08:00 ] 127.0.0.1 /index.php/Home/User/register
+ERR: 1364:Field 'openid' doesn't have a default value
+ [ SQL语句 ] : INSERT INTO `tpshop_user` (`email`,`password`,`username`,`create_time`) VALUES ('agoni2565@163.comm','708b5cb6cf63a991ab6f2e0206e94deb','agoni2565@163.comm','1503750438')
+
+[ 2017-08-26T20:32:48+08:00 ] 127.0.0.1 /index.php/Home/Api/sendmsg
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000655s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001182s ]
+
+[ 2017-08-26T21:46:56+08:00 ] 127.0.0.1 /index.php/Home/Cart/ajaxgetnum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001189s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001758s ]
+SQL: SHOW COLUMNS FROM `tpshop_cart` [ RunTime:0.0048s ]
+
+[ 2017-08-26T22:03:37+08:00 ] 127.0.0.1 /index.php/Home/User/jinhuo/id/16/code/1960.html
+ERR: 非法操作:jinhuo
+
+[ 2017-08-26T22:04:09+08:00 ] 127.0.0.1 /index.php/Home/User/jinhuo/id/16/code/1960.html
+ERR: 非法操作:jinhuo
+
+[ 2017-08-26T22:06:13+08:00 ] 127.0.0.1 /index.php/Home/User/jinhuo/id/16/code/1960
+ERR: 非法操作:jinhuo
+
+[ 2017-08-26T22:06:26+08:00 ] 127.0.0.1 /index.php/Home/User/jinhuo
+ERR: 非法操作:jinhuo
+
+[ 2017-08-26T22:06:29+08:00 ] 127.0.0.1 /index.php/Home/User
+ERR: 非法操作:index
+
+[ 2017-08-26T22:10:16+08:00 ] 127.0.0.1 /index.php/Home/User/jinhuo/id/16/code/1960.html
+ERR: 非法操作:jinhuo
+
+[ 2017-08-26T22:10:31+08:00 ] 127.0.0.1 /index.php/Home/User/jinhuo/id/16/code/1960.html
+ERR: 非法操作:jinhuo
+
+[ 2017-08-26T22:15:17+08:00 ] 127.0.0.1 /index.php/Home/Cart/ajaxgetnum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000884s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001450s ]
+SQL: SHOW COLUMNS FROM `tpshop_cart` [ RunTime:0.0022s ]
+SQL: SELECT * FROM `tpshop_cart` WHERE `user_id` = 18  [ RunTime:0.0003s ]
+
+[ 2017-08-26T22:38:37+08:00 ] 127.0.0.1 /index.php/Home/Cart/ajaxgetnum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000934s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001468s ]
+SQL: SHOW COLUMNS FROM `tpshop_cart` [ RunTime:0.0032s ]
+NOTIC: [8] Undefined variable: return E:\php\tpshop\Application\Home\Model\CartModel.class.php 第 70 行.
+NOTIC: [2] Invalid argument supplied for foreach() E:\php\tpshop\Application\Home\Model\CartModel.class.php 第 78 行.
+
+[ 2017-08-26T22:38:43+08:00 ] 127.0.0.1 /index.php/Home/Cart/ajaxgetnum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000866s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001411s ]
+SQL: SHOW COLUMNS FROM `tpshop_cart` [ RunTime:0.0038s ]
+NOTIC: [8] Undefined variable: return E:\php\tpshop\Application\Home\Model\CartModel.class.php 第 70 行.
+NOTIC: [2] Invalid argument supplied for foreach() E:\php\tpshop\Application\Home\Model\CartModel.class.php 第 78 行.
+
+[ 2017-08-26T22:38:48+08:00 ] 127.0.0.1 /index.php/Home/Cart/ajaxgetnum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000891s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001417s ]
+SQL: SHOW COLUMNS FROM `tpshop_cart` [ RunTime:0.0026s ]
+
+[ 2017-08-26T22:38:50+08:00 ] 127.0.0.1 /index.php/Home/Cart/ajaxgetnum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000647s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001097s ]
+SQL: SHOW COLUMNS FROM `tpshop_cart` [ RunTime:0.0024s ]
+
+[ 2017-08-26T22:39:10+08:00 ] 127.0.0.1 /index.php/Home/Cart/ajaxgetnum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000576s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000937s ]
+SQL: SHOW COLUMNS FROM `tpshop_cart` [ RunTime:0.0018s ]
+SQL: SELECT * FROM `tpshop_cart` WHERE `user_id` = 18  [ RunTime:0.0003s ]
+
+[ 2017-08-26T22:39:16+08:00 ] 127.0.0.1 /index.php/Home/Cart/ajaxgetnum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000544s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000876s ]
+SQL: SHOW COLUMNS FROM `tpshop_cart` [ RunTime:0.0016s ]
+SQL: SELECT * FROM `tpshop_cart` WHERE `user_id` = 18  [ RunTime:0.0003s ]
+
+[ 2017-08-26T22:39:39+08:00 ] 127.0.0.1 /index.php/Home/Cart/ajaxgetnum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000644s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000996s ]
+SQL: SHOW COLUMNS FROM `tpshop_cart` [ RunTime:0.0043s ]
+SQL: SELECT * FROM `tpshop_cart` WHERE `user_id` = 18  [ RunTime:0.0005s ]
+
+[ 2017-08-26T22:39:41+08:00 ] 127.0.0.1 /index.php/Home/Cart/ajaxchangenum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000761s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001232s ]
+SQL: SHOW COLUMNS FROM `tpshop_cart` [ RunTime:0.0042s ]
+SQL: SELECT * FROM `tpshop_cart` WHERE `user_id` = 18 AND `goods_id` = 85 AND `goods_attr_ids` = '81,83,86' LIMIT 1   [ RunTime:0.0007s ]
+SQL: UPDATE `tpshop_cart` SET `user_id`='18',`goods_id`='85',`goods_attr_ids`='81,83,86',`number`='2' WHERE `id` = 19 [ RunTime:0.0797s ]
+SQL: SELECT * FROM `tpshop_cart` WHERE `user_id` = 18  [ RunTime:0.0006s ]
+
+[ 2017-08-26T22:39:44+08:00 ] 127.0.0.1 /index.php/Home/Cart/ajaxchangenum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000633s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001035s ]
+SQL: SHOW COLUMNS FROM `tpshop_cart` [ RunTime:0.0034s ]
+SQL: SELECT * FROM `tpshop_cart` WHERE `user_id` = 18 AND `goods_id` = 85 AND `goods_attr_ids` = '81,83,86' LIMIT 1   [ RunTime:0.0006s ]
+SQL: UPDATE `tpshop_cart` SET `user_id`='18',`goods_id`='85',`goods_attr_ids`='81,83,86',`number`='1' WHERE `id` = 19 [ RunTime:0.0727s ]
+SQL: SELECT * FROM `tpshop_cart` WHERE `user_id` = 18  [ RunTime:0.0006s ]
+
+[ 2017-08-26T22:39:46+08:00 ] 127.0.0.1 /index.php/Home/Cart/ajaxchangenum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000511s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000830s ]
+SQL: SHOW COLUMNS FROM `tpshop_cart` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `tpshop_cart` WHERE `user_id` = 18 AND `goods_id` = 85 AND `goods_attr_ids` = '81,83,85' LIMIT 1   [ RunTime:0.0004s ]
+SQL: UPDATE `tpshop_cart` SET `user_id`='18',`goods_id`='85',`goods_attr_ids`='81,83,85',`number`='2' WHERE `id` = 18 [ RunTime:0.0885s ]
+SQL: SELECT * FROM `tpshop_cart` WHERE `user_id` = 18  [ RunTime:0.0005s ]
+
+[ 2017-08-26T22:39:53+08:00 ] 127.0.0.1 /index.php/Home/Cart/ajaxgetnum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000862s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001435s ]
+SQL: SHOW COLUMNS FROM `tpshop_cart` [ RunTime:0.0029s ]
+SQL: SELECT * FROM `tpshop_cart` WHERE `user_id` = 18  [ RunTime:0.0005s ]
+
+[ 2017-08-26T22:41:28+08:00 ] 127.0.0.1 /index.php/Home/Cart/ajaxgetnum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000862s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001347s ]
+SQL: SHOW COLUMNS FROM `tpshop_cart` [ RunTime:0.0033s ]
+SQL: SELECT * FROM `tpshop_cart` WHERE `user_id` = 18  [ RunTime:0.0006s ]
+
+[ 2017-08-26T23:57:48+08:00 ] 127.0.0.1 /index.php/Home/Cart/ajaxgetnum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001719s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002187s ]
+SQL: SHOW COLUMNS FROM `tpshop_cart` [ RunTime:0.0036s ]
+SQL: SELECT * FROM `tpshop_cart` WHERE `user_id` = 18  [ RunTime:0.0006s ]
+
+[ 2017-08-26T23:57:53+08:00 ] 127.0.0.1 /index.php/Home/Cart/ajaxgetnum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001031s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001590s ]
+SQL: SHOW COLUMNS FROM `tpshop_cart` [ RunTime:0.0021s ]
+NOTIC: [8] Undefined variable: return E:\php\tpshop\Application\Home\Model\CartModel.class.php 第 70 行.
+NOTIC: [2] Invalid argument supplied for foreach() E:\php\tpshop\Application\Home\Model\CartModel.class.php 第 78 行.
+

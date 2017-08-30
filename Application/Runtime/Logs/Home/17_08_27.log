@@ -1,0 +1,80 @@
+[ 2017-08-27T00:02:43+08:00 ] 127.0.0.1 /index.php/Home/User/Application/Tools/qq/example/oauth/index.php
+ERR: 非法操作:Application
+
+[ 2017-08-27T00:07:12+08:00 ] 127.0.0.1 /index.php/Home/User/Application/Tools/qq/example/oauth/index.php
+ERR: 非法操作:Application
+
+[ 2017-08-27T00:07:58+08:00 ] 127.0.0.1 /index.php/Home/User/Application/Tools/qq/example/oauth/index.php
+ERR: 非法操作:Application
+
+[ 2017-08-27T00:11:53+08:00 ] 127.0.0.1 /index.php/Home/User/Application/Tools/qq/example/oauth/index.php
+ERR: 非法操作:Application
+
+[ 2017-08-27T00:20:12+08:00 ] 127.0.0.1 /index.php/Home/User/Application/Tools/qq/example/oauth/index.php
+ERR: 非法操作:Application
+
+[ 2017-08-27T00:20:25+08:00 ] 127.0.0.1 /index.php/Home/User/Application/Tools/qq/example/oauth/index.php
+ERR: 非法操作:Application
+
+[ 2017-08-27T00:20:48+08:00 ] 127.0.0.1 /index.php/Home/User/Application/Tools/qq/example/oauth/index.php
+ERR: 非法操作:Application
+
+[ 2017-08-27T00:24:07+08:00 ] 127.0.0.1 /index.php/Home/User/Application/Tools/qq/example
+ERR: 非法操作:Application
+
+[ 2017-08-27T00:27:41+08:00 ] 127.0.0.1 /index.php/Home/User/Application/Tools/qq/example/oauth/index.php
+ERR: 非法操作:Application
+
+[ 2017-08-27T00:28:31+08:00 ] 127.0.0.1 /index.php/Home/Cart/ajaxgetnum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000873s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001372s ]
+SQL: SHOW COLUMNS FROM `tpshop_cart` [ RunTime:0.0032s ]
+NOTIC: [8] Undefined variable: return E:\php\tpshop\Application\Home\Model\CartModel.class.php 第 70 行.
+NOTIC: [2] Invalid argument supplied for foreach() E:\php\tpshop\Application\Home\Model\CartModel.class.php 第 78 行.
+
+[ 2017-08-27T00:29:12+08:00 ] 127.0.0.1 /index.php/Home/User/Application/Tools/qq/example/oauth/index.php
+ERR: 非法操作:Application
+
+[ 2017-08-27T00:34:02+08:00 ] 127.0.0.1 /index.php/Home/Cart/ajaxgetnum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000606s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000959s ]
+SQL: SHOW COLUMNS FROM `tpshop_cart` [ RunTime:0.0118s ]
+NOTIC: [8] Undefined variable: return E:\php\tpshop\Application\Home\Model\CartModel.class.php 第 70 行.
+NOTIC: [2] Invalid argument supplied for foreach() E:\php\tpshop\Application\Home\Model\CartModel.class.php 第 78 行.
+
+[ 2017-08-27T09:26:07+08:00 ] 127.0.0.1 /index.php/Home/Cart/ajaxgetnum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000745s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001120s ]
+SQL: SHOW COLUMNS FROM `tpshop_cart` [ RunTime:0.0015s ]
+NOTIC: [8] Undefined variable: return E:\php\tpshop\Application\Home\Model\CartModel.class.php 第 70 行.
+NOTIC: [2] Invalid argument supplied for foreach() E:\php\tpshop\Application\Home\Model\CartModel.class.php 第 78 行.
+
+[ 2017-08-27T09:26:11+08:00 ] 127.0.0.1 /index.php/Home/Cart/ajaxgetnum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001243s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001840s ]
+SQL: SHOW COLUMNS FROM `tpshop_cart` [ RunTime:0.0033s ]
+NOTIC: [8] Undefined variable: return E:\php\tpshop\Application\Home\Model\CartModel.class.php 第 70 行.
+NOTIC: [2] Invalid argument supplied for foreach() E:\php\tpshop\Application\Home\Model\CartModel.class.php 第 78 行.
+
+[ 2017-08-27T09:26:26+08:00 ] 127.0.0.1 /index.php/Home/Cart/ajaxgetnum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000455s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000740s ]
+SQL: SHOW COLUMNS FROM `tpshop_cart` [ RunTime:0.0022s ]
+
+[ 2017-08-27T09:26:29+08:00 ] 127.0.0.1 /index.php/Home/Cart/ajaxgetnum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000477s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000812s ]
+SQL: SHOW COLUMNS FROM `tpshop_cart` [ RunTime:0.0041s ]
+
+[ 2017-08-27T09:26:36+08:00 ] 127.0.0.1 /index.php/Home/Cart/ajaxgetnum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000456s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000751s ]
+SQL: SHOW COLUMNS FROM `tpshop_cart` [ RunTime:0.0032s ]
+

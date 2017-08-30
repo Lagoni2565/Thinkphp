@@ -1,0 +1,664 @@
+[ 2017-08-16T08:31:05+08:00 ] 127.0.0.1 /index.php/Admin/Login/ajaxlogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000688s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001051s ]
+SQL: SHOW COLUMNS FROM `tpshop_manager` [ RunTime:0.2395s ]
+SQL: SELECT * FROM `tpshop_manager` WHERE `username` = 'admin' LIMIT 1   [ RunTime:0.0297s ]
+NOTIC: [8] Undefined variable: passwword E:\php\tpshop\Application\Common\Common\str.php 第 6 行.
+
+[ 2017-08-16T08:32:34+08:00 ] 127.0.0.1 /index.php/Admin/Login/ajaxlogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000599s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000913s ]
+
+[ 2017-08-16T08:32:48+08:00 ] 127.0.0.1 /index.php/Admin/Login/ajaxlogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000719s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001079s ]
+SQL: SHOW COLUMNS FROM `tpshop_manager` [ RunTime:0.0016s ]
+SQL: SELECT * FROM `tpshop_manager` WHERE `username` = 'admin' LIMIT 1   [ RunTime:0.0003s ]
+NOTIC: [8] Undefined variable: passwword E:\php\tpshop\Application\Common\Common\str.php 第 6 行.
+
+[ 2017-08-16T08:56:35+08:00 ] 127.0.0.1 /index.php/Admin/Login/ajaxlogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000713s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001070s ]
+
+[ 2017-08-16T08:57:11+08:00 ] 127.0.0.1 /index.php/Admin/Login/ajaxlogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000725s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001083s ]
+SQL: SHOW COLUMNS FROM `tpshop_manager` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `tpshop_manager` WHERE `username` = 'admin' LIMIT 1   [ RunTime:0.0007s ]
+NOTIC: [8] Undefined variable: passwword E:\php\tpshop\Application\Common\Common\str.php 第 6 行.
+
+[ 2017-08-16T08:57:18+08:00 ] 127.0.0.1 /index.php/Admin/Login/ajaxlogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000843s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001231s ]
+
+[ 2017-08-16T08:57:29+08:00 ] 127.0.0.1 /index.php/Admin/Login/ajaxlogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000712s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001062s ]
+SQL: SHOW COLUMNS FROM `tpshop_manager` [ RunTime:0.0037s ]
+SQL: SELECT * FROM `tpshop_manager` WHERE `username` = 'admin' LIMIT 1   [ RunTime:0.0006s ]
+NOTIC: [8] Undefined variable: passwword E:\php\tpshop\Application\Common\Common\str.php 第 6 行.
+
+[ 2017-08-16T09:17:52+08:00 ] 127.0.0.1 /index.php/Admin/Login/ajaxlogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000718s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001077s ]
+SQL: SHOW COLUMNS FROM `tpshop_manager` [ RunTime:0.0037s ]
+SQL: SELECT * FROM `tpshop_manager` WHERE `username` = 'admin' LIMIT 1   [ RunTime:0.0006s ]
+NOTIC: [8] Undefined variable: passwword E:\php\tpshop\Application\Common\Common\function.php 第 12 行.
+
+[ 2017-08-16T11:43:49+08:00 ] 127.0.0.1 /index.php/Admin/Goods/edit/id/39
+ERR: Think\Model:upload_logo方法不存在！
+
+[ 2017-08-16T14:55:26+08:00 ] 127.0.0.1 /index.php/Admin/Login/ajaxlogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000528s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000845s ]
+SQL: SHOW COLUMNS FROM `tpshop_manager` [ RunTime:0.0037s ]
+SQL: SELECT * FROM `tpshop_manager` WHERE `username` = 'admin' LIMIT 1   [ RunTime:0.0006s ]
+NOTIC: [8] Undefined variable: passwword E:\php\tpshop\Application\Common\Common\function.php 第 12 行.
+
+[ 2017-08-16T17:31:58+08:00 ] 127.0.0.1 /index.php/Admin/Goods/edit/id/49
+ERR: 不存在的图像文件
+
+[ 2017-08-16T18:50:12+08:00 ] 127.0.0.1 /index.php/Admin/Goods/add
+ERR: 不存在的图像文件
+
+[ 2017-08-16T18:54:13+08:00 ] 127.0.0.1 /index.php/Admin/Goods/add
+ERR: 不存在的图像文件
+
+[ 2017-08-16T19:28:53+08:00 ] 127.0.0.1 /index.php/Admin/Goods/add
+ERR: 不存在的图像文件
+
+[ 2017-08-16T19:34:25+08:00 ] 127.0.0.1 /index.php/Admin/Login/ajaxlogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000701s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001058s ]
+SQL: SHOW COLUMNS FROM `tpshop_manager` [ RunTime:0.0037s ]
+SQL: SELECT * FROM `tpshop_manager` WHERE `username` = 'admin' LIMIT 1   [ RunTime:0.0007s ]
+NOTIC: [8] Undefined variable: passwword E:\php\tpshop\Application\Common\Common\function.php 第 12 行.
+
+[ 2017-08-16T19:34:48+08:00 ] 127.0.0.1 /index.php/Admin/Goods/add
+ERR: 不存在的图像文件
+
+[ 2017-08-16T19:36:36+08:00 ] 127.0.0.1 /index.php/Admin/Goods/add
+ERR: 1048:Column 'goods_id' cannot be null
+ [ SQL语句 ] : INSERT INTO `tpshop_goodspics` (`pics_origin`,`goods_id`,`pics_big`,`pics_mid`,`pics_sma`) VALUES ('/Public/Uploads/2017-08-16/59942e43e2150.jpg',NULL,'/Public/Uploads/2017-08-16/thumb_800_59942e43e2150.jpg','/Public/Uploads/2017-08-16/thumb_350_59942e43e2150.jpg','/Public/Uploads/2017-08-16/thumb_50_59942e43e2150.jpg')
+
+[ 2017-08-16T20:18:21+08:00 ] 127.0.0.1 /index.php/Admin/Goods/delpics
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000653s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000993s ]
+NOTIC: [8] Undefined variable: id E:\php\tpshop\Application\Admin\Controller\GoodsController.class.php 第 250 行.
+NOTIC: [8] Undefined variable: id E:\php\tpshop\Application\Admin\Controller\GoodsController.class.php 第 250 行.
+SQL: SHOW COLUMNS FROM `tpshop_goodspics` [ RunTime:0.0032s ]
+SQL: SELECT * FROM `tpshop_goodspics` WHERE `id` = 0 LIMIT 1   [ RunTime:0.0005s ]
+NOTIC: [8] Undefined variable: pic E:\php\tpshop\Application\Admin\Controller\GoodsController.class.php 第 259 行.
+NOTIC: [2] unlink() expects parameter 2 to be resource, null given E:\php\tpshop\Application\Admin\Controller\GoodsController.class.php 第 262 行.
+NOTIC: [2] unlink() expects parameter 2 to be resource, null given E:\php\tpshop\Application\Admin\Controller\GoodsController.class.php 第 263 行.
+NOTIC: [2] unlink() expects parameter 2 to be resource, null given E:\php\tpshop\Application\Admin\Controller\GoodsController.class.php 第 264 行.
+NOTIC: [2] unlink() expects parameter 2 to be resource, null given E:\php\tpshop\Application\Admin\Controller\GoodsController.class.php 第 265 行.
+
+[ 2017-08-16T20:18:25+08:00 ] 127.0.0.1 /index.php/Admin/Goods/delpics
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000647s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000995s ]
+NOTIC: [8] Undefined variable: id E:\php\tpshop\Application\Admin\Controller\GoodsController.class.php 第 250 行.
+NOTIC: [8] Undefined variable: id E:\php\tpshop\Application\Admin\Controller\GoodsController.class.php 第 250 行.
+SQL: SHOW COLUMNS FROM `tpshop_goodspics` [ RunTime:0.0033s ]
+SQL: SELECT * FROM `tpshop_goodspics` WHERE `id` = 0 LIMIT 1   [ RunTime:0.0005s ]
+NOTIC: [8] Undefined variable: pic E:\php\tpshop\Application\Admin\Controller\GoodsController.class.php 第 259 行.
+NOTIC: [2] unlink() expects parameter 2 to be resource, null given E:\php\tpshop\Application\Admin\Controller\GoodsController.class.php 第 262 行.
+NOTIC: [2] unlink() expects parameter 2 to be resource, null given E:\php\tpshop\Application\Admin\Controller\GoodsController.class.php 第 263 行.
+NOTIC: [2] unlink() expects parameter 2 to be resource, null given E:\php\tpshop\Application\Admin\Controller\GoodsController.class.php 第 264 行.
+NOTIC: [2] unlink() expects parameter 2 to be resource, null given E:\php\tpshop\Application\Admin\Controller\GoodsController.class.php 第 265 行.
+
+[ 2017-08-16T20:18:28+08:00 ] 127.0.0.1 /index.php/Admin/Goods/delpics
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000744s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001135s ]
+NOTIC: [8] Undefined variable: id E:\php\tpshop\Application\Admin\Controller\GoodsController.class.php 第 250 行.
+NOTIC: [8] Undefined variable: id E:\php\tpshop\Application\Admin\Controller\GoodsController.class.php 第 250 行.
+SQL: SHOW COLUMNS FROM `tpshop_goodspics` [ RunTime:0.0033s ]
+SQL: SELECT * FROM `tpshop_goodspics` WHERE `id` = 0 LIMIT 1   [ RunTime:0.0006s ]
+NOTIC: [8] Undefined variable: pic E:\php\tpshop\Application\Admin\Controller\GoodsController.class.php 第 259 行.
+NOTIC: [2] unlink() expects parameter 2 to be resource, null given E:\php\tpshop\Application\Admin\Controller\GoodsController.class.php 第 262 行.
+NOTIC: [2] unlink() expects parameter 2 to be resource, null given E:\php\tpshop\Application\Admin\Controller\GoodsController.class.php 第 263 行.
+NOTIC: [2] unlink() expects parameter 2 to be resource, null given E:\php\tpshop\Application\Admin\Controller\GoodsController.class.php 第 264 行.
+NOTIC: [2] unlink() expects parameter 2 to be resource, null given E:\php\tpshop\Application\Admin\Controller\GoodsController.class.php 第 265 行.
+
+[ 2017-08-16T20:18:30+08:00 ] 127.0.0.1 /index.php/Admin/Goods/delpics
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000731s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001101s ]
+NOTIC: [8] Undefined variable: id E:\php\tpshop\Application\Admin\Controller\GoodsController.class.php 第 250 行.
+NOTIC: [8] Undefined variable: id E:\php\tpshop\Application\Admin\Controller\GoodsController.class.php 第 250 行.
+SQL: SHOW COLUMNS FROM `tpshop_goodspics` [ RunTime:0.0032s ]
+SQL: SELECT * FROM `tpshop_goodspics` WHERE `id` = 0 LIMIT 1   [ RunTime:0.0006s ]
+NOTIC: [8] Undefined variable: pic E:\php\tpshop\Application\Admin\Controller\GoodsController.class.php 第 259 行.
+NOTIC: [2] unlink() expects parameter 2 to be resource, null given E:\php\tpshop\Application\Admin\Controller\GoodsController.class.php 第 262 行.
+NOTIC: [2] unlink() expects parameter 2 to be resource, null given E:\php\tpshop\Application\Admin\Controller\GoodsController.class.php 第 263 行.
+NOTIC: [2] unlink() expects parameter 2 to be resource, null given E:\php\tpshop\Application\Admin\Controller\GoodsController.class.php 第 264 行.
+NOTIC: [2] unlink() expects parameter 2 to be resource, null given E:\php\tpshop\Application\Admin\Controller\GoodsController.class.php 第 265 行.
+
+[ 2017-08-16T20:18:32+08:00 ] 127.0.0.1 /index.php/Admin/Goods/delpics
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000773s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001166s ]
+NOTIC: [8] Undefined variable: id E:\php\tpshop\Application\Admin\Controller\GoodsController.class.php 第 250 行.
+NOTIC: [8] Undefined variable: id E:\php\tpshop\Application\Admin\Controller\GoodsController.class.php 第 250 行.
+SQL: SHOW COLUMNS FROM `tpshop_goodspics` [ RunTime:0.0032s ]
+SQL: SELECT * FROM `tpshop_goodspics` WHERE `id` = 0 LIMIT 1   [ RunTime:0.0006s ]
+NOTIC: [8] Undefined variable: pic E:\php\tpshop\Application\Admin\Controller\GoodsController.class.php 第 259 行.
+NOTIC: [2] unlink() expects parameter 2 to be resource, null given E:\php\tpshop\Application\Admin\Controller\GoodsController.class.php 第 262 行.
+NOTIC: [2] unlink() expects parameter 2 to be resource, null given E:\php\tpshop\Application\Admin\Controller\GoodsController.class.php 第 263 行.
+NOTIC: [2] unlink() expects parameter 2 to be resource, null given E:\php\tpshop\Application\Admin\Controller\GoodsController.class.php 第 264 行.
+NOTIC: [2] unlink() expects parameter 2 to be resource, null given E:\php\tpshop\Application\Admin\Controller\GoodsController.class.php 第 265 行.
+
+[ 2017-08-16T20:18:34+08:00 ] 127.0.0.1 /index.php/Admin/Goods/delpics
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001146s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001748s ]
+NOTIC: [8] Undefined variable: id E:\php\tpshop\Application\Admin\Controller\GoodsController.class.php 第 250 行.
+NOTIC: [8] Undefined variable: id E:\php\tpshop\Application\Admin\Controller\GoodsController.class.php 第 250 行.
+SQL: SHOW COLUMNS FROM `tpshop_goodspics` [ RunTime:0.0034s ]
+SQL: SELECT * FROM `tpshop_goodspics` WHERE `id` = 0 LIMIT 1   [ RunTime:0.0006s ]
+NOTIC: [8] Undefined variable: pic E:\php\tpshop\Application\Admin\Controller\GoodsController.class.php 第 259 行.
+NOTIC: [2] unlink() expects parameter 2 to be resource, null given E:\php\tpshop\Application\Admin\Controller\GoodsController.class.php 第 262 行.
+NOTIC: [2] unlink() expects parameter 2 to be resource, null given E:\php\tpshop\Application\Admin\Controller\GoodsController.class.php 第 263 行.
+NOTIC: [2] unlink() expects parameter 2 to be resource, null given E:\php\tpshop\Application\Admin\Controller\GoodsController.class.php 第 264 行.
+NOTIC: [2] unlink() expects parameter 2 to be resource, null given E:\php\tpshop\Application\Admin\Controller\GoodsController.class.php 第 265 行.
+
+[ 2017-08-16T20:18:37+08:00 ] 127.0.0.1 /index.php/Admin/Goods/delpics
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000744s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001144s ]
+NOTIC: [8] Undefined variable: id E:\php\tpshop\Application\Admin\Controller\GoodsController.class.php 第 250 行.
+NOTIC: [8] Undefined variable: id E:\php\tpshop\Application\Admin\Controller\GoodsController.class.php 第 250 行.
+SQL: SHOW COLUMNS FROM `tpshop_goodspics` [ RunTime:0.0032s ]
+SQL: SELECT * FROM `tpshop_goodspics` WHERE `id` = 0 LIMIT 1   [ RunTime:0.0006s ]
+NOTIC: [8] Undefined variable: pic E:\php\tpshop\Application\Admin\Controller\GoodsController.class.php 第 259 行.
+NOTIC: [2] unlink() expects parameter 2 to be resource, null given E:\php\tpshop\Application\Admin\Controller\GoodsController.class.php 第 262 行.
+NOTIC: [2] unlink() expects parameter 2 to be resource, null given E:\php\tpshop\Application\Admin\Controller\GoodsController.class.php 第 263 行.
+NOTIC: [2] unlink() expects parameter 2 to be resource, null given E:\php\tpshop\Application\Admin\Controller\GoodsController.class.php 第 264 行.
+NOTIC: [2] unlink() expects parameter 2 to be resource, null given E:\php\tpshop\Application\Admin\Controller\GoodsController.class.php 第 265 行.
+
+[ 2017-08-16T20:18:40+08:00 ] 127.0.0.1 /index.php/Admin/Goods/delpics
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000605s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000896s ]
+NOTIC: [8] Undefined variable: id E:\php\tpshop\Application\Admin\Controller\GoodsController.class.php 第 250 行.
+NOTIC: [8] Undefined variable: id E:\php\tpshop\Application\Admin\Controller\GoodsController.class.php 第 250 行.
+SQL: SHOW COLUMNS FROM `tpshop_goodspics` [ RunTime:0.0033s ]
+SQL: SELECT * FROM `tpshop_goodspics` WHERE `id` = 0 LIMIT 1   [ RunTime:0.0006s ]
+NOTIC: [8] Undefined variable: pic E:\php\tpshop\Application\Admin\Controller\GoodsController.class.php 第 259 行.
+NOTIC: [2] unlink() expects parameter 2 to be resource, null given E:\php\tpshop\Application\Admin\Controller\GoodsController.class.php 第 262 行.
+NOTIC: [2] unlink() expects parameter 2 to be resource, null given E:\php\tpshop\Application\Admin\Controller\GoodsController.class.php 第 263 行.
+NOTIC: [2] unlink() expects parameter 2 to be resource, null given E:\php\tpshop\Application\Admin\Controller\GoodsController.class.php 第 264 行.
+NOTIC: [2] unlink() expects parameter 2 to be resource, null given E:\php\tpshop\Application\Admin\Controller\GoodsController.class.php 第 265 行.
+
+[ 2017-08-16T20:24:19+08:00 ] 127.0.0.1 /index.php/Admin/Login/ajaxlogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000733s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001093s ]
+SQL: SHOW COLUMNS FROM `tpshop_manager` [ RunTime:0.0038s ]
+SQL: SELECT * FROM `tpshop_manager` WHERE `username` = 'admin' LIMIT 1   [ RunTime:0.0006s ]
+NOTIC: [8] Undefined variable: passwword E:\php\tpshop\Application\Common\Common\function.php 第 12 行.
+
+[ 2017-08-16T20:59:00+08:00 ] 127.0.0.1 /index.php/Admin/Goods/delpics
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000824s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001252s ]
+NOTIC: [8] Undefined variable: id E:\php\tpshop\Application\Admin\Controller\GoodsController.class.php 第 263 行.
+NOTIC: [8] Undefined variable: id E:\php\tpshop\Application\Admin\Controller\GoodsController.class.php 第 263 行.
+SQL: SHOW COLUMNS FROM `tpshop_goodspics` [ RunTime:0.0035s ]
+SQL: SELECT * FROM `tpshop_goodspics` WHERE `id` = 0 LIMIT 1   [ RunTime:0.0006s ]
+NOTIC: [2] unlink() expects parameter 2 to be resource, null given E:\php\tpshop\Application\Admin\Controller\GoodsController.class.php 第 275 行.
+NOTIC: [2] unlink() expects parameter 2 to be resource, null given E:\php\tpshop\Application\Admin\Controller\GoodsController.class.php 第 276 行.
+NOTIC: [2] unlink() expects parameter 2 to be resource, null given E:\php\tpshop\Application\Admin\Controller\GoodsController.class.php 第 277 行.
+NOTIC: [2] unlink() expects parameter 2 to be resource, null given E:\php\tpshop\Application\Admin\Controller\GoodsController.class.php 第 278 行.
+
+[ 2017-08-16T21:01:23+08:00 ] 127.0.0.1 /index.php/Admin/Goods/delpics
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000977s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001399s ]
+
+[ 2017-08-16T21:01:28+08:00 ] 127.0.0.1 /index.php/Admin/Goods/delpics
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000718s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001080s ]
+
+[ 2017-08-16T21:02:38+08:00 ] 127.0.0.1 /index.php/Admin/Goods/delpics
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000600s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000997s ]
+
+[ 2017-08-16T21:02:42+08:00 ] 127.0.0.1 /index.php/Admin/Goods/delpics
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000519s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000954s ]
+
+[ 2017-08-16T21:02:43+08:00 ] 127.0.0.1 /index.php/Admin/Goods/delpics
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000565s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000956s ]
+
+[ 2017-08-16T21:02:45+08:00 ] 127.0.0.1 /index.php/Admin/Goods/delpics
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000575s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000944s ]
+
+[ 2017-08-16T21:02:46+08:00 ] 127.0.0.1 /index.php/Admin/Goods/delpics
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000520s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000902s ]
+
+[ 2017-08-16T21:02:46+08:00 ] 127.0.0.1 /index.php/Admin/Goods/delpics
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000525s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000929s ]
+
+[ 2017-08-16T21:02:46+08:00 ] 127.0.0.1 /index.php/Admin/Goods/delpics
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000554s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001089s ]
+
+[ 2017-08-16T21:02:46+08:00 ] 127.0.0.1 /index.php/Admin/Goods/delpics
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000555s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000951s ]
+
+[ 2017-08-16T21:02:47+08:00 ] 127.0.0.1 /index.php/Admin/Goods/delpics
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000555s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000943s ]
+
+[ 2017-08-16T21:02:47+08:00 ] 127.0.0.1 /index.php/Admin/Goods/delpics
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000547s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000957s ]
+
+[ 2017-08-16T21:02:47+08:00 ] 127.0.0.1 /index.php/Admin/Goods/delpics
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000725s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001226s ]
+
+[ 2017-08-16T21:03:07+08:00 ] 127.0.0.1 /index.php/Admin/Goods/delpics
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001139s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002040s ]
+
+[ 2017-08-16T21:03:40+08:00 ] 127.0.0.1 /index.php/Admin/Goods/delpics
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001391s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002107s ]
+
+[ 2017-08-16T21:04:22+08:00 ] 127.0.0.1 /index.php/Admin/Goods/delpics
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000671s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001013s ]
+
+[ 2017-08-16T21:04:37+08:00 ] 127.0.0.1 /index.php/Admin/Goods/delpics
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001121s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001874s ]
+
+[ 2017-08-16T21:06:01+08:00 ] 127.0.0.1 /index.php/Admin/Goods/delpics
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000815s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001178s ]
+
+[ 2017-08-16T21:06:13+08:00 ] 127.0.0.1 /index.php/Admin/Goods/delpics
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001079s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001525s ]
+
+[ 2017-08-16T21:06:25+08:00 ] 127.0.0.1 /index.php/Admin/Goods/delpics
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001433s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002053s ]
+
+[ 2017-08-16T21:08:19+08:00 ] 127.0.0.1 /index.php/Admin/Goods/delpics
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000522s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000885s ]
+NOTIC: [8] Undefined variable: id E:\php\tpshop\Application\Admin\Controller\GoodsController.class.php 第 263 行.
+NOTIC: [8] Undefined variable: id E:\php\tpshop\Application\Admin\Controller\GoodsController.class.php 第 263 行.
+SQL: SHOW COLUMNS FROM `tpshop_goodspics` [ RunTime:0.0034s ]
+SQL: SELECT * FROM `tpshop_goodspics` WHERE `id` = 19 LIMIT 1   [ RunTime:0.0006s ]
+NOTIC: [2] unlink() expects parameter 2 to be resource, string given E:\php\tpshop\Application\Admin\Controller\GoodsController.class.php 第 275 行.
+NOTIC: [2] unlink() expects parameter 2 to be resource, string given E:\php\tpshop\Application\Admin\Controller\GoodsController.class.php 第 276 行.
+NOTIC: [2] unlink() expects parameter 2 to be resource, string given E:\php\tpshop\Application\Admin\Controller\GoodsController.class.php 第 277 行.
+NOTIC: [2] unlink() expects parameter 2 to be resource, string given E:\php\tpshop\Application\Admin\Controller\GoodsController.class.php 第 278 行.
+
+[ 2017-08-16T21:08:21+08:00 ] 127.0.0.1 /index.php/Admin/Goods/delpics
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000635s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001006s ]
+NOTIC: [8] Undefined variable: id E:\php\tpshop\Application\Admin\Controller\GoodsController.class.php 第 263 行.
+NOTIC: [8] Undefined variable: id E:\php\tpshop\Application\Admin\Controller\GoodsController.class.php 第 263 行.
+SQL: SHOW COLUMNS FROM `tpshop_goodspics` [ RunTime:0.0023s ]
+SQL: SELECT * FROM `tpshop_goodspics` WHERE `id` = 19 LIMIT 1   [ RunTime:0.0003s ]
+NOTIC: [2] unlink() expects parameter 2 to be resource, string given E:\php\tpshop\Application\Admin\Controller\GoodsController.class.php 第 275 行.
+NOTIC: [2] unlink() expects parameter 2 to be resource, string given E:\php\tpshop\Application\Admin\Controller\GoodsController.class.php 第 276 行.
+NOTIC: [2] unlink() expects parameter 2 to be resource, string given E:\php\tpshop\Application\Admin\Controller\GoodsController.class.php 第 277 行.
+NOTIC: [2] unlink() expects parameter 2 to be resource, string given E:\php\tpshop\Application\Admin\Controller\GoodsController.class.php 第 278 行.
+
+[ 2017-08-16T21:08:22+08:00 ] 127.0.0.1 /index.php/Admin/Goods/delpics
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000698s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001060s ]
+NOTIC: [8] Undefined variable: id E:\php\tpshop\Application\Admin\Controller\GoodsController.class.php 第 263 行.
+NOTIC: [8] Undefined variable: id E:\php\tpshop\Application\Admin\Controller\GoodsController.class.php 第 263 行.
+SQL: SHOW COLUMNS FROM `tpshop_goodspics` [ RunTime:0.0035s ]
+SQL: SELECT * FROM `tpshop_goodspics` WHERE `id` = 19 LIMIT 1   [ RunTime:0.0006s ]
+NOTIC: [2] unlink() expects parameter 2 to be resource, string given E:\php\tpshop\Application\Admin\Controller\GoodsController.class.php 第 275 行.
+NOTIC: [2] unlink() expects parameter 2 to be resource, string given E:\php\tpshop\Application\Admin\Controller\GoodsController.class.php 第 276 行.
+NOTIC: [2] unlink() expects parameter 2 to be resource, string given E:\php\tpshop\Application\Admin\Controller\GoodsController.class.php 第 277 行.
+NOTIC: [2] unlink() expects parameter 2 to be resource, string given E:\php\tpshop\Application\Admin\Controller\GoodsController.class.php 第 278 行.
+
+[ 2017-08-16T21:08:23+08:00 ] 127.0.0.1 /index.php/Admin/Goods/delpics
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000508s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000877s ]
+NOTIC: [8] Undefined variable: id E:\php\tpshop\Application\Admin\Controller\GoodsController.class.php 第 263 行.
+NOTIC: [8] Undefined variable: id E:\php\tpshop\Application\Admin\Controller\GoodsController.class.php 第 263 行.
+SQL: SHOW COLUMNS FROM `tpshop_goodspics` [ RunTime:0.0032s ]
+SQL: SELECT * FROM `tpshop_goodspics` WHERE `id` = 19 LIMIT 1   [ RunTime:0.0006s ]
+NOTIC: [2] unlink() expects parameter 2 to be resource, string given E:\php\tpshop\Application\Admin\Controller\GoodsController.class.php 第 275 行.
+NOTIC: [2] unlink() expects parameter 2 to be resource, string given E:\php\tpshop\Application\Admin\Controller\GoodsController.class.php 第 276 行.
+NOTIC: [2] unlink() expects parameter 2 to be resource, string given E:\php\tpshop\Application\Admin\Controller\GoodsController.class.php 第 277 行.
+NOTIC: [2] unlink() expects parameter 2 to be resource, string given E:\php\tpshop\Application\Admin\Controller\GoodsController.class.php 第 278 行.
+
+[ 2017-08-16T21:08:25+08:00 ] 127.0.0.1 /index.php/Admin/Goods/delpics
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000680s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001199s ]
+NOTIC: [8] Undefined variable: id E:\php\tpshop\Application\Admin\Controller\GoodsController.class.php 第 263 行.
+NOTIC: [8] Undefined variable: id E:\php\tpshop\Application\Admin\Controller\GoodsController.class.php 第 263 行.
+SQL: SHOW COLUMNS FROM `tpshop_goodspics` [ RunTime:0.0032s ]
+SQL: SELECT * FROM `tpshop_goodspics` WHERE `id` = 19 LIMIT 1   [ RunTime:0.0005s ]
+NOTIC: [2] unlink() expects parameter 2 to be resource, string given E:\php\tpshop\Application\Admin\Controller\GoodsController.class.php 第 275 行.
+NOTIC: [2] unlink() expects parameter 2 to be resource, string given E:\php\tpshop\Application\Admin\Controller\GoodsController.class.php 第 276 行.
+NOTIC: [2] unlink() expects parameter 2 to be resource, string given E:\php\tpshop\Application\Admin\Controller\GoodsController.class.php 第 277 行.
+NOTIC: [2] unlink() expects parameter 2 to be resource, string given E:\php\tpshop\Application\Admin\Controller\GoodsController.class.php 第 278 行.
+
+[ 2017-08-16T21:08:26+08:00 ] 127.0.0.1 /index.php/Admin/Goods/delpics
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000507s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000842s ]
+NOTIC: [8] Undefined variable: id E:\php\tpshop\Application\Admin\Controller\GoodsController.class.php 第 263 行.
+NOTIC: [8] Undefined variable: id E:\php\tpshop\Application\Admin\Controller\GoodsController.class.php 第 263 行.
+SQL: SHOW COLUMNS FROM `tpshop_goodspics` [ RunTime:0.0034s ]
+SQL: SELECT * FROM `tpshop_goodspics` WHERE `id` = 19 LIMIT 1   [ RunTime:0.0006s ]
+NOTIC: [2] unlink() expects parameter 2 to be resource, string given E:\php\tpshop\Application\Admin\Controller\GoodsController.class.php 第 275 行.
+NOTIC: [2] unlink() expects parameter 2 to be resource, string given E:\php\tpshop\Application\Admin\Controller\GoodsController.class.php 第 276 行.
+NOTIC: [2] unlink() expects parameter 2 to be resource, string given E:\php\tpshop\Application\Admin\Controller\GoodsController.class.php 第 277 行.
+NOTIC: [2] unlink() expects parameter 2 to be resource, string given E:\php\tpshop\Application\Admin\Controller\GoodsController.class.php 第 278 行.
+
+[ 2017-08-16T21:10:08+08:00 ] 127.0.0.1 /index.php/Admin/Goods/delpics
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000809s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001355s ]
+NOTIC: [8] Undefined variable: id E:\php\tpshop\Application\Admin\Controller\GoodsController.class.php 第 263 行.
+NOTIC: [8] Undefined variable: id E:\php\tpshop\Application\Admin\Controller\GoodsController.class.php 第 263 行.
+SQL: SHOW COLUMNS FROM `tpshop_goodspics` [ RunTime:0.0035s ]
+SQL: SELECT * FROM `tpshop_goodspics` WHERE `id` = 19 LIMIT 1   [ RunTime:0.0006s ]
+NOTIC: [2] unlink() expects parameter 2 to be resource, string given E:\php\tpshop\Application\Admin\Controller\GoodsController.class.php 第 275 行.
+NOTIC: [2] unlink() expects parameter 2 to be resource, string given E:\php\tpshop\Application\Admin\Controller\GoodsController.class.php 第 276 行.
+NOTIC: [2] unlink() expects parameter 2 to be resource, string given E:\php\tpshop\Application\Admin\Controller\GoodsController.class.php 第 277 行.
+NOTIC: [2] unlink() expects parameter 2 to be resource, string given E:\php\tpshop\Application\Admin\Controller\GoodsController.class.php 第 278 行.
+
+[ 2017-08-16T21:10:58+08:00 ] 127.0.0.1 /index.php/Admin/Goods/delpics
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001231s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001720s ]
+NOTIC: [8] Undefined variable: id E:\php\tpshop\Application\Admin\Controller\GoodsController.class.php 第 263 行.
+NOTIC: [8] Undefined variable: id E:\php\tpshop\Application\Admin\Controller\GoodsController.class.php 第 263 行.
+SQL: SHOW COLUMNS FROM `tpshop_goodspics` [ RunTime:0.0034s ]
+SQL: SELECT * FROM `tpshop_goodspics` WHERE `id` = 19 LIMIT 1   [ RunTime:0.0005s ]
+NOTIC: [2] unlink() expects parameter 2 to be resource, string given E:\php\tpshop\Application\Admin\Controller\GoodsController.class.php 第 275 行.
+NOTIC: [2] unlink() expects parameter 2 to be resource, string given E:\php\tpshop\Application\Admin\Controller\GoodsController.class.php 第 276 行.
+NOTIC: [2] unlink() expects parameter 2 to be resource, string given E:\php\tpshop\Application\Admin\Controller\GoodsController.class.php 第 277 行.
+NOTIC: [2] unlink() expects parameter 2 to be resource, string given E:\php\tpshop\Application\Admin\Controller\GoodsController.class.php 第 278 行.
+
+[ 2017-08-16T21:12:21+08:00 ] 127.0.0.1 /index.php/Admin/Goods/delpics
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000508s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000870s ]
+NOTIC: [8] Undefined variable: id E:\php\tpshop\Application\Admin\Controller\GoodsController.class.php 第 263 行.
+NOTIC: [8] Undefined variable: id E:\php\tpshop\Application\Admin\Controller\GoodsController.class.php 第 263 行.
+SQL: SHOW COLUMNS FROM `tpshop_goodspics` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `tpshop_goodspics` WHERE `id` = 19 LIMIT 1   [ RunTime:0.0006s ]
+NOTIC: [2] unlink() expects parameter 2 to be resource, string given E:\php\tpshop\Application\Admin\Controller\GoodsController.class.php 第 275 行.
+NOTIC: [2] unlink() expects parameter 2 to be resource, string given E:\php\tpshop\Application\Admin\Controller\GoodsController.class.php 第 276 行.
+NOTIC: [2] unlink() expects parameter 2 to be resource, string given E:\php\tpshop\Application\Admin\Controller\GoodsController.class.php 第 277 行.
+NOTIC: [2] unlink() expects parameter 2 to be resource, string given E:\php\tpshop\Application\Admin\Controller\GoodsController.class.php 第 278 行.
+
+[ 2017-08-16T21:12:58+08:00 ] 127.0.0.1 /index.php/Admin/Goods/delpics
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000642s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000995s ]
+NOTIC: [8] Undefined variable: id E:\php\tpshop\Application\Admin\Controller\GoodsController.class.php 第 263 行.
+NOTIC: [8] Undefined variable: id E:\php\tpshop\Application\Admin\Controller\GoodsController.class.php 第 263 行.
+SQL: SHOW COLUMNS FROM `tpshop_goodspics` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `tpshop_goodspics` WHERE `id` = 19 LIMIT 1   [ RunTime:0.0005s ]
+NOTIC: [2] unlink() expects parameter 2 to be resource, string given E:\php\tpshop\Application\Admin\Controller\GoodsController.class.php 第 275 行.
+NOTIC: [2] unlink() expects parameter 2 to be resource, string given E:\php\tpshop\Application\Admin\Controller\GoodsController.class.php 第 276 行.
+NOTIC: [2] unlink() expects parameter 2 to be resource, string given E:\php\tpshop\Application\Admin\Controller\GoodsController.class.php 第 277 行.
+NOTIC: [2] unlink() expects parameter 2 to be resource, string given E:\php\tpshop\Application\Admin\Controller\GoodsController.class.php 第 278 行.
+
+[ 2017-08-16T21:13:00+08:00 ] 127.0.0.1 /index.php/Admin/Goods/delpics
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001557s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002276s ]
+NOTIC: [8] Undefined variable: id E:\php\tpshop\Application\Admin\Controller\GoodsController.class.php 第 263 行.
+NOTIC: [8] Undefined variable: id E:\php\tpshop\Application\Admin\Controller\GoodsController.class.php 第 263 行.
+SQL: SHOW COLUMNS FROM `tpshop_goodspics` [ RunTime:0.0046s ]
+SQL: SELECT * FROM `tpshop_goodspics` WHERE `id` = 21 LIMIT 1   [ RunTime:0.0006s ]
+NOTIC: [2] unlink() expects parameter 2 to be resource, string given E:\php\tpshop\Application\Admin\Controller\GoodsController.class.php 第 275 行.
+NOTIC: [2] unlink() expects parameter 2 to be resource, string given E:\php\tpshop\Application\Admin\Controller\GoodsController.class.php 第 276 行.
+NOTIC: [2] unlink() expects parameter 2 to be resource, string given E:\php\tpshop\Application\Admin\Controller\GoodsController.class.php 第 277 行.
+NOTIC: [2] unlink() expects parameter 2 to be resource, string given E:\php\tpshop\Application\Admin\Controller\GoodsController.class.php 第 278 行.
+
+[ 2017-08-16T21:13:02+08:00 ] 127.0.0.1 /index.php/Admin/Goods/delpics
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000829s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001484s ]
+NOTIC: [8] Undefined variable: id E:\php\tpshop\Application\Admin\Controller\GoodsController.class.php 第 263 行.
+NOTIC: [8] Undefined variable: id E:\php\tpshop\Application\Admin\Controller\GoodsController.class.php 第 263 行.
+SQL: SHOW COLUMNS FROM `tpshop_goodspics` [ RunTime:0.0037s ]
+SQL: SELECT * FROM `tpshop_goodspics` WHERE `id` = 22 LIMIT 1   [ RunTime:0.0007s ]
+NOTIC: [2] unlink() expects parameter 2 to be resource, string given E:\php\tpshop\Application\Admin\Controller\GoodsController.class.php 第 275 行.
+NOTIC: [2] unlink() expects parameter 2 to be resource, string given E:\php\tpshop\Application\Admin\Controller\GoodsController.class.php 第 276 行.
+NOTIC: [2] unlink() expects parameter 2 to be resource, string given E:\php\tpshop\Application\Admin\Controller\GoodsController.class.php 第 277 行.
+NOTIC: [2] unlink() expects parameter 2 to be resource, string given E:\php\tpshop\Application\Admin\Controller\GoodsController.class.php 第 278 行.
+
+[ 2017-08-16T21:15:17+08:00 ] 127.0.0.1 /index.php/Admin/Goods/delpics
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000765s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001159s ]
+
+[ 2017-08-16T21:15:21+08:00 ] 127.0.0.1 /index.php/Admin/Goods/delpics
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000574s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000865s ]
+
+[ 2017-08-16T21:23:48+08:00 ] 127.0.0.1 /index.php/Admin/Goods/delpics
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000758s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001121s ]
+SQL: SHOW COLUMNS FROM `tpshop_goodspics` [ RunTime:0.0034s ]
+SQL: SELECT * FROM `tpshop_goodspics` WHERE `id` = 0 LIMIT 1   [ RunTime:0.0006s ]
+NOTIC: [2] unlink(E:\php\tpshop): Permission denied E:\php\tpshop\Application\Admin\Controller\GoodsController.class.php 第 286 行.
+NOTIC: [2] unlink(E:\php\tpshop): Permission denied E:\php\tpshop\Application\Admin\Controller\GoodsController.class.php 第 287 行.
+NOTIC: [2] unlink(E:\php\tpshop): Permission denied E:\php\tpshop\Application\Admin\Controller\GoodsController.class.php 第 288 行.
+NOTIC: [2] unlink(E:\php\tpshop): Permission denied E:\php\tpshop\Application\Admin\Controller\GoodsController.class.php 第 289 行.
+
+[ 2017-08-16T21:24:01+08:00 ] 127.0.0.1 /index.php/Admin/Goods/delpics
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000702s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000989s ]
+SQL: SHOW COLUMNS FROM `tpshop_goodspics` [ RunTime:0.0033s ]
+SQL: SELECT * FROM `tpshop_goodspics` WHERE `id` = 0 LIMIT 1   [ RunTime:0.0005s ]
+NOTIC: [2] unlink(E:\php\tpshop): Permission denied E:\php\tpshop\Application\Admin\Controller\GoodsController.class.php 第 286 行.
+NOTIC: [2] unlink(E:\php\tpshop): Permission denied E:\php\tpshop\Application\Admin\Controller\GoodsController.class.php 第 287 行.
+NOTIC: [2] unlink(E:\php\tpshop): Permission denied E:\php\tpshop\Application\Admin\Controller\GoodsController.class.php 第 288 行.
+NOTIC: [2] unlink(E:\php\tpshop): Permission denied E:\php\tpshop\Application\Admin\Controller\GoodsController.class.php 第 289 行.
+
+[ 2017-08-16T21:24:04+08:00 ] 127.0.0.1 /index.php/Admin/Goods/delpics
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000578s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000897s ]
+SQL: SHOW COLUMNS FROM `tpshop_goodspics` [ RunTime:0.0032s ]
+SQL: SELECT * FROM `tpshop_goodspics` WHERE `id` = 0 LIMIT 1   [ RunTime:0.0005s ]
+NOTIC: [2] unlink(E:\php\tpshop): Permission denied E:\php\tpshop\Application\Admin\Controller\GoodsController.class.php 第 286 行.
+NOTIC: [2] unlink(E:\php\tpshop): Permission denied E:\php\tpshop\Application\Admin\Controller\GoodsController.class.php 第 287 行.
+NOTIC: [2] unlink(E:\php\tpshop): Permission denied E:\php\tpshop\Application\Admin\Controller\GoodsController.class.php 第 288 行.
+NOTIC: [2] unlink(E:\php\tpshop): Permission denied E:\php\tpshop\Application\Admin\Controller\GoodsController.class.php 第 289 行.
+
+[ 2017-08-16T21:24:17+08:00 ] 127.0.0.1 /index.php/Admin/Goods/delpics
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000511s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000868s ]
+SQL: SHOW COLUMNS FROM `tpshop_goodspics` [ RunTime:0.0033s ]
+SQL: SELECT * FROM `tpshop_goodspics` WHERE `id` = 0 LIMIT 1   [ RunTime:0.0006s ]
+NOTIC: [2] unlink(E:\php\tpshop): Permission denied E:\php\tpshop\Application\Admin\Controller\GoodsController.class.php 第 286 行.
+NOTIC: [2] unlink(E:\php\tpshop): Permission denied E:\php\tpshop\Application\Admin\Controller\GoodsController.class.php 第 287 行.
+NOTIC: [2] unlink(E:\php\tpshop): Permission denied E:\php\tpshop\Application\Admin\Controller\GoodsController.class.php 第 288 行.
+NOTIC: [2] unlink(E:\php\tpshop): Permission denied E:\php\tpshop\Application\Admin\Controller\GoodsController.class.php 第 289 行.
+
+[ 2017-08-16T21:27:46+08:00 ] 127.0.0.1 /index.php/Admin/Goods/delpics
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000743s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001097s ]
+SQL: SHOW COLUMNS FROM `tpshop_goodspics` [ RunTime:0.0034s ]
+SQL: SELECT * FROM `tpshop_goodspics` WHERE `id` = 0 LIMIT 1   [ RunTime:0.0005s ]
+NOTIC: [2] unlink(E:\php\tpshop): Permission denied E:\php\tpshop\Application\Admin\Controller\GoodsController.class.php 第 287 行.
+NOTIC: [2] unlink(E:\php\tpshop): Permission denied E:\php\tpshop\Application\Admin\Controller\GoodsController.class.php 第 288 行.
+NOTIC: [2] unlink(E:\php\tpshop): Permission denied E:\php\tpshop\Application\Admin\Controller\GoodsController.class.php 第 289 行.
+NOTIC: [2] unlink(E:\php\tpshop): Permission denied E:\php\tpshop\Application\Admin\Controller\GoodsController.class.php 第 290 行.
+
+[ 2017-08-16T21:27:48+08:00 ] 127.0.0.1 /index.php/Admin/Goods/delpics
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000715s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001079s ]
+SQL: SHOW COLUMNS FROM `tpshop_goodspics` [ RunTime:0.0033s ]
+SQL: SELECT * FROM `tpshop_goodspics` WHERE `id` = 0 LIMIT 1   [ RunTime:0.0005s ]
+NOTIC: [2] unlink(E:\php\tpshop): Permission denied E:\php\tpshop\Application\Admin\Controller\GoodsController.class.php 第 287 行.
+NOTIC: [2] unlink(E:\php\tpshop): Permission denied E:\php\tpshop\Application\Admin\Controller\GoodsController.class.php 第 288 行.
+NOTIC: [2] unlink(E:\php\tpshop): Permission denied E:\php\tpshop\Application\Admin\Controller\GoodsController.class.php 第 289 行.
+NOTIC: [2] unlink(E:\php\tpshop): Permission denied E:\php\tpshop\Application\Admin\Controller\GoodsController.class.php 第 290 行.
+
+[ 2017-08-16T21:28:14+08:00 ] 127.0.0.1 /index.php/Admin/Goods/delpics
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000712s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001069s ]
+SQL: SHOW COLUMNS FROM `tpshop_goodspics` [ RunTime:0.0035s ]
+SQL: SELECT * FROM `tpshop_goodspics` WHERE `id` = 0 LIMIT 1   [ RunTime:0.0005s ]
+NOTIC: [2] unlink(E:\php\tpshop): Permission denied E:\php\tpshop\Application\Admin\Controller\GoodsController.class.php 第 287 行.
+NOTIC: [2] unlink(E:\php\tpshop): Permission denied E:\php\tpshop\Application\Admin\Controller\GoodsController.class.php 第 288 行.
+NOTIC: [2] unlink(E:\php\tpshop): Permission denied E:\php\tpshop\Application\Admin\Controller\GoodsController.class.php 第 289 行.
+NOTIC: [2] unlink(E:\php\tpshop): Permission denied E:\php\tpshop\Application\Admin\Controller\GoodsController.class.php 第 290 行.
+
+[ 2017-08-16T21:28:20+08:00 ] 127.0.0.1 /index.php/Admin/Goods/delpics
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000726s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001109s ]
+SQL: SHOW COLUMNS FROM `tpshop_goodspics` [ RunTime:0.0035s ]
+SQL: SELECT * FROM `tpshop_goodspics` WHERE `id` = 0 LIMIT 1   [ RunTime:0.0006s ]
+NOTIC: [2] unlink(E:\php\tpshop): Permission denied E:\php\tpshop\Application\Admin\Controller\GoodsController.class.php 第 287 行.
+NOTIC: [2] unlink(E:\php\tpshop): Permission denied E:\php\tpshop\Application\Admin\Controller\GoodsController.class.php 第 288 行.
+NOTIC: [2] unlink(E:\php\tpshop): Permission denied E:\php\tpshop\Application\Admin\Controller\GoodsController.class.php 第 289 行.
+NOTIC: [2] unlink(E:\php\tpshop): Permission denied E:\php\tpshop\Application\Admin\Controller\GoodsController.class.php 第 290 行.
+
+[ 2017-08-16T21:28:22+08:00 ] 127.0.0.1 /index.php/Admin/Goods/delpics
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000745s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001158s ]
+SQL: SHOW COLUMNS FROM `tpshop_goodspics` [ RunTime:0.0033s ]
+SQL: SELECT * FROM `tpshop_goodspics` WHERE `id` = 0 LIMIT 1   [ RunTime:0.0006s ]
+NOTIC: [2] unlink(E:\php\tpshop): Permission denied E:\php\tpshop\Application\Admin\Controller\GoodsController.class.php 第 287 行.
+NOTIC: [2] unlink(E:\php\tpshop): Permission denied E:\php\tpshop\Application\Admin\Controller\GoodsController.class.php 第 288 行.
+NOTIC: [2] unlink(E:\php\tpshop): Permission denied E:\php\tpshop\Application\Admin\Controller\GoodsController.class.php 第 289 行.
+NOTIC: [2] unlink(E:\php\tpshop): Permission denied E:\php\tpshop\Application\Admin\Controller\GoodsController.class.php 第 290 行.
+
+[ 2017-08-16T21:41:48+08:00 ] 127.0.0.1 /index.php/Admin/Goods/delpics
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000602s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000906s ]
+SQL: SHOW COLUMNS FROM `tpshop_goodspics` [ RunTime:0.0033s ]
+SQL: SELECT * FROM `tpshop_goodspics` WHERE `id` = 20 LIMIT 1   [ RunTime:0.0006s ]
+NOTIC: [8] Undefined variable: pic_id E:\php\tpshop\Application\Admin\Controller\GoodsController.class.php 第 277 行.
+SQL: DELETE FROM `tpshop_goodspics` WHERE `goods_id` = null [ RunTime:0.0004s ]
+
+[ 2017-08-16T21:42:14+08:00 ] 127.0.0.1 /index.php/Admin/Goods/delpics
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000584s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000971s ]
+SQL: SHOW COLUMNS FROM `tpshop_goodspics` [ RunTime:0.0033s ]
+SQL: SELECT * FROM `tpshop_goodspics` WHERE `id` = 20 LIMIT 1   [ RunTime:0.0006s ]
+NOTIC: [8] Undefined variable: pic_id E:\php\tpshop\Application\Admin\Controller\GoodsController.class.php 第 277 行.
+SQL: DELETE FROM `tpshop_goodspics` WHERE `goods_id` = null [ RunTime:0.0004s ]
+
+[ 2017-08-16T21:42:18+08:00 ] 127.0.0.1 /index.php/Admin/Goods/delpics
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000555s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000911s ]
+SQL: SHOW COLUMNS FROM `tpshop_goodspics` [ RunTime:0.0034s ]
+SQL: SELECT * FROM `tpshop_goodspics` WHERE `id` = 20 LIMIT 1   [ RunTime:0.0006s ]
+NOTIC: [8] Undefined variable: pic_id E:\php\tpshop\Application\Admin\Controller\GoodsController.class.php 第 277 行.
+SQL: DELETE FROM `tpshop_goodspics` WHERE `goods_id` = null [ RunTime:0.0004s ]
+
+[ 2017-08-16T21:42:28+08:00 ] 127.0.0.1 /index.php/Admin/Goods/delpics
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000434s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000693s ]
+SQL: SHOW COLUMNS FROM `tpshop_goodspics` [ RunTime:0.0034s ]
+SQL: SELECT * FROM `tpshop_goodspics` WHERE `id` = 20 LIMIT 1   [ RunTime:0.0006s ]
+NOTIC: [8] Undefined variable: pic_id E:\php\tpshop\Application\Admin\Controller\GoodsController.class.php 第 277 行.
+SQL: DELETE FROM `tpshop_goodspics` WHERE `goods_id` = null [ RunTime:0.0004s ]
+
+[ 2017-08-16T21:42:30+08:00 ] 127.0.0.1 /index.php/Admin/Goods/delpics
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000466s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000759s ]
+SQL: SHOW COLUMNS FROM `tpshop_goodspics` [ RunTime:0.0032s ]
+SQL: SELECT * FROM `tpshop_goodspics` WHERE `id` = 20 LIMIT 1   [ RunTime:0.0005s ]
+NOTIC: [8] Undefined variable: pic_id E:\php\tpshop\Application\Admin\Controller\GoodsController.class.php 第 277 行.
+SQL: DELETE FROM `tpshop_goodspics` WHERE `goods_id` = null [ RunTime:0.0003s ]
+
+[ 2017-08-16T21:53:20+08:00 ] 127.0.0.1 /index.php/Admin/Goods/delpics
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000596s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000894s ]
+SQL: SHOW COLUMNS FROM `tpshop_goodspics` [ RunTime:0.0039s ]
+SQL: SELECT * FROM `tpshop_goodspics` WHERE `id` = 25 LIMIT 1   [ RunTime:0.0007s ]
+SQL: DELETE FROM `tpshop_goodspics` WHERE `id` = 25 [ RunTime:0.1276s ]
+
+[ 2017-08-16T21:54:26+08:00 ] 127.0.0.1 /index.php/Admin/Goods/delpics
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000719s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001074s ]
+SQL: SHOW COLUMNS FROM `tpshop_goodspics` [ RunTime:0.0034s ]
+SQL: SELECT * FROM `tpshop_goodspics` WHERE `id` = 26 LIMIT 1   [ RunTime:0.0006s ]
+SQL: DELETE FROM `tpshop_goodspics` WHERE `id` = 26 [ RunTime:0.3660s ]
+
+[ 2017-08-16T22:47:17+08:00 ] 127.0.0.1 /index.php/Admin/Goods/delpics
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000437s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000725s ]
+SQL: SHOW COLUMNS FROM `tpshop_goodspics` [ RunTime:0.0015s ]
+SQL: SELECT * FROM `tpshop_goodspics` WHERE `id` = 34 LIMIT 1   [ RunTime:0.0003s ]
+SQL: DELETE FROM `tpshop_goodspics` WHERE `id` = 34 [ RunTime:0.2886s ]
+NOTIC: [2] unlink(E:\php\tpshop/Public/Uploads/2017-08-16/599456bcc378a.jpg): No such file or directory E:\php\tpshop\Application\Admin\Controller\GoodsController.class.php 第 286 行.
+NOTIC: [2] unlink(E:\php\tpshop/Public/Uploads/2017-08-16/thumb_800_599456bcc378a.jpg): No such file or directory E:\php\tpshop\Application\Admin\Controller\GoodsController.class.php 第 287 行.
+NOTIC: [2] unlink(E:\php\tpshop/Public/Uploads/2017-08-16/thumb_350_599456bcc378a.jpg): No such file or directory E:\php\tpshop\Application\Admin\Controller\GoodsController.class.php 第 288 行.
+NOTIC: [2] unlink(E:\php\tpshop/Public/Uploads/2017-08-16/thumb_50_599456bcc378a.jpg): No such file or directory E:\php\tpshop\Application\Admin\Controller\GoodsController.class.php 第 289 行.
+
