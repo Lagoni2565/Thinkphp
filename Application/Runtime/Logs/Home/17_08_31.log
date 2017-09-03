@@ -1,8 +1,0 @@
-[ 2017-08-31T17:11:22+08:00 ] 127.0.0.1 /index.php/Home/Cart/ajaxgetnum
-INFO: [ app_begin ] --START--
-INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000829s ]
-INFO: [ app_begin ] --END-- [ RunTime:0.001363s ]
-SQL: SHOW COLUMNS FROM `tpshop_cart` [ RunTime:0.0809s ]
-NOTIC: [8] Undefined variable: return E:\workspace\shop\Application\Home\Model\CartModel.class.php 第 70 行.
-NOTIC: [2] Invalid argument supplied for foreach() E:\workspace\shop\Application\Home\Model\CartModel.class.php 第 78 行.
-

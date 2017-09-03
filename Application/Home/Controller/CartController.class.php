@@ -111,7 +111,6 @@ class CartController extends Controller{
 			$this->ajaxReturn($return);
 		}	
 	}	
-
 	//结算页面
 	public function flow2(){
 		$title="订单信息确认页";
@@ -148,6 +147,27 @@ class CartController extends Controller{
 		  // dump($cart);
 		//展示模板
 		$this->display();
+	}
+
+	//添加用户收获地址的方法
+	public function addadress(){
+		if (IS_POST) {
+			$data = I('post.');
+			$cart_ids = $data['cart_ids'];
+			// dump($data);die;
+			if (preg_match('/^\d{11}$/', $data['phone'])) {
+				unset($data['cart_ids']);
+				$res = D('Address')->add($data);
+				if ($res) {
+					$this->redirect('Home/Cart/flow2/cart_ids/'.$cart_ids);
+				}
+			}else{
+				$this->error('请输入正确的收件人电话',U('Home/Cart/flow2/cart_ids/'.$cart_ids));
+			}
+		}else{
+			$this->error('非法添加');
+		}
+		
 	}
 
 	//创建订单方法

@@ -26,13 +26,13 @@
 				<div class="topMessage">
 					<div class="menu-hd">
 						<!-- 若session 为空说明为登录 -->
-						<?php if($_SESSION['user_info']== null ): ?><a href="/index.php/Home/User/login" target="_top" class="h">亲，请登录</a>
-						<a href="/index.php/Home/User/register" target="_top">免费注册</a>
+						<?php if($_SESSION['user_info']== null ): ?><a href="/login.html" target="_top" class="h">亲，请登录</a>
+						<a href="/register.html" target="_top">免费注册</a>
 						<!-- session中记录用户手机登录  显示手机号加密-->
 						<?php elseif($_SESSION['user_info']['phone']!= null ): ?>
 						<a href="javascript:void(0);" target="_top" class="h">
 						hello,<?php echo (encrypt_phone($_SESSION['user_info']['phone'])); ?></a>
-						<a href="/index.php/Home/User/logout" target="_top">退出</a>
+						<a href="/logout.html" target="_top">退出</a>
 						<!-- 若用户不是有手机号登录 使用邮箱登录 -->
 						<?php elseif($_SESSION['user_info']['email']!= null ): ?>
 
@@ -49,13 +49,13 @@
 			</ul>
 			<ul class="message-r">
 				<div class="topMessage home">
-					<div class="menu-hd"><a href="/index.php/Home/Index/index" target="_top" class="h">商城首页</a></div>
+					<div class="menu-hd"><a href="/index.html" target="_top" class="h">商城首页</a></div>
 				</div>
 				<div class="topMessage my-shangcheng">
 					<div class="menu-hd MyShangcheng"><a href="#" target="_top"><i class="am-icon-user am-icon-fw"></i>个人中心</a></div>
 				</div>
 				<div class="topMessage mini-cart">
-					<div class="menu-hd"><a id="mc-menu-hd" href="/index.php/Home/Cart/cart" target="_top"><i class="am-icon-shopping-cart  am-icon-fw"></i><span>购物车</span><strong id="J_MiniCartNum" class="h">0</strong></a></div>
+					<div class="menu-hd"><a id="mc-menu-hd" href="/cart.html" target="_top"><i class="am-icon-shopping-cart  am-icon-fw"></i><span>购物车</span><strong id="J_MiniCartNum" class="h">0</strong></a></div>
 				</div>
 				<div class="topMessage favorite">
 					<div class="menu-hd"><a href="#" target="_top"><i class="am-icon-heart am-icon-fw"></i><span>收藏夹</span></a></div>
@@ -409,15 +409,15 @@
 					<div class="am-form-group">
 						<label for="user-phone" class="am-form-label">所在地</label>
 						<div class="am-form-content address">
-							<select data-am-selected>
+							<select id="province" data-am-selected>
 								<option value="a">浙江省</option>
 								<option value="b">湖北省</option>
 							</select>
-							<select data-am-selected>
+							<select id="city" data-am-selected>
 								<option value="a">温州市</option>
 								<option value="b">武汉市</option>
 							</select>
-							<select data-am-selected>
+							<select id="area" data-am-selected>
 								<option value="a">瑞安区</option>
 								<option value="b">洪山区</option>
 							</select>
@@ -434,13 +434,15 @@
 
 					<div class="am-form-group theme-poptit">
 						<div class="am-u-sm-9 am-u-sm-push-3">
-							<div class="am-btn am-btn-danger">保存</div>
+							<div id ="save" class="am-btn am-btn-danger">保存</div>
 							<div class="am-btn am-btn-danger close">取消</div>
 						</div>
 					</div>
 				</form>
 			</div>
 		</div>
+		<p><?php echo (session('cart_ids')); ?></p>
+
 	<!-- 隐藏表单 用来存放 生成订单数据 -->
 	<form action="/index.php/Home/Cart/createorder" id="order_form" method="post" style="display:none">
 		<input type="text" class="address_id" name="address_id" value=""></input>
@@ -448,11 +450,18 @@
 		<input type="text" class="pay_type" name="pay_type" value=""></input>
 		<input type="text" class="cart_ids" name="cart_ids" value="<?php echo ($_GET['cart_ids']); ?>"></input>
 	</form>
+	<!-- 隐藏表单 用来存放 生成地址 -->
+	<form action="/index.php/Home/Cart/addadress" id="addaddr_form" method="post" style="display:none">
+		<input type="text" class="consignee" name="consignee" value=""></input>
+		<input type="text" class="phone" name="phone" value=""></input>
+		<input type="text" class="address" name="address" value=""></input>
+		<input type="text" class="" name="cart_ids" value="<?php echo ($_GET['cart_ids']); ?>"></input>
+		<input type="text" class="user_id" name="user_id" value="<?php echo ($_SESSION['user_info']['id']); ?>"></input>
+	</form>
 <script type="text/javascript">
 	//给提交订单 a 标签 绑定一个onclick 事件
 	$(function(){
 		$('#J_Go').click(function(){
-			
 			// alert(1);
 			//收集表单缺少的数据
 			var address_id = $('.user-addresslist.defaultAddr').attr('address_id');
@@ -464,6 +473,21 @@
 			$('.pay_type').val(pay_type);
 			//提交表单
 			$('#order_form').submit();
+		});
+		
+	});
+	$(function(){
+		$('#save').click(function(){
+			//添加新地址 收集用户输入信息
+			var user_name 		= $('#user-name').val();
+			var user_phone 		= $('#user-phone').val();
+			var address 	    = $('#province').val() + $('#city').val() +$('#area').val()+$('#user-intro').val();
+			//把数据放入隐藏表单里
+			$('.consignee').val(user_name);
+			$('.phone').val(user_phone);
+			$('.address').val(address);
+			//提交表单
+			$('#addaddr_form').submit();
 		});
 	});
 </script>

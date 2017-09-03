@@ -1,0 +1,578 @@
+[ 2017-09-04T00:05:46+08:00 ] 127.0.0.1 /index.php/Home/Cart/ajaxgetnum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000667s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001036s ]
+SQL: SHOW COLUMNS FROM `tpshop_cart` [ RunTime:0.0018s ]
+SQL: SELECT * FROM `tpshop_cart` WHERE `user_id` = 8  [ RunTime:0.0003s ]
+
+[ 2017-09-04T00:06:06+08:00 ] 127.0.0.1 /index.php/Home/Cart/ajaxgetnum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000545s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001016s ]
+SQL: SHOW COLUMNS FROM `tpshop_cart` [ RunTime:0.0026s ]
+SQL: SELECT * FROM `tpshop_cart` WHERE `user_id` = 8  [ RunTime:0.0003s ]
+
+[ 2017-09-04T00:06:38+08:00 ] 127.0.0.1 /index.php/Home/Cart/ajaxgetnum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000740s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001260s ]
+SQL: SHOW COLUMNS FROM `tpshop_cart` [ RunTime:0.0017s ]
+SQL: SELECT * FROM `tpshop_cart` WHERE `user_id` = 8  [ RunTime:0.0004s ]
+
+[ 2017-09-04T00:06:39+08:00 ] 127.0.0.1 /index.php/Home/Cart/ajaxgetnum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000744s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001275s ]
+SQL: SHOW COLUMNS FROM `tpshop_cart` [ RunTime:0.0024s ]
+SQL: SELECT * FROM `tpshop_cart` WHERE `user_id` = 8  [ RunTime:0.0003s ]
+
+[ 2017-09-04T00:07:30+08:00 ] 127.0.0.1 /index.php/Home/Cart/ajaxgetnum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000780s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001347s ]
+SQL: SHOW COLUMNS FROM `tpshop_cart` [ RunTime:0.0015s ]
+SQL: SELECT * FROM `tpshop_cart` WHERE `user_id` = 8  [ RunTime:0.0002s ]
+
+[ 2017-09-04T00:12:40+08:00 ] 127.0.0.1 /index.php/Home/Cart/ajaxgetnum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000482s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000790s ]
+SQL: SHOW COLUMNS FROM `tpshop_cart` [ RunTime:0.0014s ]
+SQL: SELECT * FROM `tpshop_cart` WHERE `user_id` = 8  [ RunTime:0.0002s ]
+
+[ 2017-09-04T00:12:43+08:00 ] 127.0.0.1 /index.php/Home/Cart/ajaxgetnum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000747s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001138s ]
+SQL: SHOW COLUMNS FROM `tpshop_cart` [ RunTime:0.0017s ]
+SQL: SELECT * FROM `tpshop_cart` WHERE `user_id` = 8  [ RunTime:0.0003s ]
+
+[ 2017-09-04T00:13:32+08:00 ] 127.0.0.1 /index.php/Home/Cart/ajaxgetnum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000501s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000855s ]
+SQL: SHOW COLUMNS FROM `tpshop_cart` [ RunTime:0.0014s ]
+SQL: SELECT * FROM `tpshop_cart` WHERE `user_id` = 8  [ RunTime:0.0002s ]
+
+[ 2017-09-04T00:13:40+08:00 ] 127.0.0.1 /index.php/Home/Cart/ajaxgetnum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000890s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001548s ]
+SQL: SHOW COLUMNS FROM `tpshop_cart` [ RunTime:0.0014s ]
+SQL: SELECT * FROM `tpshop_cart` WHERE `user_id` = 8  [ RunTime:0.0002s ]
+
+[ 2017-09-04T00:16:24+08:00 ] 127.0.0.1 /index.php/Home/Cart/ajaxgetnum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000734s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001274s ]
+SQL: SHOW COLUMNS FROM `tpshop_cart` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `tpshop_cart` WHERE `user_id` = 8  [ RunTime:0.0009s ]
+
+[ 2017-09-04T00:22:07+08:00 ] 127.0.0.1 /index.php/Home/Cart/ajaxgetnum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000556s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000916s ]
+SQL: SHOW COLUMNS FROM `tpshop_cart` [ RunTime:0.0015s ]
+SQL: SELECT * FROM `tpshop_cart` WHERE `user_id` = 8  [ RunTime:0.0002s ]
+
+[ 2017-09-04T00:22:36+08:00 ] 127.0.0.1 /index.php/Home/Cart/flow2.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') )' at line 1
+ [ SQL语句 ] : SELECT t1.*,t2.goods_name,t2.goods_small_img,t2.goods_price FROM tpshop_cart t1 left join tpshop_goods t2 on t1.goods_id=t2.id  WHERE ( t1.id in () ) 
+
+[ 2017-09-04T00:22:52+08:00 ] 127.0.0.1 /index.php/Home/Cart/ajaxgetnum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000506s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000918s ]
+SQL: SHOW COLUMNS FROM `tpshop_cart` [ RunTime:0.0015s ]
+SQL: SELECT * FROM `tpshop_cart` WHERE `user_id` = 8  [ RunTime:0.0003s ]
+
+[ 2017-09-04T00:22:55+08:00 ] 127.0.0.1 /index.php/Home/Cart/ajaxgetnum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000498s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000863s ]
+SQL: SHOW COLUMNS FROM `tpshop_cart` [ RunTime:0.0016s ]
+SQL: SELECT * FROM `tpshop_cart` WHERE `user_id` = 8  [ RunTime:0.0003s ]
+
+[ 2017-09-04T00:22:57+08:00 ] 127.0.0.1 /index.php/Home/Cart/ajaxgetnum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000592s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001037s ]
+SQL: SHOW COLUMNS FROM `tpshop_cart` [ RunTime:0.0017s ]
+SQL: SELECT * FROM `tpshop_cart` WHERE `user_id` = 8  [ RunTime:0.0003s ]
+
+[ 2017-09-04T00:23:13+08:00 ] 127.0.0.1 /index.php/Home/Cart/ajaxgetnum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000704s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001296s ]
+SQL: SHOW COLUMNS FROM `tpshop_cart` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `tpshop_cart` WHERE `user_id` = 8  [ RunTime:0.0006s ]
+
+[ 2017-09-04T00:23:23+08:00 ] 127.0.0.1 /index.php/Home/Cart/ajaxgetnum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000754s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001379s ]
+SQL: SHOW COLUMNS FROM `tpshop_cart` [ RunTime:0.0014s ]
+SQL: SELECT * FROM `tpshop_cart` WHERE `user_id` = 8  [ RunTime:0.0002s ]
+
+[ 2017-09-04T00:23:24+08:00 ] 127.0.0.1 /index.php/Home/Cart/ajaxgetnum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000698s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001167s ]
+SQL: SHOW COLUMNS FROM `tpshop_cart` [ RunTime:0.0017s ]
+SQL: SELECT * FROM `tpshop_cart` WHERE `user_id` = 8  [ RunTime:0.0003s ]
+
+[ 2017-09-04T00:23:36+08:00 ] 127.0.0.1 /index.php/Home/Cart/ajaxgetnum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000475s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000809s ]
+SQL: SHOW COLUMNS FROM `tpshop_cart` [ RunTime:0.0021s ]
+SQL: SELECT * FROM `tpshop_cart` WHERE `user_id` = 8  [ RunTime:0.0004s ]
+
+[ 2017-09-04T00:23:39+08:00 ] 127.0.0.1 /index.php/Home/Cart/ajaxgetnum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000665s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001046s ]
+SQL: SHOW COLUMNS FROM `tpshop_cart` [ RunTime:0.0024s ]
+SQL: SELECT * FROM `tpshop_cart` WHERE `user_id` = 8  [ RunTime:0.0004s ]
+
+[ 2017-09-04T00:23:42+08:00 ] 127.0.0.1 /index.php/Home/Cart/ajaxgetnum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000447s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000721s ]
+SQL: SHOW COLUMNS FROM `tpshop_cart` [ RunTime:0.0015s ]
+SQL: SELECT * FROM `tpshop_cart` WHERE `user_id` = 8  [ RunTime:0.0003s ]
+
+[ 2017-09-04T00:23:43+08:00 ] 127.0.0.1 /index.php/Home/Cart/ajaxgetnum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000453s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000770s ]
+SQL: SHOW COLUMNS FROM `tpshop_cart` [ RunTime:0.0018s ]
+SQL: SELECT * FROM `tpshop_cart` WHERE `user_id` = 8  [ RunTime:0.0002s ]
+
+[ 2017-09-04T00:23:47+08:00 ] 127.0.0.1 /index.php/Home/Cart/ajaxgetnum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000697s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001185s ]
+SQL: SHOW COLUMNS FROM `tpshop_cart` [ RunTime:0.0019s ]
+SQL: SELECT * FROM `tpshop_cart` WHERE `user_id` = 8  [ RunTime:0.0002s ]
+
+[ 2017-09-04T00:24:04+08:00 ] 127.0.0.1 /index.php/Home/Cart/ajaxgetnum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000688s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001199s ]
+SQL: SHOW COLUMNS FROM `tpshop_cart` [ RunTime:0.0014s ]
+SQL: SELECT * FROM `tpshop_cart` WHERE `user_id` = 8  [ RunTime:0.0003s ]
+
+[ 2017-09-04T00:33:46+08:00 ] 127.0.0.1 /index.php/Home/Cart/ajaxgetnum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000474s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000801s ]
+SQL: SHOW COLUMNS FROM `tpshop_cart` [ RunTime:0.0015s ]
+SQL: SELECT * FROM `tpshop_cart` WHERE `user_id` = 8  [ RunTime:0.0002s ]
+
+[ 2017-09-04T00:33:58+08:00 ] 127.0.0.1 /index.php/Home/Cart/ajaxgetnum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000747s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001267s ]
+SQL: SHOW COLUMNS FROM `tpshop_cart` [ RunTime:0.0019s ]
+SQL: SELECT * FROM `tpshop_cart` WHERE `user_id` = 8  [ RunTime:0.0008s ]
+
+[ 2017-09-04T00:34:12+08:00 ] 127.0.0.1 /index.php/Home/Cart/ajaxgetnum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000739s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001320s ]
+SQL: SHOW COLUMNS FROM `tpshop_cart` [ RunTime:0.0019s ]
+SQL: SELECT * FROM `tpshop_cart` WHERE `user_id` = 8  [ RunTime:0.0004s ]
+
+[ 2017-09-04T00:34:28+08:00 ] 127.0.0.1 /index.php/Home/Cart/ajaxgetnum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000878s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001313s ]
+SQL: SHOW COLUMNS FROM `tpshop_cart` [ RunTime:0.0021s ]
+SQL: SELECT * FROM `tpshop_cart` WHERE `user_id` = 8  [ RunTime:0.0004s ]
+
+[ 2017-09-04T00:35:14+08:00 ] 127.0.0.1 /index.php/Home/Cart/ajaxgetnum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000492s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000841s ]
+SQL: SHOW COLUMNS FROM `tpshop_cart` [ RunTime:0.0021s ]
+SQL: SELECT * FROM `tpshop_cart` WHERE `user_id` = 8  [ RunTime:0.0003s ]
+
+[ 2017-09-04T00:35:22+08:00 ] 127.0.0.1 /index.php/Home/Cart/ajaxgetnum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000657s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001151s ]
+SQL: SHOW COLUMNS FROM `tpshop_cart` [ RunTime:0.0022s ]
+SQL: SELECT * FROM `tpshop_cart` WHERE `user_id` = 8  [ RunTime:0.0004s ]
+
+[ 2017-09-04T00:35:23+08:00 ] 127.0.0.1 /index.php/Home/Cart/ajaxgetnum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000593s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000962s ]
+SQL: SHOW COLUMNS FROM `tpshop_cart` [ RunTime:0.0018s ]
+SQL: SELECT * FROM `tpshop_cart` WHERE `user_id` = 8  [ RunTime:0.0003s ]
+
+[ 2017-09-04T00:36:25+08:00 ] 127.0.0.1 /index.php/Home/Cart/ajaxgetnum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000517s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000876s ]
+SQL: SHOW COLUMNS FROM `tpshop_cart` [ RunTime:0.0017s ]
+SQL: SELECT * FROM `tpshop_cart` WHERE `user_id` = 8  [ RunTime:0.0003s ]
+
+[ 2017-09-04T00:36:30+08:00 ] 127.0.0.1 /index.php/Home/Cart/flow2.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') )' at line 1
+ [ SQL语句 ] : SELECT t1.*,t2.goods_name,t2.goods_small_img,t2.goods_price FROM tpshop_cart t1 left join tpshop_goods t2 on t1.goods_id=t2.id  WHERE ( t1.id in () ) 
+
+[ 2017-09-04T00:36:42+08:00 ] 127.0.0.1 /index.php/Home/Cart/ajaxgetnum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000944s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001554s ]
+SQL: SHOW COLUMNS FROM `tpshop_cart` [ RunTime:0.0033s ]
+SQL: SELECT * FROM `tpshop_cart` WHERE `user_id` = 8  [ RunTime:0.0003s ]
+
+[ 2017-09-04T00:36:50+08:00 ] 127.0.0.1 /index.php/Home/Cart/flow2.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') )' at line 1
+ [ SQL语句 ] : SELECT t1.*,t2.goods_name,t2.goods_small_img,t2.goods_price FROM tpshop_cart t1 left join tpshop_goods t2 on t1.goods_id=t2.id  WHERE ( t1.id in () ) 
+
+[ 2017-09-04T00:36:51+08:00 ] 127.0.0.1 /index.php/Home/Cart/ajaxgetnum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000543s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001026s ]
+SQL: SHOW COLUMNS FROM `tpshop_cart` [ RunTime:0.0018s ]
+SQL: SELECT * FROM `tpshop_cart` WHERE `user_id` = 8  [ RunTime:0.0003s ]
+
+[ 2017-09-04T00:37:15+08:00 ] 127.0.0.1 /index.php/Home/Cart/ajaxgetnum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000630s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001221s ]
+SQL: SHOW COLUMNS FROM `tpshop_cart` [ RunTime:0.0025s ]
+SQL: SELECT * FROM `tpshop_cart` WHERE `user_id` = 8  [ RunTime:0.0003s ]
+
+[ 2017-09-04T00:37:25+08:00 ] 127.0.0.1 /index.php/Home/Cart/ajaxgetnum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000900s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001790s ]
+SQL: SHOW COLUMNS FROM `tpshop_cart` [ RunTime:0.0017s ]
+SQL: SELECT * FROM `tpshop_cart` WHERE `user_id` = 8  [ RunTime:0.0002s ]
+
+[ 2017-09-04T00:37:45+08:00 ] 127.0.0.1 /index.php/Home/Cart/ajaxgetnum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000726s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001253s ]
+SQL: SHOW COLUMNS FROM `tpshop_cart` [ RunTime:0.0014s ]
+SQL: SELECT * FROM `tpshop_cart` WHERE `user_id` = 8  [ RunTime:0.0003s ]
+
+[ 2017-09-04T00:38:48+08:00 ] 127.0.0.1 /index.php/Home/Cart/ajaxgetnum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000812s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001443s ]
+SQL: SHOW COLUMNS FROM `tpshop_cart` [ RunTime:0.0025s ]
+SQL: SELECT * FROM `tpshop_cart` WHERE `user_id` = 8  [ RunTime:0.0004s ]
+
+[ 2017-09-04T00:38:55+08:00 ] 127.0.0.1 /index.php/Home/Cart/flow2.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') )' at line 1
+ [ SQL语句 ] : SELECT t1.*,t2.goods_name,t2.goods_small_img,t2.goods_price FROM tpshop_cart t1 left join tpshop_goods t2 on t1.goods_id=t2.id  WHERE ( t1.id in () ) 
+
+[ 2017-09-04T00:39:00+08:00 ] 127.0.0.1 /index.php/Home/Cart/ajaxgetnum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000866s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001318s ]
+SQL: SHOW COLUMNS FROM `tpshop_cart` [ RunTime:0.0028s ]
+SQL: SELECT * FROM `tpshop_cart` WHERE `user_id` = 8  [ RunTime:0.0004s ]
+
+[ 2017-09-04T00:39:01+08:00 ] 127.0.0.1 /index.php/Home/Cart/ajaxgetnum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000659s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001093s ]
+SQL: SHOW COLUMNS FROM `tpshop_cart` [ RunTime:0.0017s ]
+SQL: SELECT * FROM `tpshop_cart` WHERE `user_id` = 8  [ RunTime:0.0003s ]
+
+[ 2017-09-04T00:39:02+08:00 ] 127.0.0.1 /index.php/Home/Cart/ajaxgetnum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000555s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000862s ]
+SQL: SHOW COLUMNS FROM `tpshop_cart` [ RunTime:0.0016s ]
+SQL: SELECT * FROM `tpshop_cart` WHERE `user_id` = 8  [ RunTime:0.0003s ]
+
+[ 2017-09-04T00:39:03+08:00 ] 127.0.0.1 /index.php/Home/Cart/ajaxgetnum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000623s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001052s ]
+SQL: SHOW COLUMNS FROM `tpshop_cart` [ RunTime:0.0014s ]
+SQL: SELECT * FROM `tpshop_cart` WHERE `user_id` = 8  [ RunTime:0.0002s ]
+
+[ 2017-09-04T00:39:09+08:00 ] 127.0.0.1 /index.php/Home/Cart/flow2.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') )' at line 1
+ [ SQL语句 ] : SELECT t1.*,t2.goods_name,t2.goods_small_img,t2.goods_price FROM tpshop_cart t1 left join tpshop_goods t2 on t1.goods_id=t2.id  WHERE ( t1.id in () ) 
+
+[ 2017-09-04T00:39:11+08:00 ] 127.0.0.1 /index.php/Home/Cart/ajaxgetnum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000542s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000873s ]
+SQL: SHOW COLUMNS FROM `tpshop_cart` [ RunTime:0.0015s ]
+SQL: SELECT * FROM `tpshop_cart` WHERE `user_id` = 8  [ RunTime:0.0003s ]
+
+[ 2017-09-04T00:40:01+08:00 ] 127.0.0.1 /index.php/Home/Cart/ajaxgetnum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000494s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000827s ]
+SQL: SHOW COLUMNS FROM `tpshop_cart` [ RunTime:0.0018s ]
+SQL: SELECT * FROM `tpshop_cart` WHERE `user_id` = 8  [ RunTime:0.0004s ]
+
+[ 2017-09-04T00:40:27+08:00 ] 127.0.0.1 /index.php/Home/Cart/ajaxgetnum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000489s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000811s ]
+SQL: SHOW COLUMNS FROM `tpshop_cart` [ RunTime:0.0021s ]
+SQL: SELECT * FROM `tpshop_cart` WHERE `user_id` = 8  [ RunTime:0.0003s ]
+
+[ 2017-09-04T00:41:31+08:00 ] 127.0.0.1 /index.php/Home/Cart/ajaxgetnum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000473s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000787s ]
+SQL: SHOW COLUMNS FROM `tpshop_cart` [ RunTime:0.0022s ]
+SQL: SELECT * FROM `tpshop_cart` WHERE `user_id` = 8  [ RunTime:0.0004s ]
+
+[ 2017-09-04T00:41:46+08:00 ] 127.0.0.1 /index.php/Home/Cart/ajaxgetnum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000768s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001300s ]
+SQL: SHOW COLUMNS FROM `tpshop_cart` [ RunTime:0.0017s ]
+SQL: SELECT * FROM `tpshop_cart` WHERE `user_id` = 8  [ RunTime:0.0003s ]
+
+[ 2017-09-04T00:41:56+08:00 ] 127.0.0.1 /index.php/Home/Cart/flow2.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') )' at line 1
+ [ SQL语句 ] : SELECT t1.*,t2.goods_name,t2.goods_small_img,t2.goods_price FROM tpshop_cart t1 left join tpshop_goods t2 on t1.goods_id=t2.id  WHERE ( t1.id in () ) 
+
+[ 2017-09-04T00:43:02+08:00 ] 127.0.0.1 /index.php/Home/Cart/flow2.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') )' at line 1
+ [ SQL语句 ] : SELECT t1.*,t2.goods_name,t2.goods_small_img,t2.goods_price FROM tpshop_cart t1 left join tpshop_goods t2 on t1.goods_id=t2.id  WHERE ( t1.id in () ) 
+
+[ 2017-09-04T00:43:04+08:00 ] 127.0.0.1 /index.php/Home/Cart/ajaxgetnum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000641s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001067s ]
+SQL: SHOW COLUMNS FROM `tpshop_cart` [ RunTime:0.0021s ]
+SQL: SELECT * FROM `tpshop_cart` WHERE `user_id` = 8  [ RunTime:0.0003s ]
+
+[ 2017-09-04T00:43:04+08:00 ] 127.0.0.1 /index.php/Home/Cart/ajaxgetnum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000641s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001048s ]
+SQL: SHOW COLUMNS FROM `tpshop_cart` [ RunTime:0.0019s ]
+SQL: SELECT * FROM `tpshop_cart` WHERE `user_id` = 8  [ RunTime:0.0003s ]
+
+[ 2017-09-04T00:43:14+08:00 ] 127.0.0.1 /index.php/Home/Cart/flow2.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') )' at line 1
+ [ SQL语句 ] : SELECT t1.*,t2.goods_name,t2.goods_small_img,t2.goods_price FROM tpshop_cart t1 left join tpshop_goods t2 on t1.goods_id=t2.id  WHERE ( t1.id in () ) 
+
+[ 2017-09-04T00:43:45+08:00 ] 127.0.0.1 /index.php/Home/Cart/flow2.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') )' at line 1
+ [ SQL语句 ] : SELECT t1.*,t2.goods_name,t2.goods_small_img,t2.goods_price FROM tpshop_cart t1 left join tpshop_goods t2 on t1.goods_id=t2.id  WHERE ( t1.id in () ) 
+
+[ 2017-09-04T00:44:02+08:00 ] 127.0.0.1 /index.php/Home/Cart/ajaxgetnum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000904s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001476s ]
+SQL: SHOW COLUMNS FROM `tpshop_cart` [ RunTime:0.0018s ]
+SQL: SELECT * FROM `tpshop_cart` WHERE `user_id` = 8  [ RunTime:0.0004s ]
+
+[ 2017-09-04T00:44:04+08:00 ] 127.0.0.1 /index.php/Home/Cart/ajaxgetnum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000507s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000963s ]
+SQL: SHOW COLUMNS FROM `tpshop_cart` [ RunTime:0.0018s ]
+SQL: SELECT * FROM `tpshop_cart` WHERE `user_id` = 8  [ RunTime:0.0004s ]
+
+[ 2017-09-04T00:44:05+08:00 ] 127.0.0.1 /index.php/Home/Cart/ajaxgetnum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000480s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000796s ]
+SQL: SHOW COLUMNS FROM `tpshop_cart` [ RunTime:0.0016s ]
+SQL: SELECT * FROM `tpshop_cart` WHERE `user_id` = 8  [ RunTime:0.0003s ]
+
+[ 2017-09-04T00:46:36+08:00 ] 127.0.0.1 /index.php/Home/Cart/ajaxgetnum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000805s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001282s ]
+SQL: SHOW COLUMNS FROM `tpshop_cart` [ RunTime:0.0018s ]
+SQL: SELECT * FROM `tpshop_cart` WHERE `user_id` = 8  [ RunTime:0.0003s ]
+
+[ 2017-09-04T00:46:49+08:00 ] 127.0.0.1 /index.php/Home/Cart/flow2.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') )' at line 1
+ [ SQL语句 ] : SELECT t1.*,t2.goods_name,t2.goods_small_img,t2.goods_price FROM tpshop_cart t1 left join tpshop_goods t2 on t1.goods_id=t2.id  WHERE ( t1.id in () ) 
+
+[ 2017-09-04T00:47:13+08:00 ] 127.0.0.1 /index.php/Home/Cart/ajaxgetnum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000818s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001382s ]
+SQL: SHOW COLUMNS FROM `tpshop_cart` [ RunTime:0.0015s ]
+SQL: SELECT * FROM `tpshop_cart` WHERE `user_id` = 8  [ RunTime:0.0003s ]
+
+[ 2017-09-04T00:50:37+08:00 ] 127.0.0.1 /index.php/Home/Cart/ajaxgetnum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001085s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001759s ]
+SQL: SHOW COLUMNS FROM `tpshop_cart` [ RunTime:0.0014s ]
+SQL: SELECT * FROM `tpshop_cart` WHERE `user_id` = 8  [ RunTime:0.0004s ]
+
+[ 2017-09-04T00:50:46+08:00 ] 127.0.0.1 /index.php/Home/Cart/flow2/cart_id.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') )' at line 1
+ [ SQL语句 ] : SELECT t1.*,t2.goods_name,t2.goods_small_img,t2.goods_price FROM tpshop_cart t1 left join tpshop_goods t2 on t1.goods_id=t2.id  WHERE ( t1.id in () ) 
+
+[ 2017-09-04T00:51:07+08:00 ] 127.0.0.1 /index.php/Home/Cart/flow2/cart_id.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') )' at line 1
+ [ SQL语句 ] : SELECT t1.*,t2.goods_name,t2.goods_small_img,t2.goods_price FROM tpshop_cart t1 left join tpshop_goods t2 on t1.goods_id=t2.id  WHERE ( t1.id in () ) 
+
+[ 2017-09-04T00:51:12+08:00 ] 127.0.0.1 /index.php/Home/Cart/flow2/cart_id.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') )' at line 1
+ [ SQL语句 ] : SELECT t1.*,t2.goods_name,t2.goods_small_img,t2.goods_price FROM tpshop_cart t1 left join tpshop_goods t2 on t1.goods_id=t2.id  WHERE ( t1.id in () ) 
+
+[ 2017-09-04T00:51:14+08:00 ] 127.0.0.1 /index.php/Home/Cart/ajaxgetnum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000491s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000857s ]
+SQL: SHOW COLUMNS FROM `tpshop_cart` [ RunTime:0.0019s ]
+SQL: SELECT * FROM `tpshop_cart` WHERE `user_id` = 8  [ RunTime:0.0003s ]
+
+[ 2017-09-04T00:51:17+08:00 ] 127.0.0.1 /index.php/Home/Cart/ajaxgetnum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000456s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000750s ]
+SQL: SHOW COLUMNS FROM `tpshop_cart` [ RunTime:0.0019s ]
+SQL: SELECT * FROM `tpshop_cart` WHERE `user_id` = 8  [ RunTime:0.0003s ]
+
+[ 2017-09-04T00:52:16+08:00 ] 127.0.0.1 /index.php/Home/Cart/ajaxgetnum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000650s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000994s ]
+SQL: SHOW COLUMNS FROM `tpshop_cart` [ RunTime:0.0017s ]
+SQL: SELECT * FROM `tpshop_cart` WHERE `user_id` = 8  [ RunTime:0.0002s ]
+
+[ 2017-09-04T00:52:58+08:00 ] 127.0.0.1 /index.php/Home/Cart/ajaxgetnum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000697s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001090s ]
+SQL: SHOW COLUMNS FROM `tpshop_cart` [ RunTime:0.0024s ]
+SQL: SELECT * FROM `tpshop_cart` WHERE `user_id` = 8  [ RunTime:0.0004s ]
+
+[ 2017-09-04T00:52:59+08:00 ] 127.0.0.1 /index.php/Home/Cart/ajaxgetnum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000779s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001308s ]
+SQL: SHOW COLUMNS FROM `tpshop_cart` [ RunTime:0.0025s ]
+SQL: SELECT * FROM `tpshop_cart` WHERE `user_id` = 8  [ RunTime:0.0003s ]
+
+[ 2017-09-04T00:53:15+08:00 ] 127.0.0.1 /index.php/Home/Cart/ajaxgetnum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000702s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001107s ]
+SQL: SHOW COLUMNS FROM `tpshop_cart` [ RunTime:0.0015s ]
+SQL: SELECT * FROM `tpshop_cart` WHERE `user_id` = 8  [ RunTime:0.0003s ]
+
+[ 2017-09-04T00:53:26+08:00 ] 127.0.0.1 /index.php/Home/Cart/ajaxgetnum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000710s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001204s ]
+SQL: SHOW COLUMNS FROM `tpshop_cart` [ RunTime:0.0022s ]
+SQL: SELECT * FROM `tpshop_cart` WHERE `user_id` = 8  [ RunTime:0.0003s ]
+
+[ 2017-09-04T00:53:38+08:00 ] 127.0.0.1 /index.php/Home/Cart/ajaxgetnum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000673s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001107s ]
+SQL: SHOW COLUMNS FROM `tpshop_cart` [ RunTime:0.0014s ]
+SQL: SELECT * FROM `tpshop_cart` WHERE `user_id` = 8  [ RunTime:0.0003s ]
+
+[ 2017-09-04T00:54:34+08:00 ] 127.0.0.1 /index.php/Home/Cart/ajaxgetnum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000476s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000841s ]
+SQL: SHOW COLUMNS FROM `tpshop_cart` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `tpshop_cart` WHERE `user_id` = 8  [ RunTime:0.0003s ]
+
+[ 2017-09-04T00:57:10+08:00 ] 127.0.0.1 /index.php/Home/Cart/ajaxgetnum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000994s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001587s ]
+SQL: SHOW COLUMNS FROM `tpshop_cart` [ RunTime:0.0018s ]
+SQL: SELECT * FROM `tpshop_cart` WHERE `user_id` = 8  [ RunTime:0.0003s ]
+
+[ 2017-09-04T00:57:11+08:00 ] 127.0.0.1 /index.php/Home/Cart/ajaxgetnum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000817s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001456s ]
+SQL: SHOW COLUMNS FROM `tpshop_cart` [ RunTime:0.0016s ]
+SQL: SELECT * FROM `tpshop_cart` WHERE `user_id` = 8  [ RunTime:0.0006s ]
+
+[ 2017-09-04T00:58:02+08:00 ] 127.0.0.1 /index.php/Home/Cart/ajaxgetnum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000634s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001037s ]
+SQL: SHOW COLUMNS FROM `tpshop_cart` [ RunTime:0.0015s ]
+SQL: SELECT * FROM `tpshop_cart` WHERE `user_id` = 8  [ RunTime:0.0002s ]
+
+[ 2017-09-04T00:58:03+08:00 ] 127.0.0.1 /index.php/Home/Cart/ajaxgetnum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000526s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000910s ]
+SQL: SHOW COLUMNS FROM `tpshop_cart` [ RunTime:0.0021s ]
+SQL: SELECT * FROM `tpshop_cart` WHERE `user_id` = 8  [ RunTime:0.0003s ]
+
+[ 2017-09-04T01:01:15+08:00 ] 127.0.0.1 /index.php/Home/Cart/flow2/cart_ids.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') )' at line 1
+ [ SQL语句 ] : SELECT t1.*,t2.goods_name,t2.goods_small_img,t2.goods_price FROM tpshop_cart t1 left join tpshop_goods t2 on t1.goods_id=t2.id  WHERE ( t1.id in () ) 
+
+[ 2017-09-04T01:02:31+08:00 ] 127.0.0.1 /index.php/Home/Cart/flow2/cart_ids.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') )' at line 1
+ [ SQL语句 ] : SELECT t1.*,t2.goods_name,t2.goods_small_img,t2.goods_price FROM tpshop_cart t1 left join tpshop_goods t2 on t1.goods_id=t2.id  WHERE ( t1.id in () ) 
+
+[ 2017-09-04T01:02:35+08:00 ] 127.0.0.1 /index.php/Home/Cart/ajaxgetnum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000638s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001077s ]
+SQL: SHOW COLUMNS FROM `tpshop_cart` [ RunTime:0.0018s ]
+SQL: SELECT * FROM `tpshop_cart` WHERE `user_id` = 8  [ RunTime:0.0003s ]
+
+[ 2017-09-04T01:02:37+08:00 ] 127.0.0.1 /index.php/Home/Cart/ajaxgetnum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000648s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001074s ]
+SQL: SHOW COLUMNS FROM `tpshop_cart` [ RunTime:0.0018s ]
+SQL: SELECT * FROM `tpshop_cart` WHERE `user_id` = 8  [ RunTime:0.0003s ]
+
+[ 2017-09-04T01:02:43+08:00 ] 127.0.0.1 /index.php/Home/Cart/ajaxgetnum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000677s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001064s ]
+SQL: SHOW COLUMNS FROM `tpshop_cart` [ RunTime:0.0018s ]
+SQL: SELECT * FROM `tpshop_cart` WHERE `user_id` = 8  [ RunTime:0.0002s ]
+
+[ 2017-09-04T01:03:00+08:00 ] 127.0.0.1 /index.php/Home/Cart/ajaxgetnum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000463s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000781s ]
+SQL: SHOW COLUMNS FROM `tpshop_cart` [ RunTime:0.0017s ]
+SQL: SELECT * FROM `tpshop_cart` WHERE `user_id` = 8  [ RunTime:0.0003s ]
+
+[ 2017-09-04T01:05:04+08:00 ] 127.0.0.1 /index.php/Home/Cart/ajaxgetnum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000483s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000829s ]
+SQL: SHOW COLUMNS FROM `tpshop_cart` [ RunTime:0.0019s ]
+SQL: SELECT * FROM `tpshop_cart` WHERE `user_id` = 8  [ RunTime:0.0003s ]
+
+[ 2017-09-04T01:07:28+08:00 ] 127.0.0.1 /index.php/Home/Cart/ajaxgetnum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000464s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000815s ]
+SQL: SHOW COLUMNS FROM `tpshop_cart` [ RunTime:0.0023s ]
+SQL: SELECT * FROM `tpshop_cart` WHERE `user_id` = 8  [ RunTime:0.0003s ]
+
+[ 2017-09-04T01:07:50+08:00 ] 127.0.0.1 /index.php/Home/Cart/ajaxgetnum
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000480s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000786s ]
+SQL: SHOW COLUMNS FROM `tpshop_cart` [ RunTime:0.0017s ]
+SQL: SELECT * FROM `tpshop_cart` WHERE `user_id` = 8  [ RunTime:0.0003s ]
+

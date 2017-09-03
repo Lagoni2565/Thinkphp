@@ -390,7 +390,7 @@
 		$('#J_Go').click(function(){ 
 		
 			// 通过checkbox 获取所有选中的行 
-			var checked_checkbox=$('.row_check:checked');
+			var checked_checkbox = $('.row_check:checked');
 			if (checked_checkbox.length == 0) {
 				alert('请先选中要结算的商品');
 				return false;
