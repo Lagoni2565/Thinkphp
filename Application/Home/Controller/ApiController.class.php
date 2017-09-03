@@ -25,7 +25,7 @@ class ApiController extends Controller
 		$code = rand(1000,9999);
 		$str = "注册";
 		//模板内容
-		$content = "【传智播客】您用于{$str}的验证码为{$code}，如非本人操作，请忽略本短信";
+		$content = "【xxshop】您用于{$str}的验证码为{$code}，如非本人操作，请忽略本短信";
 		//app key 
 		$key = "56094ca4632daa86455f007d61e3b113"; 
 		//拼接 请求地址
